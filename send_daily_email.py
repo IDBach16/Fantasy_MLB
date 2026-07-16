@@ -55,6 +55,18 @@ def _strip_fences(s):
     return re.sub(r"^```html\s*|\s*```$", "", s.strip())
 
 
+# Big tappable button at the top of every email -> the deployed dashboard.
+DASH_URL = os.environ.get("DASHBOARD_URL", "https://idbach16-fantasy-mlb.streamlit.app").strip()
+DASH_BTN = (
+    '<div style="text-align:center;margin:0 0 16px;font-family:Arial,sans-serif;">'
+    f'<a href="{DASH_URL}" '
+    'style="display:inline-block;background:#0fb6cc;color:#04222a;font-weight:bold;'
+    'font-size:14px;text-decoration:none;padding:12px 26px;border-radius:8px;">'
+    '&#9918; Open the Command Center dashboard</a>'
+    '<div style="font-size:11px;color:#8a98ac;margin-top:6px;">'
+    'live standings math &middot; trends &middot; trade finder &middot; AI analyst '
+    '&middot; password: 42069</div></div>')
+
 # If the scheduled refresh silently stopped running, flag it loudly instead of
 # presenting old caches as current.
 stale = []
@@ -83,6 +95,7 @@ except Exception as e:
             f"<p>Fix the error and re-run send_daily_email.py.</p>")
     print(f"⚠ generate() failed: {type(e).__name__}: {e}")
 
+html = _insert_after_body(html, DASH_BTN)
 if stale:
     flag = flag or "⚠ STALE DATA — "
     html = _insert_after_body(html, stale_banner)
@@ -134,7 +147,7 @@ if gm_to and gm_due():
     if data is not None:
         print("Generating GM Front Office Report (Mr. Corey Arnold)...")
         try:
-            gm_html = _strip_fences(DE.generate_gm(data))
+            gm_html = _insert_after_body(_strip_fences(DE.generate_gm(data)), DASH_BTN)
         except Exception as e:
             print(f"⚠ GM generation failed ({type(e).__name__}: {e}) — "
                   "using the standard report with a GM cover note instead.")
