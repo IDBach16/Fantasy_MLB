@@ -1,0 +1,23 @@
+"""Run the Claude keeper/salary agent (Ottoneu) and save the report.
+  python find_keepers.py
+"""
+import os
+import sys
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from agents import keeper as K
+
+print("Analyzing Ottoneu keeper/salary decisions with Claude...\n")
+report = K.analyze()
+
+out_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "reports")
+os.makedirs(out_dir, exist_ok=True)
+path = os.path.join(out_dir, "keeper_salary_ottoneu.md")
+with open(path, "w", encoding="utf-8") as f:
+    f.write(report)
+print(report)
+print(f"\n\nSaved -> {path}")

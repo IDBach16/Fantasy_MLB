@@ -1,0 +1,113 @@
+platform,league_name,team_name,player,positions,mlb_team,salary,fg_id,mlbam,is_pitcher
+ottoneu,Chasing Taters,Bauers Fight Club,Hunter Greene,SP,CIN,32.0,22182.0,668881.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Cole Ragans,SP,KCR,22.0,21846.0,666142.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Edwin Diaz,RP,LAD,22.0,14710.0,621242.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Nick Lodolo,SP,CIN,19.0,26378.0,666157.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Kerry Carpenter,OF,DET,17.0,25961.0,681481.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Logan Webb,SP,SFG,15.0,17995.0,657277.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Gerrit Cole,SP,NYY,13.0,13125.0,543037.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Bryan Abreu,RP,HOU,11.0,16609.0,650556.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Brice Turang,2B,MIL,8.0,22186.0,668930.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Matt Chapman,3B,SFG,7.0,16505.0,656305.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Casey Mize,SP,DET,7.0,20492.0,663554.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Jeremiah Estrada,RP,SDP,7.0,22210.0,669093.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Geraldo Perdomo,SS,ARI,6.0,22799.0,672695.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Spencer Steer,1B/2B/OF,CIN,5.0,26323.0,668715.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Reid Detmers,SP/RP,LAA,5.0,27468.0,672282.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Wilyer Abreu,OF,BOS,4.0,23772.0,677800.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Andres Gimenez,2B/SS,TOR,4.0,19950.0,665926.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Parker Messick,SP,CLE,3.0,31986.0,800048.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Noelvi Marte,3B/OF,CIN,3.0,26517.0,682622.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Ildemaro Vargas,1B/2B/3B,ARI,3.0,13324.0,545121.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Dillon Dingler,C,DET,3.0,27464.0,693307.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Otto Lopez,2B/SS,MIA,3.0,19608.0,672640.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Jakob Junis,RP,TEX,3.0,13619.0,596001.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Hagen Smith,SP,CHW AAA,3.0,,,True
+ottoneu,Chasing Taters,Bauers Fight Club,Trent Grisham,OF,NYY,3.0,18564.0,663757.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Luke Weaver,RP,NYM,2.0,16918.0,596133.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Paul Sewald,RP,ARI,2.0,13892.0,623149.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Trevor Larnach,OF,MIN,2.0,21501.0,663616.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Orion Kerkering,RP,PHI,1.0,31776.0,689147.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Caden Hunter,SP,BAL A+,1.0,,,True
+ottoneu,Chasing Taters,Bauers Fight Club,Andrew Fischer,3B,MIL AA,1.0,,,False
+ottoneu,Chasing Taters,Bauers Fight Club,Dakota Jordan,OF,SFG A+,1.0,,,False
+ottoneu,Chasing Taters,Bauers Fight Club,George Lombard Jr.,SS,NYY CPX,1.0,,136601.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Devin Taylor,OF,ATH AA,1.0,,,False
+ottoneu,Chasing Taters,Bauers Fight Club,Dominic Canzone,OF,SEA,1.0,26438.0,686527.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Troy Johnston,1B/OF,COL,1.0,26143.0,687859.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Romy Gonzalez,1B/2B,BOS,1.0,21562.0,663853.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Clay Holmes,SP,NYM,1.0,13649.0,605280.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Antonio Senzatela,SP/RP,COL,1.0,15488.0,622608.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Paul Goldschmidt,1B,NYY,1.0,9218.0,502671.0,False
+ottoneu,Chasing Taters,Bauers Fight Club,Gabe Speier,RP,SEA,1.0,17170.0,642100.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Nick Martinez,SP/RP,TBR,1.0,12730.0,607259.0,True
+ottoneu,Chasing Taters,Bauers Fight Club,Eduardo Rodriguez,SP,ARI,1.0,13164.0,593958.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Kyle Schwarber,DH,Phi,,,656941.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Elly De La Cruz,SS,Cin,,,682829.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Pete Alonso,1B,Bal,,,624413.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,James Wood,LF,Wsh,,,695578.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Alex Bregman,3B,ChC,,,608324.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Jesus Luzardo,SP,Phi,,,666200.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Aroldis Chapman,RP,Bos,,,547973.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,David Bednar,RP,NYY,,,670280.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Teoscar Hernandez,RF,LAD,,,606192.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Chase Burns,SP,Cin,,,695505.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Brandon Lowe,2B,Pit,,,664040.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Cam Schlittler,SP,NYY,,,693645.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Dillon Dingler,C,Det,,,693307.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Jordan Walker,RF,StL,,,691023.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Riley O'Brien,RP,StL,,,676617.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Ian Happ,LF,ChC,,,664023.0,False
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Drew Rasmussen,SP,TB,,,656876.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Reid Detmers,RP,LAA,,,672282.0,True
+espn,Moeller Analytics Minons,Whiff Rate Wreckers,Bryan Baker,RP,TB,,,641329.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Dillon Dingler,C,DET,,,693307.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Logan O'Hoppe,C,LAA,,,681351.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Tyler Soderstrom,"1B,OF",ATH,,,691016.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Brandon Lowe,2B,PIT,,,664040.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Max Muncy,3B,LAD,,,571970.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Willy Adames,SS,SF,,,642715.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Nick Gonzales,"2B,3B",PIT,,,693304.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Kody Clemens,"1B,2B,OF",MIN,,,665019.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Kerry Carpenter,OF,DET,,,681481.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Teoscar Hernandez,OF,LAD,,,606192.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Juan Soto,OF,NYM,,,665742.0,False
+fantrax,TJStats Patreon League - One,IDBach16,James Wood,OF,WSH,,,695578.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Trevor Larnach,"OF,UT",MIN,,,663616.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Byron Buxton,OF,MIN,,,621439.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Alfredo Duno,C,CIN,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Carlos Santana,1B,ATL,,,467793.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Andrew Vaughn,1B,MIL,,,683734.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Lenyn Sosa,"1B,2B",TOR,,,672820.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Miguel Andujar,"3B,OF",SD,,,609280.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Ryan McMahon,3B,NYY,,,641857.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Zack Short,"3B,SS",NYM,,,670097.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Franklin Arias,SS,BOS,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Caleb Bonemer,"3B,SS",CHW,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Keoni Cavaco,SS,(N/A),,,,False
+fantrax,TJStats Patreon League - One,IDBach16,John Gil,SS,ATL,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Arjun Nimmala,SS,TOR,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,JoJo Parker,SS,TOR,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Carson Williams,SS,TB,,,700246.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Edward Florentino,OF,PIT,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Spencer Jones,OF,NYY,,,682987.0,False
+fantrax,TJStats Patreon League - One,IDBach16,Eduardo Quintero,OF,LAD,,,,False
+fantrax,TJStats Patreon League - One,IDBach16,Hunter Brown,SP,HOU,,,686613.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Jared Jones,SP,PIT,,,683003.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Nick Martinez,SP,TB,,,607259.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Casey Mize,SP,DET,,,663554.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Clayton Beeter,RP,WSH,,,690925.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Joey Cantillo,RP,CLE,,,676282.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Raisel Iglesias,RP,ATL,,,628452.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Trevor Megill,RP,MIL,,,656730.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Gabe Speier,RP,SEA,,,642100.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Zack Greinke,SP,(N/A),,,425844.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Zack Littell,SP,WSH,,,641793.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Jesus Luzardo,SP,PHI,,,666200.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Chris Paddack,SP,(N/A),,,663978.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Colin Rea,SP,CHC,,,607067.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Ranger Suarez,SP,BOS,,,624133.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Craig Yoho,SP,MIL,,,684974.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Robert Garcia,RP,TEX,,,676395.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Seth Halvorsen,RP,COL,,,678020.0,True
+fantrax,TJStats Patreon League - One,IDBach16,Brendon Little,RP,TOR,,,663893.0,True

@@ -1,0 +1,106 @@
+FANTASY MLB — CROSS-LEAGUE ROSTER ANALYSIS (2026 Statcast)
+
+======================================================================
+  Chasing Taters  (Bauers Fight Club)
+======================================================================
+
+  HITTERS — by true talent (xwOBA)   [19 with MLB data]
+  Player                   PA   wOBA  xwOBA    gap
+  Dillon Dingler          324  0.366  0.388 -0.022
+  Dominic Canzone         219  0.384  0.386 -0.002
+  Elly De La Cruz         285  0.357  0.361 -0.004
+  Trent Grisham           264  0.332  0.360 -0.028
+  Brice Turang            354  0.356  0.347  0.009
+  Spencer Steer           316  0.323  0.341 -0.018
+  Wilyer Abreu            349  0.336  0.339 -0.003
+  J.P. Crawford           287  0.317  0.336 -0.019
+  Geraldo Perdomo         341  0.328  0.335 -0.007
+  Paul Goldschmidt        229  0.380  0.333  0.047
+  Dominic Smith           198  0.321  0.329 -0.008
+  Kerry Carpenter         197  0.345  0.315  0.030
+
+  PITCHERS — by xwOBA-against (lower=better)   [19]
+  Player                  TBF   wOBA  xwOBA    gap
+  Luke Weaver             135  0.211  0.261 -0.050
+  Casey Mize              253  0.261  0.263 -0.002
+  Orion Kerkering         142  0.291  0.268  0.023
+  Reid Detmers            406  0.265  0.273 -0.008
+  Antonio Senzatela       178  0.282  0.289 -0.007
+  Gerrit Cole             160  0.325  0.292  0.033
+  Jeremiah Estrada         82  0.267  0.295 -0.028
+  Logan Webb              361  0.268  0.296 -0.028
+  Gabe Speier              88  0.292  0.299 -0.007
+  Jakob Junis             143  0.258  0.303 -0.045
+
+  📉 SELL-HIGH (hitting over their xwOBA): Paul Goldschmidt (+0.047), Kerry Carpenter (+0.030)
+
+  🌱 Prospects / no-MLB-data (2): Hagen Smith, Andrew Fischer  → Prospect Savant (next phase)
+
+======================================================================
+  Moeller Analytics Minons  (Whiff Rate Wreckers)
+======================================================================
+
+  HITTERS — by true talent (xwOBA)   [11 with MLB data]
+  Player                   PA   wOBA  xwOBA    gap
+  James Wood              400  0.382  0.416 -0.034
+  Dillon Dingler          324  0.366  0.388 -0.022
+  Kyle Schwarber          361  0.404  0.388  0.016
+  Pete Alonso             372  0.351  0.377 -0.026
+  Elly De La Cruz         285  0.357  0.361 -0.004
+  Jordan Walker           338  0.370  0.359  0.011
+  Brandon Lowe            351  0.348  0.344  0.004
+  Teoscar Hernandez       209  0.344  0.337  0.007
+  Ian Happ                354  0.340  0.326  0.014
+  Alex Bregman            380  0.307  0.315 -0.008
+  Zach Neto               375  0.340  0.314  0.026
+
+  PITCHERS — by xwOBA-against (lower=better)   [8]
+  Player                  TBF   wOBA  xwOBA    gap
+  Aroldis Chapman         106  0.270  0.256  0.014
+  Cam Schlittler          394  0.241  0.259 -0.018
+  David Bednar            148  0.281  0.267  0.014
+  Chase Burns             367  0.278  0.270  0.008
+  Drew Rasmussen          356  0.238  0.271 -0.033
+  Reid Detmers            406  0.265  0.273 -0.008
+  Jesus Luzardo           414  0.310  0.281  0.029
+  Riley O'Brien           146  0.287  0.323 -0.036
+
+  📈 BUY-LOW (hitting under their xwOBA): James Wood (-0.034)
+
+======================================================================
+  TJStats Patreon League - One  (IDBach16)
+======================================================================
+
+  HITTERS — by true talent (xwOBA)   [22 with MLB data]
+  Player                   PA   wOBA  xwOBA    gap
+  Juan Soto               281  0.413  0.427 -0.014
+  James Wood              400  0.382  0.416 -0.034
+  Dillon Dingler          324  0.366  0.388 -0.022
+  Max Muncy               299  0.378  0.371  0.007
+  Andrew Vaughn           144  0.410  0.358  0.052
+  Byron Buxton            329  0.382  0.351  0.031
+  Brandon Lowe            351  0.348  0.344  0.004
+  Kody Clemens            283  0.333  0.339 -0.006
+  Tyler Soderstrom        335  0.348  0.337  0.011
+  Teoscar Hernandez       209  0.344  0.337  0.007
+  Trevor Larnach          253  0.359  0.332  0.027
+  Nick Gonzales           319  0.324  0.324  0.000
+
+  PITCHERS — by xwOBA-against (lower=better)   [18]
+  Player                  TBF   wOBA  xwOBA    gap
+  Trevor Megill           129  0.224  0.232 -0.008
+  Raisel Iglesias         102  0.263  0.250  0.013
+  Hunter Brown            106  0.272  0.257  0.015
+  Casey Mize              253  0.261  0.263 -0.002
+  Jesus Luzardo           414  0.310  0.281  0.029
+  Ranger Suarez           361  0.273  0.283 -0.010
+  Craig Yoho               26  0.370  0.292  0.078
+  Clayton Beeter          109  0.273  0.294 -0.021
+  Gabe Speier              88  0.292  0.299 -0.007
+  Joey Cantillo           360  0.327  0.315  0.012
+
+  📉 SELL-HIGH (hitting over their xwOBA): Spencer Jones (+0.057), Andrew Vaughn (+0.052), Byron Buxton (+0.031), Kerry Carpenter (+0.030)
+
+  📈 BUY-LOW (hitting under their xwOBA): Lenyn Sosa (-0.035), James Wood (-0.034)
+
+  🌱 Prospects / no-MLB-data (9): Alfredo Duno, Franklin Arias, Caleb Bonemer, Keoni Cavaco, John Gil, Arjun Nimmala, JoJo Parker, Edward Florentino, Eduardo Quintero  → Prospect Savant (next phase)

@@ -1,0 +1,68 @@
+# ============================================================
+#  TEAM 2 — ESPN  (ACCESS VERIFIED + RULES AUTO-DETECTED 2026-06-30)
+# ============================================================
+id: espn-255806481
+platform: espn
+league_name: Moeller Analytics Minons
+team_name: Whiff Rate Wreckers
+league_id: 255806481
+team_id: 1
+season: 2026
+
+# CAPABILITIES (per Ian): redraft, MLB only — NO keepers, NO minor leaguers; waivers + trades on.
+capabilities: {keeper: false, transactions: true, prospects: false, trades: true, lineup: true}
+
+league_meta:
+  num_teams: 9
+  faab: false
+  acquisition_budget: 100
+  veto_votes_required: 5
+  trade_deadline_epoch_ms: 1786723200000   # ~Aug 2026
+
+scoring:
+  format: ROTO (categories)
+  # Auto-detected from ESPN scoring settings — CONFIRM these are the scored cats
+  # (the raw list can include component stats):
+  categories_detected: [HR, XBH, FPCT, TB, SLG, E, OPS, "K/BB", RC, W, ERA, SV,
+                        "SV%", HLD, H, AVG, P_H, WHIP, K, ER, "K/9", P_R, OOBP,
+                        R, RBI, SB, "SB-CS"]
+  notes: Deep roto, 9 teams. Confirm exact scored categories.
+
+roster:
+  size:                    # TODO — detect lineup slot counts
+  positions:               # TODO — detect from roster settings
+  bench_slots:
+  IL_slots:
+  positional_eligibility: ESPN standard (20 games / 10 starts)
+
+salary:
+  cap:                     # n/a (drafted league, not salary-cap)
+  rules: n/a
+
+keeper:
+  enabled: false           # keeper_count = 0 -> REDRAFT league
+  rules: redraft (no keepers)
+
+dynasty:
+  enabled: false
+
+transactions:
+  waiver_rules: "non-FAAB waivers (faab=false); confirm rolling vs weekly"
+  trade_rules: "trade deadline ~Aug 2026; 5 veto votes required"
+  add_drop_rules: "acquisition budget 100 (move limit)"
+  lineup_lock: "per-game (ESPN default) — confirm daily vs weekly"
+
+prospects:
+  minor_league_rules: n/a (redraft)
+  prospect_roster_rules: n/a
+
+access:
+  method: espn_api          # espn-api library + private-league cookies
+  credentials_env: [ESPN_S2, ESPN_SWID]   # ✅ captured + saved in .env (values never shown)
+  data: "connectors/espn.py -> get_league(255806481, 2026)"
+  available_player_pool_access: "espn-api free_agents() — available"
+
+automation:
+  refresh_frequency: 3x/day
+  daily_email: true
+  auto_actions_allowed: []   # recommend-only

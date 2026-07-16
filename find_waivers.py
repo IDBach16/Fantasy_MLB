@@ -1,0 +1,23 @@
+"""Run the Claude waiver/add-drop agent across leagues and save the report.
+  python find_waivers.py
+"""
+import os
+import sys
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from agents import waiver as W
+
+print("Analyzing waiver wire (ESPN + Ottoneu) with Claude...\n")
+report = W.run()
+
+out_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "reports")
+os.makedirs(out_dir, exist_ok=True)
+path = os.path.join(out_dir, "waiver_add_drop.md")
+with open(path, "w", encoding="utf-8") as f:
+    f.write(report)
+print(report)
+print(f"\n\nSaved -> {path}")

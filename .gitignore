@@ -1,0 +1,36 @@
+# ── Secrets — NEVER commit ─────────────────────────────────
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+*_token.json
+*.cookies
+*.session
+
+# ── Data / cache ────────────────────────────────────────────
+# The Streamlit Cloud deployment reads committed caches (repo is PRIVATE).
+# Whitelist the small ones the dashboard needs; big pitch-level CSVs, locks,
+# logs, and state stay local-only.
+data/exports/
+data/cache/*
+!data/cache/rosters.csv
+!data/cache/standings.json
+!data/cache/ottoneu_*.csv
+!data/cache/savant_*.csv
+!data/cache/psavant_*.csv
+!data/cache/top100.csv
+*.sqlite
+*.db
+
+# ── Local binaries / logs ───────────────────────────────────
+bin/
+*.log
+
+# ── Python ─────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml

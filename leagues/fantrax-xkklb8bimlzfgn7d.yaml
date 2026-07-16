@@ -1,0 +1,62 @@
+# ============================================================
+#  TEAM 4 — Fantrax  (ACCESS VERIFIED + DRAFT DONE 2026-06-30)
+# ============================================================
+id: fantrax-xkklb8bimlzfgn7d
+platform: fantrax
+league_name: TJStats Patreon League - One
+team_name: IDBach16
+league_id: xkklb8bimlzfgn7d
+team_id: n57zugwlmlzmuolo
+season: 2026 MLB
+
+league_meta:
+  num_teams: 15
+  head_to_head: false                # -> roto or points
+  commissioner_is_me: false
+  draft_status: "done (full 50-man roster; API flag still lags to 'In Progress')"
+
+scoring:
+  format:                            # TODO confirm: POINTS or ROTO?
+  category_types: [Standard, Sabermetric, Tracked]   # types available; exact scored cats TBD
+  categories: []
+  notes: "headToHead=false; analytics/sabermetric-flavored Patreon league"
+
+roster:
+  size: 50                           # deep dynasty roster (MLB + large prospect stash)
+  positions: "C, 1B, 2B, 3B, SS, OF, UT, SP, RP (+ deep bench/minors)"  # confirm exact slots
+  notes: "50-man -> dynasty with heavy minor-league rostering"
+
+salary:
+  aab: true                          # Auction Acquisition Budget for in-season adds
+  rules: "TODO — confirm AAB amount"
+
+# CAPABILITIES (per Ian): draft & hold — NO keeper, NO transactions; lineups only.
+capabilities: {keeper: false, transactions: false, prospects: false, trades: false, lineup: true}
+
+keeper:
+  enabled: false                     # NOT a keeper league
+  rules: "single season — no keepers"
+
+dynasty:
+  enabled: false
+
+transactions:
+  enabled: false                     # DRAFT & HOLD — NO transactions (no adds / drops / trades)
+  add_drop_rules: "none"
+  lineup_lock: "Fantrax per-game default (lineups only)"
+
+prospects:
+  minor_league_rules: "prospects rostered on the 50-man (deep)"
+  prospect_roster_rules: "stash MiLB players on the active roster"
+
+access:
+  method: real_browser_cookies
+  cookie_file: secrets/fantrax_cookies.json   # ✅ saved (gitignored)
+  connector: "connectors/fantrax.py (direct fxpa endpoints; bypasses fantraxapi's buggy init)"
+  verified_endpoints: [getStandings, getFantasyLeagueInfo, getTeamRosterInfo]
+  note: "cookies expire periodically -> re-login in the automation window to refresh"
+
+automation:
+  refresh_frequency: 3x/day
+  daily_email: true
+  auto_actions_allowed: []           # recommend-only

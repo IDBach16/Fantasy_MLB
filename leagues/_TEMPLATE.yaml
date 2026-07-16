@@ -1,0 +1,65 @@
+# ============================================================
+#  LEAGUE INTAKE TEMPLATE  —  copy to leagues/<slug>.yaml for each team.
+#  NON-SECRET config only. Secrets go in .env and are referenced BY NAME here.
+#  This file is also the master checklist of everything we collect per league.
+# ============================================================
+
+id:                       # short slug, e.g. "ottoneu-2185"
+platform:                 # ottoneu | espn | yahoo | fantrax | cbs | other
+league_name:
+team_name:
+league_id:
+team_id:
+season: 2026
+
+scoring:
+  format:                 # e.g. "Ottoneu FanGraphs Points", "5x5 roto", "H2H categories", "points"
+  categories: []          # if roto / categories
+  notes:
+
+roster:
+  size:
+  positions:              # starting slots + counts (C, 1B, 2B, ... SP, RP, UTIL)
+  bench_slots:
+  IL_slots:
+  minor_league_slots:
+  positional_eligibility:  # games/PA thresholds, multi-position rules
+
+salary:                   # auction / salary-cap / Ottoneu leagues
+  cap:
+  rules:
+  arbitration:
+
+keeper:
+  enabled:                # true / false
+  rules:
+  cost_inflation:
+
+dynasty:
+  enabled:
+  rules:
+
+ottoneu:                  # only if platform == ottoneu
+  game_type:              # FGP (FanGraphs Points) | SABR Points | 4x4 | Old School 5x5
+  avg_salary_source:      # Ottoneu average salary page
+
+transactions:
+  waiver_rules:
+  trade_rules:
+  add_drop_rules:
+  lineup_lock:            # daily | weekly | first-pitch lock
+
+prospects:
+  minor_league_rules:
+  prospect_roster_rules:
+
+access:                   # HOW we pull this league's data
+  method:                 # official_api | oauth | cookie_session | csv_export | scrape
+  credentials_env: []     # NAMES of .env keys only (e.g. [ESPN_S2_LEAGUE1, ESPN_SWID_LEAGUE1])
+  exports_needed:         # any manual CSVs you'll drop into data/exports/
+  available_player_pool_access:
+
+automation:
+  refresh_frequency:      # e.g. "3x/day" or "hourly during games"
+  daily_email: true       # include this league in the noon email
+  auto_actions_allowed: []  # [] = recommend-only. Add e.g. [set_lineup] ONLY if you authorize it.

@@ -1,0 +1,13 @@
+# Fantasy MLB — dependencies
+playwright>=1.40        # real-browser connector (beats Cloudflare, handles login + actions)
+cloudscraper>=1.2       # lightweight CF-aware fallback for simple GETs
+beautifulsoup4>=4.12    # HTML parsing
+lxml>=5.0               # pd.read_html backend (Ottoneu/top-100 tables) — required, don't rely on transitive install
+requests>=2.31
+pandas>=2.0             # data wrangling
+pybaseball>=2.2         # Baseball Savant / Statcast pulls (pitch-level + expected stats)
+plotly>=5.18            # dashboard charts
+streamlit>=1.30         # dashboard app
+python-dotenv>=1.0      # .env secrets
+anthropic>=0.40         # Claude agents (key provided later)
+# After install, run once:  playwright install chromium

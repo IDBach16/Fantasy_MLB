@@ -1,0 +1,82 @@
+# ============================================================
+#  TEAM 1 — Ottoneu  (ACCESS VERIFIED + RULES AUTO-DETECTED 2026-06-30)
+# ============================================================
+id: ottoneu-907
+platform: ottoneu
+league_name: Chasing Taters
+team_name: Bauers Fight Club
+league_id: 907
+team_id: 6418
+season: 2026
+
+# CAPABILITIES (per Ian): the full deal — keeper + transactions + prospects all matter.
+capabilities: {keeper: true, transactions: true, prospects: true, trades: true, lineup: true}
+
+# --- detected from /907/settings ---
+league_meta:
+  num_teams: 12
+  tier: "$20"
+  private: true
+  established: 2018-02-14
+  playoffs: none
+  opl_eligible: true
+  commissioner: Mo Ballers
+
+scoring:
+  format: Old School (5x5) roto
+  categories:
+    batting: [R, HR, RBI, SB, AVG]        # standard 5x5 — confirm
+    pitching: [W, SV, K, ERA, WHIP]       # standard 5x5 — confirm
+  notes: Rotisserie, 12 teams
+
+roster:
+  size: 40                  # Ottoneu standard 40-man — confirm
+  positions: "C, 1B, 2B, 3B, SS, MI, 5x OF, Util + pitchers (IP cap)"  # confirm exact slots on lineup page
+  bench_slots: "remainder of 40-man"
+  IL_slots: "Ottoneu standard"
+  minor_league_slots: "none separate — prospects sit on the 40-man at $1+"
+  positional_eligibility: "Ottoneu standard games/PA thresholds"
+
+salary:
+  cap: 400                  # Ottoneu standard $400 — confirm
+  rules: "annual keeper salaries; cuts on cutday; salaries rise via arbitration"
+  arbitration: "Allocation System (teams allocate arbitration $ to opponents' players)"
+
+keeper:
+  enabled: true
+  rules: "Keep entire roster year-to-year minus cuts; salaries set by prior year + arbitration"
+  cost_inflation: "arbitration allocation"
+
+dynasty:
+  enabled: true
+  rules: "full dynasty — rosters carry over each season"
+
+ottoneu:
+  game_type: Old School (5x5)
+  avg_salary_source: /907/average_values?csv=1   # to verify
+
+transactions:
+  waiver_rules: "Ottoneu standard cut/claim window"   # confirm
+  trade_rules: "24-hour trade wait period; cash/loans per Ottoneu standard"
+  add_drop_rules: "standard add/drop within cap"
+  lineup_lock: "daily — per-player at game time"
+
+prospects:
+  minor_league_rules: "prospects rostered on the 40-man (no separate MiLB slots)"
+  prospect_roster_rules: "cheap $1+ stashes count vs the 40-man and $400 cap"
+
+access:
+  method: real_browser_cdp   # Playwright drives REAL Chrome via CDP (passes Cloudflare)
+  credentials_env: []        # NO password scripted — login persists in the browser profile
+  profile_dir: secrets/chrome_profile
+  data_endpoints:
+    settings: /907/settings                  # ✅ VERIFIED (rules source)
+    roster_export: /907/rosterexport?csv=1    # ✅ VERIFIED — all teams' rosters + salaries + FG IDs
+    average_values: /907/average_values?csv=1 # to verify
+    available_players:                        # TODO — find available-pool export
+  available_player_pool_access: TODO
+
+automation:
+  refresh_frequency: 3x/day
+  daily_email: true
+  auto_actions_allowed: []   # recommend-only (no auto roster moves)
