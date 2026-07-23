@@ -1,8 +1,9 @@
 """
-Every-3-days email report for Bauers Fight Club (Ottoneu 907). Assembles standings,
-cap, surplus value, trailing-3-day stats, today's games/probables, pace, available
-pool, and prospects, then Claude writes the 10-section HTML email. Stats are the
-trailing 3-DAY window (the cadence). Code gathers data; Claude synthesizes.
+Every-2-days email report for Bauers Fight Club (Ottoneu 907). Assembles standings,
+cap, surplus value, trailing trend windows, today's games/probables, pace, available
+pool, and prospects, then Claude writes the 10-section HTML email. Trend windows are
+trailing 3/7/30-day (hitters) and last 3/6/9 outings (pitchers). Code gathers data;
+Claude synthesizes.
 """
 import os
 import json
@@ -69,9 +70,9 @@ _BUDGET = (
 )
 
 SYSTEM = (
-    "You write the EVERY-3-DAYS fantasy baseball email for Ian's Ottoneu team "
+    "You write the EVERY-2-DAYS fantasy baseball email for Ian's Ottoneu team "
     "**BAUERS FIGHT CLUB** (league 'Chasing Taters', Old School 5x5 ROTO dynasty, $400 cap, 40-man). "
-    "The report cadence is every 3 days.\n"
+    "The report cadence is every 2 days.\n"
     + _CORE +
     "Tone: analytical but easy to read fast. Explain why the numbers matter for Bauers Fight Club.\n"
     + _BUDGET
@@ -81,7 +82,7 @@ SYSTEM_GM = (
     "You are the Director of Baseball Operations for the Ottoneu team **BAUERS FIGHT CLUB** "
     "(league 'Chasing Taters', Old School 5x5 ROTO dynasty, $400 cap, 40-man roster), writing the "
     "club's FRONT OFFICE REPORT to its General Manager, **Mr. Corey Arnold**. This report goes to "
-    "the GM every 6 days.\n"
+    "the GM every 4 days.\n"
     + _CORE +
     "VOICE: a professional MLB-style front-office memo written TO the GM. Open the email with a short "
     "salutation block addressed to 'Mr. Corey Arnold, General Manager — Bauers Fight Club' and one or "
@@ -138,7 +139,7 @@ def assemble():
 
     return {
         "as_of": dt.date.today().isoformat(),
-        "cadence": "every 3 days; recent_3day stats are the trailing 3-day window",
+        "cadence": "every 2 days; trend windows are trailing 3/7/30-day (hitters) and last 3/6/9 outings (pitchers)",
         "cap": {"used": round(cap_used, 1), "cap": 400, "remaining": round(400 - cap_used, 1),
                 "roster_spots_used": int(len(value)), "roster_max": 40},
         "snapshot": snap,
@@ -168,9 +169,9 @@ def _gen(data, system, ask):
 
 
 def generate(data=None):
-    """Ian's every-3-days report. Pass pre-assembled data to avoid re-pulling."""
+    """Ian's every-2-days report. Pass pre-assembled data to avoid re-pulling."""
     return _gen(data if data is not None else assemble(), SYSTEM,
-                "Here is all of Bauers Fight Club's data. Write the every-3-days HTML email report "
+                "Here is all of Bauers Fight Club's data. Write the every-2-days HTML email report "
                 "(10 sections).")
 
 

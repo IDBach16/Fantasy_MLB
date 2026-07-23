@@ -1,57 +1,57 @@
 TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Position(s),Salary
-6414,Mo Ballers,18546,18345.0,sa874240,Kyle Tucker,LAD,OF,$63
 6414,Mo Ballers,18422,17130.0,sa830702,Raisel Iglesias,ATL,RP,$28
 6414,Mo Ballers,38327,27769.0,sa3014458,Pete Crow-Armstrong,CHC,OF,$26
 6414,Mo Ballers,45716,35110.0,sa3025385,Nick Kurtz,ATH,1B,$22
 6414,Mo Ballers,33259,20373.0,sa919548,Andres Munoz,SEA,RP,$20
 6414,Mo Ballers,48239,37123.0,sa3063134,Kazuma Okamoto,TOR,1B/3B,$17
-6414,Mo Ballers,36509,25976.0,sa3010694,Riley Greene,DET,OF,$14
 6414,Mo Ballers,40927,30116.0,sa3018052,Seiya Suzuki,CHC,OF,$14
-6414,Mo Ballers,40862,31757.0,sa3017934,Mason Miller,SDP,RP,$13
+6414,Mo Ballers,36509,25976.0,sa3010694,Riley Greene,DET,OF,$14
 6414,Mo Ballers,2916,3096.0,sa295200,Kenley Jansen,DET,RP,$13
+6414,Mo Ballers,40862,31757.0,sa3017934,Mason Miller,SDP,RP,$13
 6414,Mo Ballers,18460,13543.0,sa597786,Blake Snell,LAD,SP,$11
+6414,Mo Ballers,49391,,sa3028100,Drew Burress,,Util,$11
 6414,Mo Ballers,33627,21479.0,sa3007867,Nico Hoerner,CHC,2B/SS,$11
 6414,Mo Ballers,40948,30145.0,sa3018113,Dylan Smith,SFG,RP,$10
-6414,Mo Ballers,43966,33322.0,sa3022615,Matt Shaw,CHC,3B/OF,$8
 6414,Mo Ballers,18506,18314.0,sa659260,Dansby Swanson,CHC,SS,$8
+6414,Mo Ballers,43966,33322.0,sa3022615,Matt Shaw,CHC,3B/OF,$8
 6414,Mo Ballers,41265,30675.0,sa3018514,Luis Lara,MIL,OF,$7
-6414,Mo Ballers,45857,35094.0,sa3025317,Sean Keys,TOR,1B/3B,$6
 6414,Mo Ballers,21039,17312.0,sa828960,Justin Steele,CHC,RP,$6
-6414,Mo Ballers,42719,31872.0,sa3020860,Cade Horton,CHC,SP,$5
 6414,Mo Ballers,44039,33253.0,sa3022596,Cole Carrigg,COL,OF,$5
+6414,Mo Ballers,42719,31872.0,sa3020860,Cade Horton,CHC,SP,$5
+6414,Mo Ballers,44274,33568.0,sa3022951,Brandyn Garcia,ARI,RP,$5
 6414,Mo Ballers,27148,23335.0,sa3005246,Joey Cantillo,CLE,SP/RP,$5
 6414,Mo Ballers,18479,17919.0,sa827194,Ian Happ,CHC,OF,$5
-6414,Mo Ballers,44274,33568.0,sa3022951,Brandyn Garcia,ARI,RP,$5
-6414,Mo Ballers,33325,21690.0,sa920423,Edward Cabrera,CHC,SP,$4
-6414,Mo Ballers,38410,27758.0,sa3014513,Kyle Harrison,MIL,SP/RP,$4
 6414,Mo Ballers,45884,35101.0,sa3025363,Sam Antonacci,CHW,2B/3B/OF,$4
 6414,Mo Ballers,39285,28820.0,sa3015713,Moises Ballesteros,CHC AAA,C,$4
-6414,Mo Ballers,45903,35121.0,sa3025386,Joshua Kuroda-Grauer,ATH,2B/SS/3B,$3
-6414,Mo Ballers,46310,35466.0,sa3043900,Payton Tolle,BOS,SP,$3
-6414,Mo Ballers,42716,,sa3020659,Karson Milbrandt,MIA AAA,SP,$3
-6414,Mo Ballers,23639,19956.0,sa917920,Mickey Moniak,COL,OF,$3
+6414,Mo Ballers,18357,16149.0,sa599230,Aaron Nola,PHI,SP,$4
+6414,Mo Ballers,38410,27758.0,sa3014513,Kyle Harrison,MIL,SP/RP,$4
+6414,Mo Ballers,33325,21690.0,sa920423,Edward Cabrera,CHC,SP,$4
 6414,Mo Ballers,40552,29839.0,sa3017416,Emmet Sheehan,LAD,SP,$3
-6414,Mo Ballers,38781,27914.0,sa3015122,Daniel Palencia,CHC,RP,$3
+6414,Mo Ballers,46310,35466.0,sa3043900,Payton Tolle,BOS,SP,$3
+6414,Mo Ballers,45903,35121.0,sa3025386,Joshua Kuroda-Grauer,ATH,2B/SS/3B,$3
+6414,Mo Ballers,23639,19956.0,sa917920,Mickey Moniak,COL,OF,$3
 6414,Mo Ballers,44248,33575.0,sa3022923,Colt Emerson,SEA,SS/3B,$3
-6414,Mo Ballers,37427,26121.0,sa3010862,Francisco Alvarez,NYM,C,$2
+6414,Mo Ballers,38781,27914.0,sa3015122,Daniel Palencia,CHC,RP,$3
+6414,Mo Ballers,42716,,sa3020659,Karson Milbrandt,MIA AAA,SP,$3
 6414,Mo Ballers,32009,22100.0,sa916702,Jose Soriano,LAA,SP,$2
 6414,Mo Ballers,44703,,sa3023635,Jaxon Wiggins,CHC AAA,SP,$2
 6414,Mo Ballers,47555,,sa3069247,Seth Hernandez,PIT A+,SP,$2
-6414,Mo Ballers,45739,35423.0,sa3038253,Braden Montgomery,CHW,OF,$1
+6414,Mo Ballers,37427,26121.0,sa3010862,Francisco Alvarez,NYM,C,$2
 6414,Mo Ballers,18465,15440.0,sa621603,Matthew Boyd,CHC,SP,$1
+6414,Mo Ballers,45739,35423.0,sa3038253,Braden Montgomery,CHW,OF,$1
+6414,Mo Ballers,38315,27470.0,sa3014456,Emerson Hancock,SEA,SP/RP,$1
 6414,Mo Ballers,44012,33252.0,sa3022559,Kyle Karros,COL,3B,$1
 6414,Mo Ballers,34921,21622.0,sa3007015,Jake McCarthy,COL,OF,$1
-6414,Mo Ballers,38315,27470.0,sa3014456,Emerson Hancock,SEA,SP/RP,$1
 6416,WOOD BONANZA,35204,22267.0,sa3007593,Tarik Skubal,DET,SP,$42
 6416,WOOD BONANZA,18386,14344.0,sa657863,Matt Olson,ATL,1B,$39
 6416,WOOD BONANZA,23767,19612.0,sa917949,Bo Bichette,NYM,SS/3B,$23
 6416,WOOD BONANZA,40188,29518.0,sa3016870,James Wood,WSN,OF,$20
 6416,WOOD BONANZA,15962,10310.0,sa500722,Zack Wheeler,PHI,SP,$19
 6416,WOOD BONANZA,33682,22250.0,sa3008598,Logan Gilbert,SEA,SP,$17
-6416,WOOD BONANZA,35196,21390.0,sa3007584,Joe Ryan,MIN,SP,$13
 6416,WOOD BONANZA,43950,33541.0,sa3022882,Dylan Crews,WSN,OF,$13
+6416,WOOD BONANZA,35196,21390.0,sa3007584,Joe Ryan,MIN,SP,$13
 6416,WOOD BONANZA,23654,19197.0,sa873265,Will Smith,LAD,C,$11
-6416,WOOD BONANZA,23732,15689.0,sa657487,Luis Castillo,SEA,SP,$10
+6416,WOOD BONANZA,5918,5417.0,sa455591,Jose Altuve,HOU,2B/OF,$11
 6416,WOOD BONANZA,42737,31846.0,sa3020703,Spencer Schwellenbach,ATL,SP,$10
 6416,WOOD BONANZA,23810,22201.0,sa3005068,MacKenzie Gore,TEX,SP,$10
 6416,WOOD BONANZA,26531,20348.0,sa3004210,Riley O'Brien,STL,RP,$9
@@ -63,72 +63,69 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6416,WOOD BONANZA,40261,29993.0,sa3017694,Brady House,WSN AAA,3B,$5
 6416,WOOD BONANZA,18517,16578.0,sa823741,Yandy Diaz,TBR,1B,$5
 6416,WOOD BONANZA,18487,16997.0,sa830372,Gleyber Torres,DET,2B,$4
-6416,WOOD BONANZA,42416,31912.0,sa3020219,Chandler Simpson,TBR,OF,$4
 6416,WOOD BONANZA,46289,,sa3042374,Mike Sirota,LAD AA,OF,$4
+6416,WOOD BONANZA,42416,31912.0,sa3020219,Chandler Simpson,TBR,OF,$4
 6416,WOOD BONANZA,42279,31695.0,sa3019983,Dylan Beavers,BAL,OF,$4
 6416,WOOD BONANZA,18153,12564.0,sa597765,Trevor Story,BOS,SS,$4
 6416,WOOD BONANZA,42428,31791.0,sa3020240,Justin Crawford,PHI,OF,$3
-6416,WOOD BONANZA,40155,30146.0,sa3018053,Jack Leiter,TEX,SP,$3
+6416,WOOD BONANZA,47565,,sa3026225,Jamie Arnold,ATH AA,SP,$3
 6416,WOOD BONANZA,6175,9073.0,sa505235,Kirby Yates,LAA,RP,$3
+6416,WOOD BONANZA,40155,30146.0,sa3018053,Jack Leiter,TEX,SP,$3
 6416,WOOD BONANZA,37257,26288.0,sa3011643,Adley Rutschman,BAL,C,$3
 6416,WOOD BONANZA,31958,20352.0,sa915732,Ernie Clement,TOR,1B/2B/SS/3B,$2
-6416,WOOD BONANZA,33620,25377.0,sa3008613,Brady Singer,CIN,SP,$2
 6416,WOOD BONANZA,44015,,sa3022562,Kemp Alderman,MIA AAA,OF,$2
 6416,WOOD BONANZA,37622,25420.0,sa3011217,Ryan Zeferjahn,LAA,RP,$2
 6416,WOOD BONANZA,38334,27473.0,sa3014421,Cade Cavalli,WSN,SP,$2
+6416,WOOD BONANZA,33620,25377.0,sa3008613,Brady Singer,CIN,SP,$2
 6416,WOOD BONANZA,31505,21306.0,sa829008,Jacob Latz,TEX,SP/RP,$2
-6416,WOOD BONANZA,46484,,sa3067320,Devin Fitz-Gerald,WSN AA,2B/SS,$2
 6416,WOOD BONANZA,47653,,sa3031104,Anthony Eyanson,BOS AA,SP,$2
 6416,WOOD BONANZA,42713,31665.0,sa3020653,Alex Freeland,LAD,2B/SS/3B,$1
-6416,WOOD BONANZA,42283,31661.0,sa3019988,Jacob Melton,TBR AAA,OF,$1
 6416,WOOD BONANZA,38378,28312.0,sa3014479,Coby Mayo,BAL,1B/3B,$1
+6416,WOOD BONANZA,42283,31661.0,sa3019988,Jacob Melton,TBR AAA,OF,$1
 6416,WOOD BONANZA,42144,31354.0,sa3019841,Jimmy Crooks,STL,C,$1
 6416,WOOD BONANZA,42304,31580.0,sa3020011,Chase Meidroth,CHW,2B/SS,$1
 6417,HATE_NiLES,23682,19709.0,sa919910,Fernando Tatis Jr.,SDP,2B/OF,$61
 6417,HATE_NiLES,18276,13611.0,sa597889,Mookie Betts,LAD,SS,$32
+6417,HATE_NiLES,23762,20454.0,sa919327,Jazz Chisholm Jr.,NYY,2B/3B,$29
+6417,HATE_NiLES,23840,19290.0,sa914549,Randy Arozarena,SEA,OF,$23
+6417,HATE_NiLES,18466,13613.0,sa597026,Ketel Marte,ARI,2B,$23
+6417,HATE_NiLES,40142,29490.0,sa3016829,Jackson Merrill,SDP,OF,$23
+6417,HATE_NiLES,36671,25436.0,sa3011526,George Kirby,SEA,SP,$21
 6417,HATE_NiLES,43896,33333.0,sa3022654,Wyatt Langford,TEX,OF,$21
-6417,HATE_NiLES,32291,21711.0,sa917318,Oneil Cruz,PIT,OF,$20
 6417,HATE_NiLES,38559,27768.0,sa3014807,Eury Perez,MIA,SP,$20
-6417,HATE_NiLES,19168,18679.0,sa737343,Freddy Peralta,NYM,SP,$20
+6417,HATE_NiLES,32291,21711.0,sa917318,Oneil Cruz,PIT,OF,$20
 6417,HATE_NiLES,19268,15816.0,sa737560,Devin Williams,NYM,RP,$19
 6417,HATE_NiLES,45706,35333.0,sa3028086,Chase Burns,CIN,SP/RP,$16
 6417,HATE_NiLES,22391,20503.0,sa872847,William Contreras,MIL,C,$14
 6417,HATE_NiLES,35939,21636.0,sa876320,Jeremy Pena,HOU,SS,$12
 6417,HATE_NiLES,20989,17722.0,sa828803,Trevor Megill,MIL,RP,$10
 6417,HATE_NiLES,45713,34985.0,sa3025154,JJ Wetherholt,STL,2B/SS,$8
+6417,HATE_NiLES,22426,17295.0,sa873146,Framber Valdez,DET,SP,$8
 6417,HATE_NiLES,35602,25327.0,sa3008177,Abner Uribe,MIL,RP,$7
 6417,HATE_NiLES,35874,24586.0,sa3008605,Kyle Bradish,BAL,SP,$7
-6417,HATE_NiLES,34788,22542.0,sa3006873,Lawrence Butler,ATH,OF,$6
-6417,HATE_NiLES,42988,,sa3021066,Alfredo Duno,CIN AA,C,$5
-6417,HATE_NiLES,23796,20437.0,sa3004259,Royce Lewis,MIN,1B/3B,$5
-6417,HATE_NiLES,23825,19326.0,sa873683,Bryan Reynolds,PIT,OF,$5
+6417,HATE_NiLES,26198,22799.0,sa3003290,Geraldo Perdomo,ARI,SS,$6
 6417,HATE_NiLES,18255,13301.0,sa503373,Max Muncy,LAD,3B,$5
-6417,HATE_NiLES,42358,31505.0,sa3020130,Sal Stewart,CIN,1B/2B/3B,$4
-6417,HATE_NiLES,42991,,sa3021069,Sebastian Walcott,TEX CPX,SS,$4
+6417,HATE_NiLES,23825,19326.0,sa873683,Bryan Reynolds,PIT,OF,$5
+6417,HATE_NiLES,45720,35041.0,sa3025245,Jac Caglianone,KCR,1B/OF,$5
 6417,HATE_NiLES,37202,27691.0,sa3010572,Louis Varland,TOR,RP,$4
-6417,HATE_NiLES,42299,31448.0,sa3020006,Henry Bolte,ATH,OF,$4
-6417,HATE_NiLES,33949,24816.0,sa3005625,Andy Pages,LAD,OF,$3
-6417,HATE_NiLES,40568,29878.0,sa3017461,Sean Burke,CHW,SP/RP,$3
+6417,HATE_NiLES,47920,,sa3045536,Gage Wood,PHI AA,SP,$3
+6417,HATE_NiLES,45770,,sa3025414,Seaver King,WSN AAA,SS,$2
 6417,HATE_NiLES,45771,,sa3025565,Theo Gillen,TBR AA,OF,$2
 6417,HATE_NiLES,20920,17479.0,sa828681,Jack Flaherty,DET,SP,$2
-6417,HATE_NiLES,42727,,sa3020881,Ethan Salas,SDP AA,C,$2
+6417,HATE_NiLES,38352,27814.0,sa3014447,Shane Drohan,MIL,SP/RP,$2
 6417,HATE_NiLES,22668,18383.0,sa874715,Michael Soroka,ARI,SP/RP,$2
-6417,HATE_NiLES,31488,19804.0,sa739000,Bryan Baker,TBR,RP,$2
 6417,HATE_NiLES,35725,23986.0,sa3008392,Curtis Mead,WSN,1B/2B/3B,$2
-6417,HATE_NiLES,18257,15873.0,sa709610,Sean Manaea,NYM,SP/RP,$1
-6417,HATE_NiLES,44072,,sa3022660,Kendall George,LAD AA,OF,$1
-6417,HATE_NiLES,18522,15194.0,sa737848,Jake Bauers,MIL,1B/OF/RP,$1
-6417,HATE_NiLES,18415,16400.0,sa696415,Reynaldo Lopez,ATL,SP/RP,$1
-6417,HATE_NiLES,18160,14162.0,sa657850,Carlos Correa,HOU,SS/3B,$1
-6417,HATE_NiLES,45018,,sa3023987,Rainiel Rodriguez,STL AA,C,$1
-6417,HATE_NiLES,21961,17920.0,sa856266,Cody Ponce,TOR,SP/RP,$1
-6417,HATE_NiLES,41452,30661.0,sa3018841,Didier Fuentes,ATL,SP/RP,$1
-6417,HATE_NiLES,41419,30375.0,sa3018808,Jarlin Susana,WSN AA,SP,$1
-6417,HATE_NiLES,41050,29357.0,sa3018298,Walbert Urena,LAA,SP/RP,$1
-6417,HATE_NiLES,39340,29005.0,sa3015768,Esmerlyn Valdez,PIT,OF,$1
+6417,HATE_NiLES,36803,25479.0,sa3009965,Brenton Doyle,COL,OF,$1
 6417,HATE_NiLES,23612,13774.0,sa657853,Zach Eflin,BAL,SP,$1
 6417,HATE_NiLES,34132,24453.0,sa3005864,Justin Martinez,ARI,RP,$1
 6417,HATE_NiLES,34389,23974.0,sa3006366,Randy Rodriguez,SFG,RP,$1
+6417,HATE_NiLES,18160,14162.0,sa657850,Carlos Correa,HOU,SS/3B,$1
+6417,HATE_NiLES,18522,15194.0,sa737848,Jake Bauers,MIL,1B/OF/RP,$1
+6417,HATE_NiLES,41419,30375.0,sa3018808,Jarlin Susana,WSN AA,SP,$1
+6417,HATE_NiLES,41050,29357.0,sa3018298,Walbert Urena,LAA,SP/RP,$1
+6417,HATE_NiLES,21961,17920.0,sa856266,Cody Ponce,TOR,SP/RP,$1
+6417,HATE_NiLES,39340,29005.0,sa3015768,Esmerlyn Valdez,PIT,OF,$1
+6417,HATE_NiLES,48090,,sa3069150,Tate Southisene,ATL A+,2B/SS,$1
 6418,Bauers Fight Club,23824,22182.0,sa3005315,Hunter Greene,CIN,SP,$32
 6418,Bauers Fight Club,23625,21846.0,sa917938,Cole Ragans,KCR,SP,$22
 6418,Bauers Fight Club,23601,14710.0,sa657938,Edwin Diaz,LAD,RP,$22
@@ -138,122 +135,123 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6418,Bauers Fight Club,18116,13125.0,sa454389,Gerrit Cole,NYY,SP,$13
 6418,Bauers Fight Club,20900,16609.0,sa828588,Bryan Abreu,HOU,RP,$11
 6418,Bauers Fight Club,33634,22186.0,sa3008294,Brice Turang,MIL,2B,$8
-6418,Bauers Fight Club,18378,16505.0,sa828672,Matt Chapman,SFG,3B,$7
 6418,Bauers Fight Club,33616,20492.0,sa3008444,Casey Mize,DET,SP,$7
-6418,Bauers Fight Club,27208,22210.0,sa3005339,Jeremiah Estrada,SDP,RP,$7
-6418,Bauers Fight Club,26198,22799.0,sa3003290,Geraldo Perdomo,ARI,SS,$6
-6418,Bauers Fight Club,37216,26323.0,sa3010586,Spencer Steer,CIN,1B/2B/OF,$5
+6418,Bauers Fight Club,27208,22210.0,sa3005339,Jeremiah Estrada,SDP AAA,RP,$7
+6418,Bauers Fight Club,18378,16505.0,sa828672,Matt Chapman,SFG,3B,$7
 6418,Bauers Fight Club,38328,27468.0,sa3014425,Reid Detmers,LAA,SP/RP,$5
-6418,Bauers Fight Club,27058,23772.0,sa3005082,Wilyer Abreu,BOS,OF,$4
+6418,Bauers Fight Club,37216,26323.0,sa3010586,Spencer Steer,CIN,1B/2B/OF,$5
 6418,Bauers Fight Club,23705,19950.0,sa917114,Andres Gimenez,TOR,2B/SS,$4
-6418,Bauers Fight Club,42765,31986.0,sa3020748,Parker Messick,CLE,SP,$3
-6418,Bauers Fight Club,36030,26517.0,sa3008745,Noelvi Marte,CIN,3B/OF,$3
-6418,Bauers Fight Club,16191,13324.0,sa504705,Ildemaro Vargas,ARI,1B/2B/3B,$3
-6418,Bauers Fight Club,38308,27464.0,sa3014528,Dillon Dingler,DET,C,$3
-6418,Bauers Fight Club,26570,19608.0,sa3004268,Otto Lopez,MIA,2B/SS,$3
-6418,Bauers Fight Club,23787,13619.0,sa602414,Jakob Junis,TEX,RP,$3
+6418,Bauers Fight Club,27058,23772.0,sa3005082,Wilyer Abreu,BOS,OF,$4
 6418,Bauers Fight Club,45721,,sa3025544,Hagen Smith,CHW AAA,SP,$3
+6418,Bauers Fight Club,26570,19608.0,sa3004268,Otto Lopez,MIA,2B/SS,$3
+6418,Bauers Fight Club,16191,13324.0,sa504705,Ildemaro Vargas,ARI,1B/2B/3B,$3
+6418,Bauers Fight Club,23787,13619.0,sa602414,Jakob Junis,TEX,RP,$3
+6418,Bauers Fight Club,38308,27464.0,sa3014528,Dillon Dingler,DET,C,$3
+6418,Bauers Fight Club,36030,26517.0,sa3008745,Noelvi Marte,CIN,3B/OF,$3
 6418,Bauers Fight Club,18547,18564.0,sa874246,Trent Grisham,NYY,OF,$3
+6418,Bauers Fight Club,42765,31986.0,sa3020748,Parker Messick,CLE,SP,$3
+6418,Bauers Fight Club,42727,,sa3020881,Ethan Salas,SDP AA,C,$2
+6418,Bauers Fight Club,33622,21501.0,sa3008376,Trevor Larnach,MIN,OF,$2
 6418,Bauers Fight Club,18380,16918.0,sa599729,Luke Weaver,NYM,RP,$2
 6418,Bauers Fight Club,23838,13892.0,sa658150,Paul Sewald,ARI,RP,$2
-6418,Bauers Fight Club,33622,21501.0,sa3008376,Trevor Larnach,MIN,OF,$2
-6418,Bauers Fight Club,42666,31776.0,sa3020593,Orion Kerkering,PHI,RP,$1
-6418,Bauers Fight Club,47938,,sa3059552,Caden Hunter,BAL A+,SP,$1
+6418,Bauers Fight Club,34602,21562.0,sa3006652,Romy Gonzalez,BOS,1B/2B,$1
+6418,Bauers Fight Club,44470,,sa3023233,George Lombard Jr.,NYY AAA,SS,$1
+6418,Bauers Fight Club,13335,13164.0,sa548722,Eduardo Rodriguez,ARI,SP,$1
+6418,Bauers Fight Club,46038,,sa3025601,Dakota Jordan,SFG AA,OF,$1
 6418,Bauers Fight Club,47657,,sa3031366,Andrew Fischer,MIL AA,3B,$1
-6418,Bauers Fight Club,46038,,sa3025601,Dakota Jordan,SFG A+,OF,$1
-6418,Bauers Fight Club,44470,,sa3023233,George Lombard Jr.,NYY CPX,SS,$1
 6418,Bauers Fight Club,47883,,sa3043560,Devin Taylor,ATH AA,OF,$1
+6418,Bauers Fight Club,18449,12730.0,sa599574,Nick Martinez,TBR,SP/RP,$1
+6418,Bauers Fight Club,19520,17170.0,sa738213,Gabe Speier,SEA,RP,$1
+6418,Bauers Fight Club,42666,31776.0,sa3020593,Orion Kerkering,PHI,RP,$1
+6418,Bauers Fight Club,4374,9218.0,sa501577,Paul Goldschmidt,NYY,1B,$1
+6418,Bauers Fight Club,23757,15488.0,sa657576,Antonio Senzatela,COL,SP/RP,$1
 6418,Bauers Fight Club,37536,26438.0,sa1115890,Dominic Canzone,SEA,OF,$1
 6418,Bauers Fight Club,37458,26143.0,sa3010899,Troy Johnston,COL,1B/OF,$1
-6418,Bauers Fight Club,34602,21562.0,sa3006652,Romy Gonzalez,BOS,1B/2B,$1
 6418,Bauers Fight Club,23790,13649.0,sa598167,Clay Holmes,NYM,SP,$1
-6418,Bauers Fight Club,23757,15488.0,sa657576,Antonio Senzatela,COL,SP/RP,$1
-6418,Bauers Fight Club,4374,9218.0,sa501577,Paul Goldschmidt,NYY,1B,$1
-6418,Bauers Fight Club,19520,17170.0,sa738213,Gabe Speier,SEA,RP,$1
-6418,Bauers Fight Club,18449,12730.0,sa599574,Nick Martinez,TBR,SP/RP,$1
-6418,Bauers Fight Club,13335,13164.0,sa548722,Eduardo Rodriguez,ARI,SP,$1
+6418,Bauers Fight Club,47938,,sa3059552,Caden Hunter,BAL A+,SP,$1
 6420,Piscotty Doesn't Know,23795,19556.0,sa943524,Yordan Alvarez,HOU,OF,$57
 6420,Piscotty Doesn't Know,14982,11579.0,sa548033,Bryce Harper,PHI,1B,$43
 6420,Piscotty Doesn't Know,18164,13743.0,sa657860,Max Fried,NYY,SP,$27
 6420,Piscotty Doesn't Know,39108,28163.0,sa3015532,Junior Caminero,TBR,3B,$27
 6420,Piscotty Doesn't Know,18236,14374.0,sa597835,Tyler Glasnow,LAD,SP,$26
-6420,Piscotty Doesn't Know,23840,19290.0,sa914549,Randy Arozarena,SEA,OF,$23
 6420,Piscotty Doesn't Know,18216,13624.0,sa657913,Corey Seager,TEX,SS,$20
 6420,Piscotty Doesn't Know,23651,13066.0,sa596861,Teoscar Hernandez,LAD,OF,$17
 6420,Piscotty Doesn't Know,33685,24617.0,sa3006786,Jarren Duran,BOS,OF,$14
-6420,Piscotty Doesn't Know,37635,28080.0,sa3014696,Jasson Dominguez,NYY,OF,$12
 6420,Piscotty Doesn't Know,41042,30279.0,sa3018290,Bryan Woo,SEA,SP,$12
 6420,Piscotty Doesn't Know,6305,10155.0,sa500736,Mike Trout,LAA,OF,$12
+6420,Piscotty Doesn't Know,37635,28080.0,sa3014696,Jasson Dominguez,NYY,OF,$12
 6420,Piscotty Doesn't Know,20435,17998.0,sa827454,Pete Fairbanks,MIA,RP,$11
 6420,Piscotty Doesn't Know,37201,25880.0,sa3010571,Hunter Brown,HOU,SP,$11
 6420,Piscotty Doesn't Know,42156,31347.0,sa3019855,Zach Neto,LAA,SS,$9
 6420,Piscotty Doesn't Know,38428,27494.0,sa3014536,Clayton Beeter,WSN,RP,$8
 6420,Piscotty Doesn't Know,33907,24262.0,sa3005581,Ceddanne Rafaela,BOS,2B/OF,$7
 6420,Piscotty Doesn't Know,44526,33829.0,sa3023346,Shota Imanaga,CHC,SP,$6
-6420,Piscotty Doesn't Know,23613,14542.0,sa598491,Carlos Estevez,KCR,RP,$5
 6420,Piscotty Doesn't Know,38389,27790.0,sa3014490,Evan Carter,TEX,OF,$5
-6420,Piscotty Doesn't Know,44147,33390.0,sa3022757,Bryce Eldridge,SFG,1B,$4
-6420,Piscotty Doesn't Know,34817,24598.0,sa3006910,Addison Barger,TOR,3B/OF,$4
+6420,Piscotty Doesn't Know,23613,14542.0,sa598491,Carlos Estevez,KCR,RP,$5
 6420,Piscotty Doesn't Know,40389,29715.0,sa3017173,Hunter Goodman,COL,C,$4
-6420,Piscotty Doesn't Know,40260,29976.0,sa3017662,Jordan Lawlar,ARI,2B/SS/3B/OF,$4
+6420,Piscotty Doesn't Know,34817,24598.0,sa3006910,Addison Barger,TOR,3B/OF,$4
+6420,Piscotty Doesn't Know,34788,22542.0,sa3006873,Lawrence Butler,ATH,OF,$4
+6420,Piscotty Doesn't Know,44147,33390.0,sa3022757,Bryce Eldridge,SFG,1B,$4
 6420,Piscotty Doesn't Know,33607,22286.0,sa3005423,Trevor Rogers,BAL,SP,$4
-6420,Piscotty Doesn't Know,33670,23796.0,sa3008436,Ryan Weathers,NYY,SP,$3
-6420,Piscotty Doesn't Know,23672,20039.0,sa969093,Adrian Morejon,SDP,RP,$3
-6420,Piscotty Doesn't Know,37480,26151.0,sa1115829,Kyle Stowers,MIA,1B/OF,$3
-6420,Piscotty Doesn't Know,23660,19343.0,sa738675,A.J. Puk,ARI,RP,$3
+6420,Piscotty Doesn't Know,40260,29976.0,sa3017662,Jordan Lawlar,ARI,2B/SS/3B/OF,$4
 6420,Piscotty Doesn't Know,44975,,sa3023944,Edward Florentino,PIT A+,OF,$3
+6420,Piscotty Doesn't Know,33949,24816.0,sa3005625,Andy Pages,LAD,OF,$3
+6420,Piscotty Doesn't Know,33670,23796.0,sa3008436,Ryan Weathers,NYY,SP,$3
+6420,Piscotty Doesn't Know,37480,26151.0,sa1115829,Kyle Stowers,MIA,1B/OF,$3
+6420,Piscotty Doesn't Know,23672,20039.0,sa969093,Adrian Morejon,SDP,RP,$3
+6420,Piscotty Doesn't Know,23660,19343.0,sa738675,A.J. Puk,ARI,RP,$3
 6420,Piscotty Doesn't Know,43569,,sa3021845,Franklin Arias,BOS AA,SS,$2
+6420,Piscotty Doesn't Know,26213,22823.0,sa3003305,Oswald Peraza,LAA,1B/2B/SS/3B,$2
+6420,Piscotty Doesn't Know,42794,31857.0,sa3020808,Connor Prielipp,MIN AAA,SP,$2
 6420,Piscotty Doesn't Know,34396,24017.0,sa3006373,Jose A. Ferrer,SEA,RP,$2
 6420,Piscotty Doesn't Know,45090,,sa3024134,Luis Pena,MIL A+,2B/SS,$2
-6420,Piscotty Doesn't Know,42794,31857.0,sa3020808,Connor Prielipp,MIN,SP,$2
-6420,Piscotty Doesn't Know,26213,22823.0,sa3003305,Oswald Peraza,LAA,1B/2B/SS/3B,$2
 6420,Piscotty Doesn't Know,48165,,sa3069285,Josiah Hartshorn,CHC A+,1B/OF,$2
-6420,Piscotty Doesn't Know,38352,27814.0,sa3014447,Shane Drohan,MIL,SP/RP,$2
+6420,Piscotty Doesn't Know,46395,,sa3067040,Eric Hartman,ATL A+,2B/OF,$1
+6420,Piscotty Doesn't Know,38780,24978.0,sa3015121,Erik Sabrowski,CLE,RP,$1
 6420,Piscotty Doesn't Know,42712,31807.0,sa3020652,Troy Melton,DET,SP/RP,$1
 6420,Piscotty Doesn't Know,40541,29844.0,sa3017400,Liam Hicks,MIA,C/1B,$1
-6420,Piscotty Doesn't Know,38780,24978.0,sa3015121,Erik Sabrowski,CLE,RP,$1
-6420,Piscotty Doesn't Know,46395,,sa3067040,Eric Hartman,ATL A+,2B/OF,$1
 6420,Piscotty Doesn't Know,40456,29766.0,sa3017286,Zack Gelof,ATH,2B/3B/OF,$1
+6420,Piscotty Doesn't Know,41478,,sa3018867,Christian Zazueta,LAD AA,SP,$1
 6433,Keith's Krew,18122,12916.0,sa597754,Francisco Lindor,NYM,SS,$44
 6433,Keith's Krew,18391,14212.0,sa658473,Josh Hader,HOU,RP,$30
-6433,Keith's Krew,23762,20454.0,sa919327,Jazz Chisholm Jr.,NYY,2B/3B,$29
 6433,Keith's Krew,19328,15998.0,sa737794,Cody Bellinger,NYY,OF,$28
 6433,Keith's Krew,33654,21534.0,sa3008377,Cal Raleigh,SEA,C,$24
 6433,Keith's Krew,37295,25931.0,sa3010684,Michael Harris II,ATL,OF,$22
 6433,Keith's Krew,18126,12927.0,sa597760,Brandon Nimmo,TEX,OF,$12
 6433,Keith's Krew,20975,20778.0,sa828749,Cristopher Sanchez,PHI,SP,$10
-6433,Keith's Krew,31194,17277.0,sa659551,Ranger Suarez,BOS,SP,$8
+6433,Keith's Krew,40564,29868.0,sa3017428,Bubba Chandler,PIT,SP,$9
 6433,Keith's Krew,31741,18882.0,sa874181,Brandon Lowe,PIT,2B,$8
-6433,Keith's Krew,20732,18684.0,sa828383,Sandy Alcantara,MIA,SP,$7
+6433,Keith's Krew,31194,17277.0,sa659551,Ranger Suarez,BOS,SP,$8
 6433,Keith's Krew,12398,11609.0,sa508176,Willson Contreras,BOS,1B,$7
+6433,Keith's Krew,20732,18684.0,sa828383,Sandy Alcantara,MIA,SP,$7
 6433,Keith's Krew,33645,22266.0,sa3007018,Xavier Edwards,MIA,2B/SS,$6
 6433,Keith's Krew,23834,22515.0,sa3004693,Heliot Ramos,SFG,OF,$5
 6433,Keith's Krew,37660,26202.0,sa3011255,Jake Mangum,PIT,OF,$5
 6433,Keith's Krew,36808,21520.0,sa3009982,Hogan Harris,ATH,RP,$5
+6433,Keith's Krew,20545,18568.0,sa828153,Luis Arraez,SFG,1B/2B,$4
 6433,Keith's Krew,26915,23401.0,sa3004817,Jose Caballero,NYY,2B/SS/3B/OF,$4
-6433,Keith's Krew,5201,4949.0,sa390316,Giancarlo Stanton,NYY,OF,$4
-6433,Keith's Krew,34804,20178.0,sa3006896,Miguel Vargas,CHW,1B/3B,$3
 6433,Keith's Krew,39279,,sa3015706,Angel Genao,CLE AAA,SS,$3
-6433,Keith's Krew,35922,25385.0,sa829799,Drew Rasmussen,TBR,SP,$3
 6433,Keith's Krew,20917,16432.0,sa828674,Foster Griffin,WSN,SP,$3
+6433,Keith's Krew,34804,20178.0,sa3006896,Miguel Vargas,CHW,1B/3B,$3
+6433,Keith's Krew,35922,25385.0,sa829799,Drew Rasmussen,TBR,SP,$3
+6433,Keith's Krew,38412,27779.0,sa3014515,Bryce Elder,ATL,SP,$2
+6433,Keith's Krew,18228,14120.0,sa657858,Lance McCullers Jr.,MIL,SP,$2
+6433,Keith's Krew,40147,,sa3017022,Joshua Baez,STL AAA,OF,$2
+6433,Keith's Krew,36825,25679.0,sa3009999,Kevin Kelly,TBR,RP,$2
+6433,Keith's Krew,41180,,sa3018429,Michael Arroyo,SEA AAA,2B/OF,$2
 6433,Keith's Krew,33609,21618.0,sa3007284,Alec Bohm,PHI,1B/3B,$2
 6433,Keith's Krew,22676,17969.0,sa874771,Peter Lambert,HOU,SP,$2
-6433,Keith's Krew,36825,25679.0,sa3009999,Kevin Kelly,TBR,RP,$2
-6433,Keith's Krew,38412,27779.0,sa3014515,Bryce Elder,ATL,SP,$2
-6433,Keith's Krew,41180,,sa3018429,Michael Arroyo,SEA AAA,2B/OF,$2
-6433,Keith's Krew,41901,31811.0,sa3019459,Elmer Rodriguez,NYY AAA,SP/RP,$1
-6433,Keith's Krew,39400,,sa3015828,Hector Rodriguez,CIN AAA,OF,$1
-6433,Keith's Krew,41926,31204.0,sa3019501,Justin Wrobleski,LAD,SP/RP,$1
-6433,Keith's Krew,42193,31382.0,sa3019892,Dalton Rushing,LAD,C,$1
 6433,Keith's Krew,40820,30076.0,sa3017869,Landen Roupp,SFG,SP,$1
+6433,Keith's Krew,38383,27577.0,sa3014484,Casey Schmitt,SFG,1B/2B/3B/OF,$1
+6433,Keith's Krew,41901,31811.0,sa3019459,Elmer Rodriguez,NYY AAA,SP/RP,$1
+6433,Keith's Krew,41926,31204.0,sa3019501,Justin Wrobleski,LAD,SP/RP,$1
+6433,Keith's Krew,39400,,sa3015828,Hector Rodriguez,CIN AAA,OF,$1
 6433,Keith's Krew,38330,27756.0,sa3014534,Mick Abel,MIN,SP,$1
-6433,Keith's Krew,21075,17586.0,sa829027,Tanner Scott,LAD,RP,$1
-6433,Keith's Krew,37210,25890.0,sa3010580,Bryan King,HOU,RP,$1
-6433,Keith's Krew,22694,17606.0,sa874816,Cristian Javier,HOU,SP,$1
-6433,Keith's Krew,32719,19996.0,sa918185,Dylan Lee,ATL,RP,$1
 6433,Keith's Krew,23714,13620.0,sa657963,Carson Kelly,CHC,C,$1
-6433,Keith's Krew,23722,19238.0,sa908697,Lourdes Gurriel Jr.,ARI,OF,$1
+6433,Keith's Krew,37210,25890.0,sa3010580,Bryan King,HOU AAA,RP,$1
 6433,Keith's Krew,31572,19901.0,sa829797,Gavin Sheets,SDP,1B/OF,$1
+6433,Keith's Krew,21075,17586.0,sa829027,Tanner Scott,LAD,RP,$1
+6433,Keith's Krew,32719,19996.0,sa918185,Dylan Lee,ATL,RP,$1
 6433,Keith's Krew,42308,31468.0,sa3020076,Jack Perkins,ATH,SP/RP,$1
 6497,Welcome to Flavortown,33625,23697.0,sa3005720,Julio Rodriguez,SEA,OF,$69
 6497,Welcome to Flavortown,39277,28806.0,sa3015704,Jackson Chourio,MIL,OF,$36
@@ -267,30 +265,28 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6497,Welcome to Flavortown,31951,19569.0,sa915715,David Bednar,NYY,RP,$14
 6497,Welcome to Flavortown,36922,25768.0,sa3010152,CJ Abrams,WSN,SS,$13
 6497,Welcome to Flavortown,40550,29837.0,sa3017414,Bryce Miller,SEA,SP,$8
-6497,Welcome to Flavortown,38398,27815.0,sa3014499,Jordan Westburg,BAL,2B/3B,$8
 6497,Welcome to Flavortown,18113,12768.0,sa455516,Sonny Gray,BOS,SP,$8
 6497,Welcome to Flavortown,18364,17432.0,sa709602,Jeff Hoffman,TOR,RP,$7
 6497,Welcome to Flavortown,31751,19853.0,sa874220,Michael King,SDP,SP,$7
 6497,Welcome to Flavortown,27164,19883.0,sa3005280,Alex Lange,KCR,RP,$7
 6497,Welcome to Flavortown,45769,35376.0,sa3065496,Konnor Griffin,PIT,SS,$6
 6497,Welcome to Flavortown,38006,26213.0,sa3011773,Caleb Kilian,SFG,RP,$6
-6497,Welcome to Flavortown,14941,11486.0,sa549085,Robbie Ray,SFG,SP,$5
-6497,Welcome to Flavortown,31438,20253.0,sa738570,Griffin Jax,TBR,SP/RP,$5
-6497,Welcome to Flavortown,18196,14107.0,sa548347,Kevin Gausman,TOR,SP,$5
 6497,Welcome to Flavortown,40371,29695.0,sa3017154,Matt McLain,CIN,2B/SS,$5
+6497,Welcome to Flavortown,18196,14107.0,sa548347,Kevin Gausman,TOR,SP,$5
+6497,Welcome to Flavortown,31438,20253.0,sa738570,Griffin Jax,TBR,SP/RP,$5
+6497,Welcome to Flavortown,14941,11486.0,sa549085,Robbie Ray,SFG,SP,$5
 6497,Welcome to Flavortown,9335,9132.0,sa455169,Nathan Eovaldi,TEX,SP,$4
 6497,Welcome to Flavortown,40255,29576.0,sa3016974,Ben Rice,NYY,C/1B,$4
-6497,Welcome to Flavortown,18985,17878.0,sa737018,Dennis Santana,PIT,RP,$3
-6497,Welcome to Flavortown,40095,29668.0,sa3017114,Marcelo Mayer,BOS,2B/SS/3B,$3
 6497,Welcome to Flavortown,44052,,sa3022609,Aidan Miller,PHI AAA,SS,$3
 6497,Welcome to Flavortown,44336,33703.0,sa3023053,Nolan McLean,NYM,SP,$3
+6497,Welcome to Flavortown,18985,17878.0,sa737018,Dennis Santana,PIT,RP,$3
+6497,Welcome to Flavortown,40095,29668.0,sa3017114,Marcelo Mayer,BOS,2B/SS/3B,$3
 6497,Welcome to Flavortown,37181,26123.0,sa3010869,Brett Baty,NYM,1B/2B/3B/OF,$2
 6497,Welcome to Flavortown,18389,13419.0,sa503826,Christian Walker,HOU,1B,$2
-6497,Welcome to Flavortown,22331,19913.0,sa872787,Jesus Sanchez,TOR,OF,$2
 6497,Welcome to Flavortown,41160,,sa3018409,Lazaro Montes,SEA AAA,OF,$2
-6497,Welcome to Flavortown,42694,31741.0,sa3020622,Mason Barnett,ATH,SP/RP,$1
-6497,Welcome to Flavortown,44524,33824.0,sa3012640,Jung Hoo Lee,SFG,OF,$1
+6497,Welcome to Flavortown,22331,19913.0,sa872787,Jesus Sanchez,TOR,OF,$2
 6497,Welcome to Flavortown,40097,30203.0,sa3018054,Jackson Jobe,DET,SP,$1
+6497,Welcome to Flavortown,44524,33824.0,sa3012640,Jung Hoo Lee,SFG,OF,$1
 6497,Welcome to Flavortown,38456,,sa3014693,Emmanuel Rodriguez,MIN AAA,OF,$1
 6497,Welcome to Flavortown,21315,19274.0,sa829328,Jacob Webb,CHC,RP,$1
 6497,Welcome to Flavortown,19575,17735.0,sa738285,Tyler Alexander,TEX,SP/RP,$1
@@ -298,8 +294,8 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6497,Welcome to Flavortown,33652,24618.0,sa3007051,Ryan Jeffers,MIN,C,$1
 6497,Welcome to Flavortown,35300,23789.0,sa3007742,Blaze Alexander,BAL,2B/SS/3B/OF,$1
 6497,Welcome to Flavortown,36048,26548.0,sa3008765,Luisangel Acuna,CHW,2B/SS/OF,$1
+6497,Welcome to Flavortown,37033,25779.0,sa3010337,Tyler Tolbert,KCR,SS/OF/RP,$1
 6497,Welcome to Flavortown,38325,27555.0,sa3014438,Garrett Mitchell,MIL,OF,$1
-6497,Welcome to Flavortown,23701,12447.0,sa599698,Seth Lugo,KCR,SP,$1
 6497,Welcome to Flavortown,45881,,sa3025360,Kaelen Culpepper,MIN AAA,SS,$1
 6558,#1 Gunnar,37806,26289.0,sa3011484,Gunnar Henderson,BAL,SS,$44
 6558,#1 Gunnar,38736,27498.0,sa3015059,Spencer Strider,ATL,SP,$31
@@ -308,26 +304,26 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6558,#1 Gunnar,47553,,sa3026056,Kade Anderson,SEA AA,SP,$9
 6558,#1 Gunnar,43893,,sa3022683,Max Clark,DET AAA,OF,$9
 6558,#1 Gunnar,23741,19959.0,sa917981,Jesus Luzardo,PHI,SP,$9
-6558,#1 Gunnar,42409,31812.0,sa3020211,Roman Anthony,BOS,OF,$8
-6558,#1 Gunnar,48240,37120.0,sa3063258,Munetaka Murakami,CHW,1B/3B,$8
 6558,#1 Gunnar,45714,35108.0,sa3025358,Cam Smith,HOU,OF,$8
+6558,#1 Gunnar,48240,37120.0,sa3063258,Munetaka Murakami,CHW,1B/3B,$8
 6558,#1 Gunnar,45789,35061.0,sa3025261,Ryan Waldschmidt,ARI,OF,$8
 6558,#1 Gunnar,42711,31623.0,sa3020644,Jacob Misiorowski,MIL,SP,$8
+6558,#1 Gunnar,42409,31812.0,sa3020211,Roman Anthony,BOS,OF,$8
 6558,#1 Gunnar,40505,29478.0,sa3017339,Carter Jensen,KCR,C,$7
-6558,#1 Gunnar,47533,,sa3030545,Liam Doyle,STL AA,SP,$7
-6558,#1 Gunnar,45790,35456.0,sa3045705,Trey Yesavage,TOR,SP,$7
 6558,#1 Gunnar,40508,29794.0,sa3017342,Kyle Manzardo,CLE,1B,$7
+6558,#1 Gunnar,45790,35456.0,sa3045705,Trey Yesavage,TOR,SP,$7
+6558,#1 Gunnar,47533,,sa3030545,Liam Doyle,STL AA,SP,$7
 6558,#1 Gunnar,42310,31461.0,sa3020078,Ben Joyce,LAA,RP,$6
 6558,#1 Gunnar,40829,30091.0,sa3017880,Andrew Painter,PHI AAA,SP,$6
 6558,#1 Gunnar,47549,,sa3069164,Eli Willits,WSN A+,SS,$5
-6558,#1 Gunnar,38367,27496.0,sa3014465,Owen Caissie,MIA,OF,$4
-6558,#1 Gunnar,43949,33549.0,sa3022886,Kyle Teel,CHW,C,$4
-6558,#1 Gunnar,42741,31893.0,sa3020707,Robby Snelling,MIA,SP/RP,$4
 6558,#1 Gunnar,44223,33572.0,sa3022895,Kevin McGonigle,DET,SS/3B,$4
+6558,#1 Gunnar,38367,27496.0,sa3014465,Owen Caissie,MIA,OF,$4
+6558,#1 Gunnar,42741,31893.0,sa3020707,Robby Snelling,MIA,SP/RP,$4
 6558,#1 Gunnar,45715,,sa3025257,Charlie Condon,COL AAA,1B/OF,$4
-6558,#1 Gunnar,42266,31532.0,sa3019969,Spencer Jones,NYY AAA,OF,$4
+6558,#1 Gunnar,42266,31532.0,sa3019969,Spencer Jones,NYY,OF,$4
 6558,#1 Gunnar,40262,29712.0,sa3017170,Colson Montgomery,CHW,SS/3B,$4
 6558,#1 Gunnar,40978,30134.0,sa3018170,Tanner Bibee,CLE,SP,$4
+6558,#1 Gunnar,43949,33549.0,sa3022886,Kyle Teel,CHW,C,$4
 6558,#1 Gunnar,47552,,sa3069100,Ethan Holliday,COL A,SS,$3
 6558,#1 Gunnar,44487,33435.0,sa3023268,Thomas White,MIA AAA,SP,$3
 6558,#1 Gunnar,40398,29646.0,sa3017183,Caleb Durbin,BOS,2B/3B,$3
@@ -338,56 +334,56 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6558,#1 Gunnar,18516,18363.0,sa828409,Victor Robles,SEA,OF,$1
 6558,#1 Gunnar,33651,22514.0,sa3007634,Triston Casas,BOS,1B,$1
 6558,#1 Gunnar,31819,19350.0,sa876350,Dean Kremer,BAL,SP,$1
-6558,#1 Gunnar,42746,31855.0,sa3020713,Colby Thomas,ATH,OF,$1
-6558,#1 Gunnar,32123,21780.0,sa917030,Esteury Ruiz,MIA,OF,$1
-6558,#1 Gunnar,44523,33827.0,sa3012630,Woo-Suk Go,MIN,RP,$1
-6558,#1 Gunnar,37786,26299.0,sa3011468,Josh Jung,TEX,3B,$1
-6558,#1 Gunnar,44310,,sa3023013,Ralphy Velazquez,CLE AAA,1B,$1
-6558,#1 Gunnar,42598,31621.0,sa3020475,Spencer Miles,TOR,RP,$1
-6558,#1 Gunnar,18459,16943.0,sa709548,Sean Newcomb,CHW,SP/RP,$1
 6558,#1 Gunnar,43973,33225.0,sa3022498,Jacob Gonzalez,PIT,1B/2B/SS,$1
+6558,#1 Gunnar,32123,21780.0,sa917030,Esteury Ruiz,MIA,OF,$1
+6558,#1 Gunnar,44630,33891.0,sa3023505,Zach Thornton,NYM,SP/RP,$1
+6558,#1 Gunnar,37786,26299.0,sa3011468,Josh Jung,TEX,3B,$1
+6558,#1 Gunnar,42598,31621.0,sa3020475,Spencer Miles,TOR,RP,$1
+6558,#1 Gunnar,44310,,sa3023013,Ralphy Velazquez,CLE AAA,1B,$1
+6558,#1 Gunnar,18459,16943.0,sa709548,Sean Newcomb,CHW,SP/RP,$1
 6558,#1 Gunnar,44016,33280.0,sa3022563,Brice Matthews,HOU,2B/OF,$1
-6587,Hamm Explosion,40142,29490.0,sa3016829,Jackson Merrill,SDP,OF,$23
-6587,Hamm Explosion,36671,25436.0,sa3011526,George Kirby,SEA,SP,$21
+6558,#1 Gunnar,44523,33827.0,sa3012630,Woo-Suk Go,MIN,RP,$1
+6587,Hamm Explosion,49401,,sa3028866,Roch Cholowsky,,Util,$23
 6587,Hamm Explosion,18359,16137.0,sa598286,Carlos Rodon,NYY,SP,$14
+6587,Hamm Explosion,49442,,sa3031459,Jackson Flora,,RP,$13
 6587,Hamm Explosion,23792,20220.0,sa3004837,Jo Adell,LAA,OF,$13
 6587,Hamm Explosion,22655,18839.0,sa874243,Josh Naylor,SEA,1B,$12
-6587,Hamm Explosion,33612,24492.0,sa3008130,Grayson Rodriguez,LAA,SP,$12
 6587,Hamm Explosion,44515,33666.0,sa3023308,Connelly Early,BOS,SP,$11
-6587,Hamm Explosion,38388,27467.0,sa3014489,Tyler Soderstrom,ATH,1B/OF,$10
 6587,Hamm Explosion,44003,33266.0,sa3022538,Jacob Wilson,ATH,SS,$10
 6587,Hamm Explosion,37531,26294.0,sa3011443,Bryson Stott,PHI,2B/SS,$10
+6587,Hamm Explosion,49511,,sa3035829,Vahn Lackey,,Util,$10
+6587,Hamm Explosion,38388,27467.0,sa3014489,Tyler Soderstrom,ATH,1B/OF,$10
 6587,Hamm Explosion,43895,33876.0,sa3023360,Rhett Lowder,CIN,SP,$9
 6587,Hamm Explosion,37841,26319.0,sa3011540,Michael Busch,CHC,1B,$9
-6587,Hamm Explosion,40941,30122.0,sa3018106,Gavin Williams,CLE,SP,$8
 6587,Hamm Explosion,38374,27899.0,sa3014474,Colt Keith,DET,1B/2B/3B,$8
-6587,Hamm Explosion,40674,29957.0,sa3017626,Edwin Arroyo,CIN,2B/SS,$7
+6587,Hamm Explosion,40941,30122.0,sa3018106,Gavin Williams,CLE,SP,$8
 6587,Hamm Explosion,43988,,sa3022894,Walker Jenkins,MIN AAA,OF,$7
-6587,Hamm Explosion,42146,31595.0,sa3019973,Brooks Lee,MIN,2B/SS/3B,$6
 6587,Hamm Explosion,39288,28824.0,sa3015716,Samuel Basallo,BAL,C/1B,$6
-6587,Hamm Explosion,42873,32056.0,sa3020949,Noah Schultz,CHW,SP,$6
-6587,Hamm Explosion,44114,,sa3022703,Zyhir Hope,LAD AA,OF,$6
 6587,Hamm Explosion,18619,15009.0,sa708446,Kyle Finnegan,DET,RP,$6
-6587,Hamm Explosion,42176,32127.0,sa3021053,Chase DeLauter,CLE,OF,$5
+6587,Hamm Explosion,42146,31595.0,sa3019973,Brooks Lee,MIN,2B/SS/3B,$6
+6587,Hamm Explosion,44114,,sa3022703,Zyhir Hope,LAD AA,OF,$6
+6587,Hamm Explosion,42873,32056.0,sa3020949,Noah Schultz,CHW,SP,$6
 6587,Hamm Explosion,38368,27615.0,sa3014466,Alec Burleson,STL,1B/OF,$5
-6587,Hamm Explosion,36325,26546.0,sa3009276,Agustin Ramirez,MIA AAA,C,$5
+6587,Hamm Explosion,42176,32127.0,sa3021053,Chase DeLauter,CLE,OF,$5
 6587,Hamm Explosion,44534,33850.0,sa3023499,Brandon Sproat,MIL,SP,$4
-6587,Hamm Explosion,44539,,sa3023363,Leo De Vries,ATH AA,SS,$4
+6587,Hamm Explosion,42299,31448.0,sa3020006,Henry Bolte,ATH,OF,$4
 6587,Hamm Explosion,45064,,sa3024108,Jesus Made,MIL AA,SS,$4
-6587,Hamm Explosion,44057,33321.0,sa3022614,Luke Keaschall,MIN,2B/OF,$3
-6587,Hamm Explosion,27207,22581.0,sa3005337,Alejandro Kirk,TOR,C,$3
-6587,Hamm Explosion,35532,25007.0,sa3008070,Alex Vesia,LAD,RP,$3
-6587,Hamm Explosion,37234,25756.0,sa3010616,Matt Brash,SEA,RP,$3
-6587,Hamm Explosion,43841,32157.0,sa3022324,Jonah Tong,NYM AAA,SP,$3
-6587,Hamm Explosion,38313,27770.0,sa3014516,Zac Veen,COL AAA,OF,$3
+6587,Hamm Explosion,44539,,sa3023363,Leo De Vries,ATH AA,SS,$4
+6587,Hamm Explosion,42991,,sa3021069,Sebastian Walcott,TEX AA,SS,$4
 6587,Hamm Explosion,41342,,sa3018591,Josue De Paula,LAD AA,OF,$3
-6587,Hamm Explosion,35808,24968.0,sa3008513,Reese Olson,DET,SP,$2
+6587,Hamm Explosion,43841,32157.0,sa3022324,Jonah Tong,NYM AAA,SP,$3
+6587,Hamm Explosion,44057,33321.0,sa3022614,Luke Keaschall,MIN,2B/OF,$3
+6587,Hamm Explosion,38313,27770.0,sa3014516,Zac Veen,COL AAA,OF,$3
+6587,Hamm Explosion,35532,25007.0,sa3008070,Alex Vesia,LAD,RP,$3
 6587,Hamm Explosion,42175,,sa3020134,Jett Williams,MIL AAA,2B/SS/3B/OF,$2
-6587,Hamm Explosion,42726,,sa3023381,Felnin Celesten,SEA A+,SS,$2
-6587,Hamm Explosion,44948,,sa3023917,Roldy Brito,COL A,2B/OF,$1
-6587,Hamm Explosion,39919,29036.0,sa3016504,Miguel Ullola,HOU AAA,SP/RP,$1
-6587,Hamm Explosion,46397,,sa3067043,Caleb Bonemer,CHW AA,SS/3B,$1
+6587,Hamm Explosion,35808,24968.0,sa3008513,Reese Olson,DET,SP,$2
+6587,Hamm Explosion,42726,,sa3023381,Felnin Celesten,SEA AA,SS,$2
+6587,Hamm Explosion,41452,30661.0,sa3018841,Didier Fuentes,ATL,SP/RP,$1
 6587,Hamm Explosion,47554,,sa3027644,Tyler Bremner,LAA A+,SP,$1
+6587,Hamm Explosion,46397,,sa3067043,Caleb Bonemer,CHW AA,SS/3B,$1
+6587,Hamm Explosion,45018,,sa3023987,Rainiel Rodriguez,STL AA,C,$1
+6587,Hamm Explosion,44948,,sa3023917,Roldy Brito,COL A+,2B/OF,$1
+6587,Hamm Explosion,39919,29036.0,sa3016504,Miguel Ullola,HOU AAA,SP/RP,$1
 6597,JetertheGOAT,33600,19755.0,,Shohei Ohtani,LAD,Util/SP,$97
 6597,JetertheGOAT,23717,20123.0,sa906282,Juan Soto,NYM,OF,$75
 6597,JetertheGOAT,18312,15640.0,sa549847,Aaron Judge,NYY,OF,$75
@@ -432,88 +428,87 @@ TeamID,Team Name,ottoneu ID,FG MajorLeagueID,FG MinorLeagueID,Name,MLB Team,Posi
 6685,Canes Baseball,36338,26668.0,sa3009289,Elly De La Cruz,CIN,SS,$54
 6685,Canes Baseball,23859,19251.0,sa873981,Pete Alonso,BAL,1B,$45
 6685,Canes Baseball,18284,13510.0,sa598784,José Ramírez,CLE,3B,$37
-6685,Canes Baseball,18466,13613.0,sa597026,Ketel Marte,ARI,2B,$23
 6685,Canes Baseball,38312,27463.0,,Garrett Crochet,BOS,SP,$17
 6685,Canes Baseball,19394,14771.0,sa737885,Emilio Pagan,CIN,RP,$11
 6685,Canes Baseball,22078,30115.0,sa869798,Robert Suarez,ATL,RP,$10
-6685,Canes Baseball,22651,18138.0,sa874172,Ryan Helsley,BAL,RP,$9
 6685,Canes Baseball,23793,19627.0,sa3003172,Brent Rooker,ATH,OF,$9
-6685,Canes Baseball,40564,29868.0,sa3017428,Bubba Chandler,PIT,SP,$9
+6685,Canes Baseball,22651,18138.0,sa874172,Ryan Helsley,BAL,RP,$9
 6685,Canes Baseball,19398,15454.0,sa737889,Nick Pivetta,SDP,SP,$7
-6685,Canes Baseball,37304,25979.0,sa3010695,Nasim Nunez,WSN,2B/SS,$6
-6685,Canes Baseball,38361,27863.0,sa3014459,Jared Jones,PIT,SP,$6
 6685,Canes Baseball,9668,12552.0,sa505033,Eugenio Suarez,CIN,3B,$6
-6685,Canes Baseball,45720,35041.0,sa3025245,Jac Caglianone,KCR,1B/OF,$5
+6685,Canes Baseball,38361,27863.0,sa3014459,Jared Jones,PIT,SP,$6
+6685,Canes Baseball,37304,25979.0,sa3010695,Nasim Nunez,WSN,2B/SS,$6
 6685,Canes Baseball,23813,19361.0,sa873673,Corbin Burnes,ARI,SP,$5
 6685,Canes Baseball,27162,23733.0,sa3005271,Ezequiel Duran,TEX,1B/2B/SS/3B/OF,$5
+6685,Canes Baseball,42988,,sa3021066,Alfredo Duno,CIN AA,C,$5
 6685,Canes Baseball,18786,17085.0,sa736473,Pablo Lopez,MIN,SP,$4
+6685,Canes Baseball,42358,31505.0,sa3020130,Sal Stewart,CIN,1B/2B/3B,$4
+6685,Canes Baseball,45862,,sa3025333,James Tibbs III,LAD AAA,1B/OF,$3
+6685,Canes Baseball,45901,35107.0,sa3025383,Tommy White,ATH,1B/3B,$3
+6685,Canes Baseball,40496,29805.0,sa3017330,TJ Rumfield,COL,1B,$3
 6685,Canes Baseball,35566,21455.0,sa3008128,Kris Bubic,KCR,SP,$3
 6685,Canes Baseball,33669,21537.0,sa3007588,Daniel Lynch IV,KCR,RP,$3
-6685,Canes Baseball,40496,29805.0,sa3017330,TJ Rumfield,COL,1B,$3
-6685,Canes Baseball,23868,20202.0,sa917944,Brandon Marsh,PHI,OF,$3
+6685,Canes Baseball,40568,29878.0,sa3017461,Sean Burke,CHW,SP/RP,$3
 6685,Canes Baseball,13217,13152.0,sa548087,Jorge Polanco,NYM,2B/3B,$3
 6685,Canes Baseball,18462,12970.0,sa597766,Joe Musgrove,SDP,RP,$3
-6685,Canes Baseball,45862,,sa3025333,James Tibbs III,LAD AAA,1B/OF,$3
-6685,Canes Baseball,40438,29754.0,sa3017261,Sam Bachman,LAA,RP,$2
-6685,Canes Baseball,40147,,sa3017022,Joshua Baez,STL AAA,OF,$2
+6685,Canes Baseball,23868,20202.0,sa917944,Brandon Marsh,PHI,OF,$3
 6685,Canes Baseball,45947,35177.0,sa3025452,Carson Benge,NYM,OF,$2
+6685,Canes Baseball,31488,19804.0,sa739000,Bryan Baker,TBR,RP,$2
 6685,Canes Baseball,44286,33656.0,sa3022963,A.J. Ewing,NYM,OF,$2
-6685,Canes Baseball,43879,33527.0,sa3022942,Hurston Waldrep,ATL,SP,$2
-6685,Canes Baseball,37797,26368.0,sa3011642,JJ Bleday,CIN,OF,$1
-6685,Canes Baseball,8550,7048.0,sa389855,Fernando Cruz,NYY,RP,$1
-6685,Canes Baseball,19649,16530.0,sa738378,Mauricio Dubon,ATL,2B/SS/3B/OF,$1
 6685,Canes Baseball,44659,33573.0,sa3023557,Travis Sykora,WSN AA,SP,$1
-6685,Canes Baseball,21156,16442.0,sa829141,Ryan O'Hearn,PIT,1B/OF,$1
-6685,Canes Baseball,18375,16944.0,sa828669,Grant Holmes,ATL,SP,$1
+6685,Canes Baseball,18171,14078.0,sa621625,Michael Wacha,KCR,SP,$1
 6685,Canes Baseball,40870,30107.0,sa3017948,Christian Scott,NYM,SP,$1
 6685,Canes Baseball,40707,29960.0,sa3017690,AJ Smith-Shawver,ATL,SP,$1
-6685,Canes Baseball,40615,29921.0,sa3017537,Spencer Arrighetti,HOU,SP,$1
-6685,Canes Baseball,23656,19360.0,sa872722,Lucas Erceg,KCR,RP,$1
-6685,Canes Baseball,26134,22664.0,sa3003226,Gabriel Moreno,ARI,C,$1
-6685,Canes Baseball,32765,19566.0,sa918283,Nathaniel Lowe,CIN,1B,$1
-6685,Canes Baseball,38383,27577.0,sa3014484,Casey Schmitt,SFG,1B/2B/3B/OF,$1
-6685,Canes Baseball,35675,21448.0,sa3008311,Davis Martin,CHW,SP,$1
-6685,Canes Baseball,33656,20633.0,,Yusei Kikuchi,LAA,SP,$1
 6685,Canes Baseball,18162,14221.0,sa658226,Jorge Soler,LAA,OF,$1
+6685,Canes Baseball,40615,29921.0,sa3017537,Spencer Arrighetti,HOU,SP,$1
+6685,Canes Baseball,18375,16944.0,sa828669,Grant Holmes,ATL,SP,$1
+6685,Canes Baseball,33656,20633.0,,Yusei Kikuchi,LAA,SP,$1
+6685,Canes Baseball,26134,22664.0,sa3003226,Gabriel Moreno,ARI,C,$1
+6685,Canes Baseball,35675,21448.0,sa3008311,Davis Martin,CHW,SP,$1
+6685,Canes Baseball,23656,19360.0,sa872722,Lucas Erceg,KCR,RP,$1
+6685,Canes Baseball,21156,16442.0,sa829141,Ryan O'Hearn,PIT,1B/OF,$1
+6685,Canes Baseball,37797,26368.0,sa3011642,JJ Bleday,CIN,OF,$1
+6685,Canes Baseball,19649,16530.0,sa738378,Mauricio Dubon,ATL,2B/SS/3B/OF,$1
+6685,Canes Baseball,8550,7048.0,sa389855,Fernando Cruz,NYY,RP,$1
+6685,Canes Baseball,32765,19566.0,sa918283,Nathaniel Lowe,CIN,1B,$1
 6748,Fuck You Dustin May,36668,25764.0,sa3011225,Bobby Witt Jr.,KCR,SS,$71
 6748,Fuck You Dustin May,43894,33677.0,sa3023079,Paul Skenes,PIT,SP,$64
-6748,Fuck You Dustin May,18549,19611.0,sa920245,Vladimir Guerrero Jr.,TOR,1B,$64
 6748,Fuck You Dustin May,37182,25878.0,sa3010593,Corbin Carroll,ARI,OF,$57
 6748,Fuck You Dustin May,18344,17350.0,sa828312,Rafael Devers,SFG,1B,$43
-6748,Fuck You Dustin May,46091,35323.0,sa3025686,Roki Sasaki,LAD,SP,$10
+6748,Fuck You Dustin May,18546,18345.0,sa874240,Kyle Tucker,LAD,OF,$40
 6748,Fuck You Dustin May,33647,21483.0,sa3008547,Shane McClanahan,TBR,SP,$10
+6748,Fuck You Dustin May,46091,35323.0,sa3025686,Roki Sasaki,LAD,SP,$10
 6748,Fuck You Dustin May,23814,19427.0,sa873698,Shane Bieber,TOR,SP,$9
 6748,Fuck You Dustin May,26154,22715.0,sa3003246,Maikel Garcia,KCR,2B/SS/3B/OF,$8
 6748,Fuck You Dustin May,40714,29995.0,sa3017698,Daylen Lile,WSN,OF,$8
 6748,Fuck You Dustin May,18163,14161.0,sa657851,Byron Buxton,MIN,OF,$7
 6748,Fuck You Dustin May,33217,21837.0,sa919293,Jonathan Aranda,TBR,1B,$6
-6748,Fuck You Dustin May,33548,20391.0,sa962605,Luis García Jr.,WSN,1B/2B,$5
 6748,Fuck You Dustin May,42754,31959.0,sa3020737,Jake Bennett,BOS,SP,$5
-6748,Fuck You Dustin May,38366,27475.0,sa3014464,Jordan Walker,STL,OF,$4
-6748,Fuck You Dustin May,36683,27647.0,sa3010868,Anthony Volpe,NYY,SS,$4
+6748,Fuck You Dustin May,33548,20391.0,sa962605,Luis García Jr.,WSN,1B/2B,$5
 6748,Fuck You Dustin May,23831,20036.0,sa920275,Isaac Paredes,HOU,1B/3B,$4
-6748,Fuck You Dustin May,20545,18568.0,sa828153,Luis Arraez,SFG,1B/2B,$4
+6748,Fuck You Dustin May,36683,27647.0,sa3010868,Anthony Volpe,NYY,SS,$4
+6748,Fuck You Dustin May,38366,27475.0,sa3014464,Jordan Walker,STL,OF,$4
 6748,Fuck You Dustin May,35367,22543.0,sa3007839,Taj Bradley,MIN,SP,$3
-6748,Fuck You Dustin May,38320,27465.0,sa3014504,Spencer Torkelson,DET,1B,$3
-6748,Fuck You Dustin May,21170,16122.0,sa829155,Jordan Romano,COL,RP,$3
 6748,Fuck You Dustin May,32492,21924.0,sa917772,Juan Morillo,ARI,RP,$3
+6748,Fuck You Dustin May,38320,27465.0,sa3014504,Spencer Torkelson,DET,1B,$3
 6748,Fuck You Dustin May,39299,,sa3015727,Hendry Mendez,MIN AAA,OF,$2
+6748,Fuck You Dustin May,38818,27969.0,sa3015168,Deyvison De Los Santos,MIA AAA,1B/3B,$2
 6748,Fuck You Dustin May,42491,31761.0,sa3020330,Owen Murphy,ATL,SP/RP,$2
-6748,Fuck You Dustin May,40263,29905.0,sa3017513,Kahlil Watson,CLE,OF,$2
-6748,Fuck You Dustin May,19242,20666.0,sa737480,Felix Bautista,BAL,RP,$2
-6748,Fuck You Dustin May,26068,23237.0,sa3003159,Juan Mejia,COL,RP,$2
-6748,Fuck You Dustin May,22616,17929.0,sa873639,Cedric Mullins,TBR,OF,$2
-6748,Fuck You Dustin May,26800,22872.0,sa3004650,Yoendrys Gomez,MIN,SP/RP,$2
+6748,Fuck You Dustin May,45708,34979.0,sa3025168,Christian Moore,LAA AAA,2B/3B,$2
 6748,Fuck You Dustin May,38307,27474.0,sa3014430,Max Meyer,MIA,SP,$2
-6748,Fuck You Dustin May,33650,23690.0,sa3005898,Brayan Rocchio,CLE,2B/SS,$1
-6748,Fuck You Dustin May,44512,33482.0,sa3023361,Chase Dollander,COL,SP/RP,$1
-6748,Fuck You Dustin May,32611,19716.0,sa917992,Dustin May,STL,SP,$1
+6748,Fuck You Dustin May,47596,,sa3028360,Cam Cannarella,MIA AAA,OF,$2
+6748,Fuck You Dustin May,22616,17929.0,sa873639,Cedric Mullins,TBR,OF,$2
+6748,Fuck You Dustin May,19242,20666.0,sa737480,Felix Bautista,BAL,RP,$2
+6748,Fuck You Dustin May,26800,22872.0,sa3004650,Yoendrys Gomez,MIN,SP/RP,$2
 6748,Fuck You Dustin May,38314,27490.0,sa3014510,Nick Gonzales,PIT,2B/SS/3B,$1
 6748,Fuck You Dustin May,42582,31680.0,sa3020459,Cole Young,SEA,2B/SS,$1
 6748,Fuck You Dustin May,14864,11739.0,sa548255,J.T. Realmuto,PHI,C,$1
-6748,Fuck You Dustin May,40972,30182.0,sa3018149,Will Warren,NYY,SP,$1
-6748,Fuck You Dustin May,40807,30063.0,sa3017851,Tristan Peters,CHW,OF,$1
-6748,Fuck You Dustin May,40472,29770.0,sa3017306,Mason Montgomery,PIT,RP,$1
+6748,Fuck You Dustin May,44512,33482.0,sa3023361,Chase Dollander,COL,SP/RP,$1
 6748,Fuck You Dustin May,27074,23590.0,sa3005122,Ben Brown,CHC,SP/RP,$1
+6748,Fuck You Dustin May,42193,31382.0,sa3019892,Dalton Rushing,LAD,C,$1
+6748,Fuck You Dustin May,40972,30182.0,sa3018149,Will Warren,NYY,SP,$1
 6748,Fuck You Dustin May,27185,20191.0,sa3005306,Garrett Whitlock,BOS,RP,$1
+6748,Fuck You Dustin May,32611,19716.0,sa917992,Dustin May,STL,SP,$1
+6748,Fuck You Dustin May,40472,29770.0,sa3017306,Mason Montgomery,PIT,SP/RP,$1
+6748,Fuck You Dustin May,33650,23690.0,sa3005898,Brayan Rocchio,CLE,2B/SS,$1
 6748,Fuck You Dustin May,36539,26944.0,sa3009613,Edgardo Henriquez,LAD,RP,$1
+6748,Fuck You Dustin May,40807,30063.0,sa3017851,Tristan Peters,CHW,OF,$1

@@ -1,14 +1,14 @@
 Name,POS,Average,Median,Minimum,Maximum,Last 10,Roster%,norm
 Shohei Ohtani LAD,Util/SP,78.64,78.0,48,107,82.9,100%,shohei ohtani
-Aaron Judge NYY,OF,69.15,69.5,37,110,59.7,100%,aaron judge
+Aaron Judge NYY,OF,69.13,69.5,37,110,58.6,100%,aaron judge
 Juan Soto NYM,OF,67.38,68.0,39,95,62.0,100%,juan soto
 Fernando Tatis Jr. SDP,2B/OF,50.86,51.0,27,73,39.3,100%,fernando tatis
 Bobby Witt Jr. KCR,SS,50.53,50.0,24,85,62.1,100%,bobby witt
 Ronald Acuña Jr. ATL,OF,50.39,50.0,22,82,46.9,100%,ronald acuna
-José Ramírez CLE,3B,50.3,51.0,20,79,34.7,99.419%,jose ramirez
+José Ramírez CLE,3B,50.21,51.0,20,79,34.3,99.709%,jose ramirez
 Yordan Alvarez HOU,OF,47.33,47.0,25,69,44.7,100%,yordan alvarez
-Vladimir Guerrero Jr. TOR,1B,46.99,48.0,25,77,28.7,99.709%,vladimir guerrero
-Kyle Tucker LAD,OF,44.69,45.0,26,63,40.4,100%,kyle tucker
+Vladimir Guerrero Jr. TOR,1B,46.92,48.0,25,77,28.7,99.128%,vladimir guerrero
+Kyle Tucker LAD,OF,44.62,45.0,26,62,40.4,100%,kyle tucker
 Julio Rodriguez SEA,OF,42.3,42.0,16,69,41.4,100%,julio rodriguez
 Paul Skenes PIT,SP,40.22,39.0,14,77,53.6,100%,paul skenes
 Yoshinobu Yamamoto LAD,SP,39.81,39.0,23,63,41.9,100%,yoshinobu yamamoto
@@ -16,1285 +16,1300 @@ Tarik Skubal DET,SP,39.44,39.0,13,69,36.8,100%,tarik skubal
 Corbin Carroll ARI,OF,37.38,37.0,10,64,44.1,100%,corbin carroll
 Francisco Lindor NYM,SS,36.82,38.0,18,58,28.8,100%,francisco lindor
 Gunnar Henderson BAL,SS,36.17,36.0,15,62,39.1,100%,gunnar henderson
-Bryce Harper PHI,1B,36.05,36.0,14,59,34.7,99.709%,bryce harper
+Bryce Harper PHI,1B,36.01,36.0,14,59,33.9,100%,bryce harper
 Kyle Schwarber PHI,OF,35.12,35.0,17,56,38.1,100%,kyle schwarber
-Pete Alonso BAL,1B,34.15,34.0,16,57,30.8,99.709%,pete alonso
+Pete Alonso BAL,1B,34.11,34.0,16,57,29.7,100%,pete alonso
 Matt Olson ATL,1B,33.56,34.0,16,59,30.2,100%,matt olson
 Rafael Devers SFG,1B,32.89,32.0,10,56,23.7,99.709%,rafael devers
-Trea Turner PHI,SS,32.87,33.0,10,55,18.0,99.128%,trea turner
-Mookie Betts LAD,SS,31.27,31.0,10,68,22.3,99.709%,mookie betts
-Freddie Freeman LAD,1B,30.63,30.0,9,80,29.5,99.709%,freddie freeman
+Trea Turner PHI,SS,32.87,33.0,10,55,18.0,98.837%,trea turner
+Mookie Betts LAD,SS,31.14,31.0,10,68,22.2,99.709%,mookie betts
+Freddie Freeman LAD,1B,30.6,30.0,9,80,28.0,100%,freddie freeman
 Elly De La Cruz CIN,SS,30.39,29.0,8,60,38.6,100%,elly de la cruz
-Corey Seager TEX,SS,29.88,29.0,10,56,18.2,91.57%,corey seager
+Corey Seager TEX,SS,29.44,29.0,9,56,17.1,93.023%,corey seager
 Ketel Marte ARI,2B,29.32,29.0,8,47,32.0,100%,ketel marte
 Max Fried NYY,SP,28.03,28.0,14,43,25.4,100%,max fried
 Logan Webb SFG,SP,27.26,27.0,11,48,22.5,100%,logan webb
-Manny Machado SDP,3B,26.58,27.0,10,56,15.9,97.384%,manny machado
-Austin Riley ATL,3B,25.89,26.0,7,45,13.6,80.814%,austin riley
+Manny Machado SDP,3B,26.51,27.0,10,56,15.1,97.384%,manny machado
 Dylan Cease TOR,SP,25.25,25.0,14,43,27.8,100%,dylan cease
-Seiya Suzuki CHC,OF,25.15,25.0,11,42,22.7,99.709%,seiya suzuki
-Garrett Crochet BOS,SP,24.95,24.0,5,64,31.6,99.128%,garrett crochet
-Framber Valdez DET,SP,24.56,25.0,11,41,15.9,95.058%,framber valdez
+Seiya Suzuki CHC,OF,25.14,25.0,11,42,22.0,100%,seiya suzuki
+Austin Riley ATL,3B,25.01,26.0,2,45,17.1,84.302%,austin riley
+Garrett Crochet BOS,SP,24.92,24.0,5,64,26.1,100%,garrett crochet
+Framber Valdez DET,SP,24.33,25.0,8,41,14.6,94.186%,framber valdez
 Logan Gilbert SEA,SP,24.02,23.0,12,45,27.3,100%,logan gilbert
-Alex Bregman CHC,3B,23.4,24.0,1,40,10.2,96.221%,alex bregman
-Bo Bichette NYM,SS/3B,23.26,23.0,2,54,16.0,99.128%,bo bichette
-Cal Raleigh SEA,C,23.15,23.0,9,61,16.5,98.837%,cal raleigh
+Bo Bichette NYM,SS/3B,23.22,23.0,2,54,16.5,99.709%,bo bichette
+Alex Bregman CHC,3B,23.19,24.0,1,40,10.4,97.674%,alex bregman
+Cal Raleigh SEA,C,23.06,23.0,9,61,16.1,97.965%,cal raleigh
 Jackson Chourio MIL,OF,22.73,21.5,6,52,34.0,100%,jackson chourio
 Junior Caminero TBR,3B,22.43,21.0,7,76,43.2,100%,junior caminero
 Zack Wheeler PHI,SP,22.14,21.0,6,51,22.1,100%,zack wheeler
 Chris Sale ATL,SP,22.08,22.0,9,37,26.9,100%,chris sale
-Christian Yelich MIL,OF,22.04,22.0,5,38,16.5,98.256%,christian yelich
+Christian Yelich MIL,OF,21.93,22.0,5,38,16.5,97.965%,christian yelich
 George Kirby SEA,SP,21.73,22.0,7,37,22.7,100%,george kirby
-Mike Trout LAA,OF,21.45,22.0,4,45,24.5,99.709%,mike trout
+Mike Trout LAA,OF,21.44,22.0,4,45,23.9,100%,mike trout
 Jazz Chisholm Jr. NYY,2B/3B,20.74,20.0,11,60,23.4,100%,jazz chisholm
 James Wood WSN,OF,20.11,18.0,6,58,34.9,100%,james wood
-Tyler Glasnow LAD,SP,20.08,20.0,8,38,17.3,98.256%,tyler glasnow
-Freddy Peralta NYM,SP,20.03,20.0,7,34,14.4,96.221%,freddy peralta
+Tyler Glasnow LAD,SP,20.01,20.0,8,38,15.1,99.419%,tyler glasnow
 Riley Greene DET,OF,19.99,19.0,10,51,27.1,100%,riley greene
+Freddy Peralta NYM,SP,19.87,20.0,7,34,13.2,95.349%,freddy peralta
 Randy Arozarena SEA,OF,19.51,19.0,7,38,19.3,100%,randy arozarena
-Cole Ragans KCR,SP,19.47,19.0,7,38,11.0,47.965%,cole ragans
 Cody Bellinger NYY,OF,19.46,19.0,9,40,22.1,100%,cody bellinger
-Blake Snell LAD,SP,19.35,19.0,5,43,12.4,96.802%,blake snell
-Spencer Strider ATL,SP,19.09,19.0,5,38,9.3,62.5%,spencer strider
-Oneil Cruz PIT,OF,18.69,18.0,7,36,17.2,99.709%,oneil cruz
+Blake Snell LAD,SP,19.23,19.0,5,43,12.6,98.547%,blake snell
+Cole Ragans KCR,SP,18.69,18.0,1,38,9.5,46.221%,cole ragans
+Oneil Cruz PIT,OF,18.67,18.0,7,36,17.6,100%,oneil cruz
+Spencer Strider ATL,SP,18.5,18.0,1,38,11.8,64.244%,spencer strider
 Hunter Brown HOU,SP,18.3,17.5,7,42,28.9,100%,hunter brown
 Cristopher Sanchez PHI,SP,18.25,17.0,6,53,31.2,100%,cristopher sanchez
-Jose Altuve HOU,2B/OF,17.97,18.0,4,41,10.7,97.093%,jose altuve
+Jose Altuve HOU,2B/OF,17.94,18.0,4,41,9.5,97.093%,jose altuve
 Nick Kurtz ATH,1B,17.58,15.0,3,51,40.9,100%,nick kurtz
 Hunter Greene CIN,SP,17.5,17.0,9,36,17.2,100%,hunter greene
-Jarren Duran BOS,OF,17.47,17.0,6,36,13.1,96.221%,jarren duran
-Teoscar Hernandez LAD,OF,17.44,17.0,5,30,14.4,98.547%,teoscar hernandez
-Jackson Merrill SDP,OF,17.31,16.0,6,45,19.4,99.709%,jackson merrill
+Jarren Duran BOS,OF,17.44,17.0,6,36,12.3,94.767%,jarren duran
+Teoscar Hernandez LAD,OF,17.43,17.0,5,30,13.4,95.64%,teoscar hernandez
 Wyatt Langford TEX,OF,17.3,16.0,6,45,24.0,100%,wyatt langford
-Kevin Gausman TOR,SP,17.2,17.0,5,32,15.9,99.709%,kevin gausman
+Jackson Merrill SDP,OF,17.27,16.0,3,45,18.0,100%,jackson merrill
+Kevin Gausman TOR,SP,17.2,17.0,5,32,15.9,99.419%,kevin gausman
 Jacob DeGrom TEX,SP,17.11,17.0,6,40,18.0,100%,jacob degrom
-William Contreras MIL,C,16.63,17.0,9,31,17.4,100%,william contreras
+William Contreras MIL,C,16.63,17.0,9,31,16.8,100%,william contreras
 Joe Ryan MIN,SP,16.58,16.0,4,30,19.7,100%,joe ryan
-Brent Rooker ATH,OF,16.51,16.0,4,40,12.2,70.93%,brent rooker
 Bryan Woo SEA,SP,16.48,15.0,7,48,30.5,100%,bryan woo
-Will Smith LAD,C,16.36,16.0,7,29,11.7,95.93%,will smith
-Ian Happ CHC,OF,16.32,16.0,5,30,17.7,99.419%,ian happ
-Sonny Gray BOS,SP,16.28,16.0,5,32,11.7,99.419%,sonny gray
-Brandon Nimmo TEX,OF,16.1,16.0,1,35,16.5,98.837%,brandon nimmo
-Josh Hader HOU,RP,15.96,15.0,2,40,13.2,99.709%,josh hader
+Ian Happ CHC,OF,16.31,16.0,5,30,16.5,100%,ian happ
+Sonny Gray BOS,SP,16.27,16.0,5,32,11.9,99.709%,sonny gray
+Will Smith LAD,C,16.26,16.0,7,29,9.7,89.535%,will smith
+Brandon Nimmo TEX,OF,16.04,16.0,1,35,12.5,99.709%,brandon nimmo
+Brent Rooker ATH,OF,15.96,15.0,1,40,10.0,71.221%,brent rooker
+Josh Hader HOU,RP,15.94,15.0,2,40,13.4,100%,josh hader
 Mason Miller SDP,RP,15.65,15.0,7,32,21.5,100%,mason miller
-Michael Harris II ATL,OF,15.55,15.0,5,52,14.1,99.709%,michael harris
-Edwin Diaz LAD,RP,15.26,15.0,3,36,11.2,97.384%,edwin diaz
+Michael Harris II ATL,OF,15.55,15.0,5,52,14.3,100%,michael harris
 CJ Abrams WSN,SS,15.26,15.0,7,31,17.5,100%,cj abrams
-Willy Adames SFG,SS,15.24,15.0,5,32,10.8,97.965%,willy adames
-Byron Buxton MIN,OF,15.04,15.0,6,39,17.5,99.709%,byron buxton
-Devin Williams NYM,RP,14.88,14.0,5,34,10.2,97.674%,devin williams
-Bryan Reynolds PIT,OF,14.8,15.0,1,32,13.8,99.709%,bryan reynolds
+Edwin Diaz LAD,RP,15.19,14.0,3,36,9.7,98.256%,edwin diaz
+Willy Adames SFG,SS,15.15,15.0,5,32,9.5,98.837%,willy adames
+Byron Buxton MIN,OF,15.08,15.0,6,39,18.5,100%,byron buxton
+Devin Williams NYM,RP,14.84,14.0,4,34,10.5,97.674%,devin williams
+Bryan Reynolds PIT,OF,14.82,15.0,1,32,13.8,100%,bryan reynolds
 Pete Crow-Armstrong CHC,OF,14.68,14.0,5,41,23.0,100%,pete crow armstrong
 Jhoan Duran PHI,RP,14.36,14.0,8,35,18.7,100%,jhoan duran
 Jesus Luzardo PHI,SP,14.25,14.0,1,39,21.3,100%,jesus luzardo
-Kazuma Okamoto TOR,1B/3B,14.09,14.0,3,32,12.8,99.709%,kazuma okamoto
-Roman Anthony BOS,OF,13.97,12.0,4,64,26.3,99.709%,roman anthony
-Jackson Holliday BAL,2B/SS,13.79,14.0,6,28,13.3,98.837%,jackson holliday
-Josh Naylor SEA,1B,13.67,13.0,2,31,10.0,96.802%,josh naylor
-Vinnie Pasquantino KCR,1B,13.54,13.0,4,28,9.2,87.209%,vinnie pasquantino
-Andres Munoz SEA,RP,13.54,12.0,3,30,10.3,99.709%,andres munoz
+Kazuma Okamoto TOR,1B/3B,14.05,14.0,3,32,12.7,99.709%,kazuma okamoto
+Roman Anthony BOS,OF,13.95,12.0,4,64,24.1,100%,roman anthony
+Jackson Holliday BAL,2B/SS,13.75,14.0,4,28,11.6,99.419%,jackson holliday
+Josh Naylor SEA,1B,13.61,13.0,2,31,9.1,95.349%,josh naylor
+Andres Munoz SEA,RP,13.54,12.0,3,30,10.0,99.709%,andres munoz
 Munetaka Murakami CHW,1B/3B,13.13,13.0,1,29,14.6,100%,munetaka murakami
-Michael King SDP,SP,13.09,13.0,6,23,12.4,99.709%,michael king
-Yandy Diaz TBR,1B,12.58,12.0,3,26,11.4,99.709%,yandy diaz
-Taylor Ward BAL,OF,12.51,12.0,4,26,14.8,99.419%,taylor ward
-Eury Perez MIA,SP,12.38,12.0,4,38,12.9,99.709%,eury perez
+Vinnie Pasquantino KCR,1B,13.11,13.0,3,28,7.1,93.314%,vinnie pasquantino
+Michael King SDP,SP,13.08,13.0,6,23,12.2,100%,michael king
+Yandy Diaz TBR,1B,12.6,12.0,3,26,12.4,100%,yandy diaz
+Taylor Ward BAL,OF,12.51,12.0,4,26,13.7,100%,taylor ward
+Eury Perez MIA,SP,12.39,12.0,4,38,13.6,100%,eury perez
 Zach Neto LAA,SS,12.31,11.0,4,36,24.7,100%,zach neto
-Carlos Rodon NYY,SP,12.02,12.0,2,32,10.5,96.802%,carlos rodon
-Raisel Iglesias ATL,RP,11.9,10.0,1,30,12.2,99.709%,raisel iglesias
-Ozzie Albies ATL,2B,11.8,11.0,1,36,11.2,99.709%,ozzie albies
-Steven Kwan CLE,OF,11.73,12.0,1,23,5.8,63.953%,steven kwan
-Shota Imanaga CHC,SP,11.6,10.0,1,34,6.5,95.64%,shota imanaga
-MacKenzie Gore TEX,SP,11.6,11.0,1,28,10.9,99.709%,mackenzie gore
-Luis Castillo SEA,SP,11.52,11.0,2,35,4.1,81.686%,luis castillo
+Carlos Rodon NYY,SP,11.94,12.0,2,32,8.1,98.547%,carlos rodon
+Raisel Iglesias ATL,RP,11.9,10.0,1,30,12.1,100%,raisel iglesias
+Ozzie Albies ATL,2B,11.8,11.0,1,36,11.1,100%,ozzie albies
+MacKenzie Gore TEX,SP,11.56,11.0,1,28,10.3,99.419%,mackenzie gore
+Shota Imanaga CHC,SP,11.53,10.0,1,34,6.7,96.802%,shota imanaga
+Nathan Eovaldi TEX,SP,11.4,11.0,2,31,9.4,98.837%,nathan eovaldi
 Isaac Paredes HOU,1B/3B,11.4,12.0,2,20,9.8,100%,isaac paredes
-Nathan Eovaldi TEX,SP,11.4,11.0,2,31,9.2,99.419%,nathan eovaldi
-Shane McClanahan TBR,SP,11.16,11.0,2,32,11.9,99.709%,shane mcclanahan
-Ryan Helsley BAL,RP,11.08,10.0,2,27,7.1,68.605%,ryan helsley
-Tatsuya Imai HOU,SP,11.03,10.0,2,33,4.7,77.616%,tatsuya imai
-Nick Lodolo CIN,SP,10.98,11.0,1,37,7.1,89.244%,nick lodolo
-Willson Contreras BOS,1B,10.96,11.0,1,26,7.8,99.709%,willson contreras
-Adley Rutschman BAL,C,10.9,10.0,1,50,10.3,99.128%,adley rutschman
-Nico Hoerner CHC,2B/SS,10.9,11.0,3,24,8.9,98.256%,nico hoerner
-George Springer TOR,OF,10.89,10.0,3,28,7.8,96.802%,george springer
+Luis Castillo SEA,SP,11.22,10.0,2,35,5.7,84.302%,luis castillo
+Steven Kwan CLE,OF,11.21,11.0,1,23,7.1,70.349%,steven kwan
+Shane McClanahan TBR,SP,11.15,11.0,2,32,11.1,100%,shane mcclanahan
+Willson Contreras BOS,1B,10.95,10.5,1,26,7.9,100%,willson contreras
+Adley Rutschman BAL,C,10.91,10.0,1,50,10.7,98.837%,adley rutschman
+Tatsuya Imai HOU,SP,10.89,10.0,2,33,5.7,78.198%,tatsuya imai
+Nico Hoerner CHC,2B/SS,10.84,11.0,3,24,8.4,98.837%,nico hoerner
+George Springer TOR,OF,10.79,10.0,1,28,7.1,96.221%,george springer
+Nick Lodolo CIN,SP,10.76,11.0,1,19,6.0,86.337%,nick lodolo
 Brandon Lowe PIT,2B,10.74,10.0,3,23,12.6,100%,brandon lowe
-Roki Sasaki LAD,SP,10.71,9.0,1,34,6.7,90.407%,roki sasaki
-Brendan Donovan SEA,2B/SS/3B/OF,10.67,10.0,2,25,6.5,97.965%,brendan donovan
-Jeremy Pena HOU,SS,10.64,10.0,3,23,11.8,99.419%,jeremy pena
-Gleyber Torres DET,2B,10.37,10.0,1,23,7.1,91.57%,gleyber torres
-Zac Gallen ARI,SP,10.33,9.0,1,29,3.6,27.616%,zac gallen
-Sandy Alcantara MIA,SP,10.16,10.0,3,25,7.8,99.709%,sandy alcantara
+Jeremy Pena HOU,SS,10.65,10.0,3,23,11.7,99.709%,jeremy pena
+Brendan Donovan SEA,2B/SS/3B/OF,10.61,10.0,2,25,6.5,98.837%,brendan donovan
+Ryan Helsley BAL,RP,10.58,10.0,1,25,6.0,63.663%,ryan helsley
+Roki Sasaki LAD,SP,10.51,9.0,1,34,9.0,92.442%,roki sasaki
+Gleyber Torres DET,2B,10.27,10.0,1,23,4.5,93.023%,gleyber torres
+Zac Gallen ARI,SP,10.24,9.0,1,29,3.4,25.291%,zac gallen
+Sandy Alcantara MIA,SP,10.15,10.0,3,25,7.5,99.709%,sandy alcantara
 Gerrit Cole NYY,SP,9.86,9.0,2,28,12.4,100%,gerrit cole
-Luis Robert Jr. NYM,OF,9.81,9.0,2,36,4.7,72.965%,luis robert
-Ranger Suarez BOS,SP,9.76,9.0,2,26,10.6,99.709%,ranger suarez
-Michael Busch CHC,1B,9.7,9.0,3,25,8.7,98.837%,michael busch
-Tanner Bibee CLE,SP,9.68,10.0,1,25,5.3,96.802%,tanner bibee
+Ranger Suarez BOS,SP,9.77,9.0,2,26,10.3,100%,ranger suarez
+Michael Busch CHC,1B,9.68,9.0,3,25,8.6,99.419%,michael busch
+Tanner Bibee CLE,SP,9.65,9.0,1,25,5.3,97.674%,tanner bibee
 Brice Turang MIL,2B,9.54,9.0,3,34,17.9,100%,brice turang
-Matt McLain CIN,2B/SS,9.45,9.0,2,23,5.7,58.43%,matt mclain
-Matt Chapman SFG,3B,9.39,9.0,1,27,6.3,84.593%,matt chapman
+Luis Robert Jr. NYM,OF,9.53,8.0,2,36,6.4,79.07%,luis robert
 Gavin Williams CLE,SP,9.38,9.0,3,26,9.5,100%,gavin williams
-Spencer Schwellenbach ATL,SP,9.34,9.0,1,27,9.0,99.128%,spencer schwellenbach
-Nick Pivetta SDP,SP,9.33,9.0,2,28,6.2,93.895%,nick pivetta
-Dylan Crews WSN,OF,9.31,9.0,1,26,7.1,97.093%,dylan crews
-Kerry Carpenter DET,OF,9.23,9.0,1,21,5.7,97.093%,kerry carpenter
-Shane Baz BAL,SP,9.15,9.0,2,18,5.7,96.512%,shane baz
+Matt Chapman SFG,3B,9.36,9.0,1,27,6.3,82.558%,matt chapman
+Nick Pivetta SDP,SP,9.3,9.0,2,28,6.6,94.767%,nick pivetta
+Matt McLain CIN,2B/SS,9.28,9.0,1,23,6.1,56.105%,matt mclain
+Spencer Schwellenbach ATL,SP,9.27,9.0,1,27,6.4,99.128%,spencer schwellenbach
+Dylan Crews WSN,OF,9.26,9.0,1,26,7.0,95.93%,dylan crews
+Kerry Carpenter DET,OF,9.21,9.0,1,21,5.8,94.477%,kerry carpenter
 Jacob Misiorowski MIL,SP,9.13,8.0,3,44,24.0,100%,jacob misiorowski
-Pete Fairbanks MIA,RP,9.08,9.0,1,24,5.6,94.767%,pete fairbanks
-Tyler Soderstrom ATH,1B/OF,9.04,8.0,3,27,14.5,99.709%,tyler soderstrom
-David Bednar NYY,RP,8.93,8.0,2,26,8.5,99.709%,david bednar
-Heliot Ramos SFG,OF,8.75,8.0,2,24,5.6,98.547%,heliot ramos
-Geraldo Perdomo ARI,SS,8.71,8.0,1,33,11.8,99.709%,geraldo perdomo
-Max Muncy LAD,3B,8.67,8.0,1,52,10.3,99.709%,max muncy
+Pete Fairbanks MIA,RP,9.13,9.0,1,24,5.8,88.081%,pete fairbanks
+Shane Baz BAL,SP,9.12,9.0,2,18,5.8,97.384%,shane baz
+Tyler Soderstrom ATH,1B/OF,9.07,8.0,3,27,15.3,100%,tyler soderstrom
+David Bednar NYY,RP,8.92,8.0,2,26,8.0,100%,david bednar
+Heliot Ramos SFG,OF,8.73,8.0,2,24,6.4,99.419%,heliot ramos
+Geraldo Perdomo ARI,SS,8.7,8.0,1,33,10.9,100%,geraldo perdomo
+Max Muncy LAD,3B,8.68,8.0,1,52,6.1,100%,max muncy
 J.P. France HOU AAA,SP/RP,8.5,8.5,8,9,1.4,0.581%,j p france hou
-Kenley Jansen DET,RP,8.48,7.0,1,28,4.5,82.558%,kenley jansen
-Bryce Miller SEA,SP,8.43,8.0,1,23,9.8,99.709%,bryce miller
-Maikel Garcia KCR,2B/SS/3B/OF,8.41,7.0,3,45,19.3,99.709%,maikel garcia
-Shea Langeliers ATH,C,8.41,8.0,3,28,16.6,99.709%,shea langeliers
-Dansby Swanson CHC,SS,8.32,8.0,1,22,6.0,97.093%,dansby swanson
-Salvador Perez KCR,C/1B,8.31,8.0,1,28,4.6,67.442%,salvador perez
-Ezequiel Tovar COL,SS,8.29,9.0,1,18,3.9,50.872%,ezequiel tovar
-Aaron Nola PHI,SP,8.2,7.0,1,24,4.2,54.942%,aaron nola
-Eugenio Suarez CIN,3B,8.18,7.0,2,24,4.3,89.244%,eugenio suarez
+Bryce Miller SEA,SP,8.49,8.0,1,26,12.1,100%,bryce miller
+Kenley Jansen DET,RP,8.47,7.0,1,28,4.1,82.849%,kenley jansen
+Shea Langeliers ATH,C,8.43,8.0,3,28,15.9,100%,shea langeliers
+Maikel Garcia KCR,2B/SS/3B/OF,8.33,7.0,3,45,17.1,99.419%,maikel garcia
+Dansby Swanson CHC,SS,8.3,8.0,1,22,6.1,96.802%,dansby swanson
+Ezequiel Tovar COL,SS,8.25,9.0,1,18,4.5,47.384%,ezequiel tovar
+Aaron Nola PHI,SP,8.18,7.0,1,24,3.7,52.326%,aaron nola
 Ben Rice NYY,C/1B,8.13,7.0,3,42,21.5,100%,ben rice
-Jordan Lawlar ARI,2B/SS/3B/OF,8.06,8.0,1,18,6.9,98.256%,jordan lawlar
-Robert Suarez ATL,RP,8.04,7.0,1,27,5.7,94.477%,robert suarez
+Salvador Perez KCR,C/1B,8.1,8.0,1,28,4.1,67.151%,salvador perez
+Eugenio Suarez CIN,3B,8.09,7.0,1,24,3.8,90.698%,eugenio suarez
+Jordan Lawlar ARI,2B/SS/3B/OF,8.04,8.0,1,18,6.0,98.256%,jordan lawlar
+Robert Suarez ATL,RP,7.99,7.0,1,27,5.1,93.605%,robert suarez
 Chase Burns CIN,SP/RP,7.97,7.0,3,30,17.8,100%,chase burns
 Aroldis Chapman BOS,RP,7.97,7.5,3,25,10.5,100%,aroldis chapman
-Luis Arraez SFG,1B/2B,7.94,8.0,1,19,4.9,99.709%,luis arraez
-Jacob Wilson ATH,SS,7.76,7.0,3,19,6.0,99.128%,jacob wilson
+Luis Arraez SFG,1B/2B,7.94,8.0,1,19,5.6,100%,luis arraez
+Jacob Wilson ATH,SS,7.76,7.0,3,19,6.5,99.709%,jacob wilson
 Cade Smith CLE,RP,7.73,7.0,4,28,13.0,100%,cade smith
 Trey Yesavage TOR,SP,7.72,7.0,3,31,10.5,100%,trey yesavage
 Drew Rasmussen TBR,SP,7.7,7.0,2,24,10.9,100%,drew rasmussen
-Jasson Dominguez NYY,OF,7.67,8.0,1,21,7.6,98.837%,jasson dominguez
-Brandon Woodruff MIL,SP,7.65,7.0,1,18,6.0,82.267%,brandon woodruff
-Connelly Early BOS,SP,7.6,7.0,1,19,8.2,97.674%,connelly early
-Bubba Chandler PIT,SP,7.57,7.0,3,26,8.3,98.837%,bubba chandler
-Kyle Bradish BAL,SP,7.56,7.0,3,26,11.4,99.419%,kyle bradish
+Roch Cholowsky,Util,7.67,7.0,1,23,5.3,74.709%,roch cholowsky
+Jasson Dominguez NYY,OF,7.65,8.0,1,21,7.2,99.128%,jasson dominguez
+Kodai Senga NYM,SP/RP,7.6,7.0,1,25,3.0,19.477%,kodai senga
+Kyle Bradish BAL,SP,7.58,7.0,3,26,12.5,99.709%,kyle bradish
+Connelly Early BOS,SP,7.56,7.0,1,19,6.2,98.547%,connelly early
+Bubba Chandler PIT,SP,7.55,7.0,3,26,7.1,99.128%,bubba chandler
 Cam Schlittler NYY,SP,7.54,7.0,3,37,11.7,100%,cam schlittler
-Ceddanne Rafaela BOS,2B/OF,7.51,7.0,1,26,7.1,99.419%,ceddanne rafaela
-Lawrence Butler ATH,OF,7.48,6.0,2,23,4.4,71.512%,lawrence butler
-Xavier Edwards MIA,2B/SS,7.36,7.0,1,20,5.2,99.709%,xavier edwards
-Jung Hoo Lee SFG,OF,7.34,7.0,1,35,5.8,99.419%,jung hoo lee
-Wilyer Abreu BOS,OF,7.31,7.0,1,26,13.3,99.709%,wilyer abreu
-Kodai Senga NYM,SP,7.29,7.0,1,25,2.5,23.256%,kodai senga
-Jac Caglianone KCR,1B/OF,7.27,6.0,3,26,18.6,99.709%,jac caglianone
+Ceddanne Rafaela BOS,2B/OF,7.51,7.0,1,26,7.2,99.709%,ceddanne rafaela
+Lawrence Butler ATH,OF,7.4,6.0,2,23,4.5,67.733%,lawrence butler
+Brandon Woodruff MIL,SP,7.37,7.0,1,18,4.8,48.547%,brandon woodruff
+Xavier Edwards MIA,2B/SS,7.36,7.0,1,20,4.9,100%,xavier edwards
+Jung Hoo Lee SFG,OF,7.33,7.0,1,35,4.9,99.709%,jung hoo lee
+Jac Caglianone KCR,1B/OF,7.31,6.0,3,26,18.3,100%,jac caglianone
+Wilyer Abreu BOS,OF,7.31,7.0,1,26,11.5,100%,wilyer abreu
 Nolan McLean NYM,SP,7.24,6.0,3,40,18.8,100%,nolan mclean
-Shane Bieber TOR,SP,7.03,7.0,1,22,6.1,81.105%,shane bieber
 Dillon Tate LAA AAA,RP,7.0,7.0,7,7,1.2,0.291%,dillon tate laa
-Robbie Ray SFG,SP,6.98,6.0,1,18,4.9,93.605%,robbie ray
-Trevor Megill MIL,RP,6.95,6.0,2,30,3.6,99.709%,trevor megill
-Jordan Westburg BAL,2B/3B,6.93,6.0,1,21,4.8,79.07%,jordan westburg
-Bryson Stott PHI,2B/SS,6.92,7.0,1,16,4.6,95.64%,bryson stott
-Carlos Estevez KCR,RP,6.87,6.5,1,20,3.2,37.209%,carlos estevez
-Hunter Goodman COL,C,6.86,6.0,3,22,12.7,99.709%,hunter goodman
-Bryan Abreu HOU,RP,6.75,7.0,1,16,2.8,41.57%,bryan abreu
-Alec Burleson STL,1B/OF,6.66,6.0,2,24,10.0,99.419%,alec burleson
-Samuel Basallo BAL,C/1B,6.64,6.0,3,17,9.9,99.709%,samuel basallo
-Jo Adell LAA,OF,6.59,6.0,3,21,7.0,99.128%,jo adell
-Daniel Palencia CHC,RP,6.52,6.0,2,28,5.2,84.012%,daniel palencia
-Corbin Burnes ARI,SP,6.5,6.0,1,22,6.4,95.93%,corbin burnes
-Jakob Marsee MIA,OF,6.49,6.0,1,17,3.2,81.977%,jakob marsee
-Jared Jones PIT,SP,6.48,6.0,1,18,4.7,99.419%,jared jones
-Andy Pages LAD,OF,6.47,6.0,3,22,9.8,99.709%,andy pages
+Trevor Megill MIL,RP,6.97,6.0,2,30,4.4,100%,trevor megill
+Robbie Ray SFG,SP,6.93,6.0,1,18,3.9,94.767%,robbie ray
+Shane Bieber TOR,SP,6.93,7.0,1,22,4.0,81.105%,shane bieber
+Bryson Stott PHI,2B/SS,6.9,7.0,1,16,4.4,96.512%,bryson stott
+Hunter Goodman COL,C,6.89,6.0,3,22,12.3,100%,hunter goodman
+Jordan Westburg BAL,2B/3B,6.84,6.0,1,21,5.0,81.686%,jordan westburg
+Carlos Estevez KCR,RP,6.79,6.0,1,20,2.4,36.919%,carlos estevez
+Alec Burleson STL,1B/OF,6.68,6.0,2,24,10.4,99.709%,alec burleson
+Bryan Abreu HOU,RP,6.65,7.0,1,16,3.3,39.535%,bryan abreu
+Samuel Basallo BAL,C/1B,6.64,6.0,3,17,9.5,100%,samuel basallo
+Jo Adell LAA,OF,6.58,6.0,3,21,6.5,99.128%,jo adell
+Jared Jones PIT,SP,6.49,6.0,1,18,5.1,99.709%,jared jones
+Andy Pages LAD,OF,6.49,6.0,3,22,10.5,100%,andy pages
+Travis Bazzana CLE,2B,6.47,6.0,1,17,5.9,100%,travis bazzana
 Ivan Herrera STL,C,6.46,6.0,1,23,9.6,100%,ivan herrera
-Travis Bazzana CLE,2B,6.46,6.0,1,17,5.4,99.709%,travis bazzana
-Ryan Pepiot TBR,SP,6.45,6.0,1,20,3.4,61.047%,ryan pepiot
-Spencer Steer CIN,1B/2B/OF,6.42,6.0,1,17,5.4,99.419%,spencer steer
-Colson Montgomery CHW,SS/3B,6.42,6.0,2,19,9.2,99.709%,colson montgomery
-Jonathan Aranda TBR,1B,6.41,6.0,1,17,5.0,99.419%,jonathan aranda
-Kyle Stowers MIA,1B/OF,6.4,6.0,1,28,5.9,99.709%,kyle stowers
-Spencer Torkelson DET,1B,6.39,6.0,1,19,3.8,89.244%,spencer torkelson
-Colt Keith DET,1B/2B/3B,6.36,6.0,1,16,4.2,84.884%,colt keith
-Konnor Griffin PIT,SS,6.35,5.0,2,41,18.8,99.709%,konnor griffin
-Grayson Rodriguez LAA,SP,6.23,5.0,1,18,4.5,65.698%,grayson rodriguez
-Jack Flaherty DET,SP,6.22,6.0,1,19,3.2,80.814%,jack flaherty
-TJ Friedl CIN,OF,6.2,6.0,1,13,4.1,18.895%,tj friedl
-Drake Baldwin ATL,C,6.15,6.0,3,30,14.4,99.709%,drake baldwin
-Royce Lewis MIN,1B/3B,6.12,6.0,1,17,5.2,95.93%,royce lewis
-Xander Bogaerts SDP,SS,6.07,6.0,1,23,4.4,82.558%,xander bogaerts
-Marcelo Mayer BOS,2B/SS/3B,6.03,6.0,1,13,3.2,66.86%,marcelo mayer
+Corbin Burnes ARI,SP,6.46,6.0,1,22,5.0,97.093%,corbin burnes
+Daniel Palencia CHC,RP,6.45,6.0,2,28,4.0,82.558%,daniel palencia
+Jonathan Aranda TBR,1B,6.44,6.0,1,17,6.0,99.709%,jonathan aranda
+Jakob Marsee MIA,OF,6.43,6.0,1,17,3.8,80.814%,jakob marsee
+Colson Montgomery CHW,SS/3B,6.43,6.0,2,19,9.1,100%,colson montgomery
+Spencer Steer CIN,1B/2B/OF,6.42,6.0,1,17,5.4,100%,spencer steer
+Kyle Stowers MIA,1B/OF,6.4,6.0,1,28,5.7,100%,kyle stowers
+Konnor Griffin PIT,SS,6.38,5.0,2,41,17.9,100%,konnor griffin
+TJ Friedl CIN,OF,6.34,6.5,1,13,2.9,16.86%,tj friedl
+Spencer Torkelson DET,1B,6.34,6.0,1,19,3.9,88.953%,spencer torkelson
+Colt Keith DET,1B/2B/3B,6.32,6.0,1,16,4.5,86.628%,colt keith
+Jack Flaherty DET,SP,6.26,6.0,1,19,4.7,79.07%,jack flaherty
+Ryan Pepiot TBR,SP,6.18,6.0,1,20,3.3,66.57%,ryan pepiot
+Drake Baldwin ATL,C,6.17,6.0,3,30,14.1,100%,drake baldwin
+Royce Lewis MIN,1B/3B,6.12,6.0,1,17,4.7,96.512%,royce lewis
+Grayson Rodriguez LAA,SP,6.1,5.0,1,18,3.5,62.5%,grayson rodriguez
+Xander Bogaerts SDP,SS,6.08,6.0,1,23,3.6,81.105%,xander bogaerts
+Sal Stewart CIN,1B/2B/3B,6.03,5.0,1,24,12.4,100%,sal stewart
 Johan Rojas PHI,OF,6.0,6.0,6,6,1.3,0.291%,johan rojas
-Erik Swanson FA,RP,6.0,6.0,6,6,1.7,0.291%,erik swanson
 Mitch Spence KCR AAA,SP/RP,6.0,6.0,6,6,1.4,0.291%,mitch spence kcr
-Henry Davis PIT,C,6.0,6.0,3,9,1.1,0.581%,henry davis
-Connor Joe SEA AAA,OF,6.0,6.0,6,6,1.0,0.291%,connor joe sea
-Jeff Hoffman TOR,RP,5.99,5.0,1,20,3.9,91.279%,jeff hoffman
-Daylen Lile WSN,OF,5.99,5.0,1,21,8.2,99.419%,daylen lile
-Sal Stewart CIN,1B/2B/3B,5.98,5.0,1,21,10.6,99.709%,sal stewart
-Carter Jensen KCR,C,5.94,5.0,1,23,5.7,99.709%,carter jensen
-Jeremiah Estrada SDP,RP,5.89,6.0,2,18,2.9,67.733%,jeremiah estrada
-Braxton Ashcraft PIT,SP/RP,5.88,5.0,1,14,5.4,99.709%,braxton ashcraft
-Trevor Rogers BAL,SP,5.78,5.0,1,15,5.3,95.64%,trevor rogers
-Griffin Jax TBR,SP/RP,5.77,5.0,1,18,4.9,97.093%,griffin jax
-Edward Cabrera CHC,SP,5.75,5.0,2,17,4.9,80.233%,edward cabrera
-Luke Keaschall MIN,2B/OF,5.73,5.0,1,24,5.1,97.384%,luke keaschall
-Yainer Diaz HOU,C,5.71,5.0,1,15,2.8,58.43%,yainer diaz
-Jose Soriano LAA,SP,5.69,5.0,1,17,5.9,99.709%,jose soriano
-Carlos Correa HOU,SS/3B,5.68,5.0,1,21,3.4,54.36%,carlos correa
-Adolis García PHI,OF,5.62,4.0,1,21,3.1,30.523%,adolis garcia
-Andrew Painter PHI AAA,SP,5.6,5.0,1,13,3.8,76.163%,andrew painter phi
-Justin Steele CHC,RP,5.59,5.0,1,21,4.8,84.302%,justin steele
-Grant Taylor CHW,SP/RP,5.58,5.0,1,17,7.7,99.419%,grant taylor
-Marcus Semien NYM,2B,5.58,5.0,1,26,2.7,38.372%,marcus semien
-Ryan Walker SFG AAA,RP,5.57,5.0,1,13,2.5,22.093%,ryan walker sfg
-Agustin Ramirez MIA AAA,C,5.56,5.0,1,15,2.7,34.302%,agustin ramirez mia
-Seranthony Dominguez CHW,RP,5.54,4.0,1,26,4.2,83.43%,seranthony dominguez
-Brenton Doyle COL,OF,5.51,5.0,1,17,2.8,20.64%,brenton doyle
-Pablo Lopez MIN,SP,5.5,4.0,1,29,4.1,72.965%,pablo lopez
-Evan Carter TEX,OF,5.47,5.0,1,15,4.0,67.151%,evan carter
+Connor Joe SEA AAA,1B/OF,6.0,6.0,6,6,1.0,0.291%,connor joe sea
+Erik Swanson FA,RP,6.0,6.0,6,6,1.7,0.291%,erik swanson
+Marcelo Mayer BOS,2B/SS/3B,6.0,6.0,1,13,3.1,64.244%,marcelo mayer
+Jeff Hoffman TOR,RP,5.96,5.0,1,20,3.6,91.279%,jeff hoffman
+Carter Jensen KCR,C,5.94,5.0,1,23,5.7,100%,carter jensen
+Braxton Ashcraft PIT,SP/RP,5.94,5.0,1,25,7.5,100%,braxton ashcraft
+Daylen Lile WSN,OF,5.92,5.0,1,21,7.2,99.128%,daylen lile
+Trevor Rogers BAL,SP,5.79,5.0,1,15,5.8,97.384%,trevor rogers
+Jeremiah Estrada SDP AAA,RP,5.77,6.0,1,18,3.5,68.895%,jeremiah estrada sdp
+Griffin Jax TBR,SP/RP,5.74,5.0,1,18,4.8,97.965%,griffin jax
+Luke Keaschall MIN,2B/OF,5.72,5.0,1,24,5.2,98.256%,luke keaschall
+Edward Cabrera CHC,SP,5.7,5.0,1,17,3.0,80.523%,edward cabrera
+Ryan Walker SFG AAA,RP,5.7,5.0,1,13,2.2,18.314%,ryan walker sfg
+Jose Soriano LAA,SP,5.68,5.0,1,17,5.4,100%,jose soriano
+Yainer Diaz HOU,C,5.63,5.0,1,15,2.4,58.14%,yainer diaz
+Carlos Correa HOU,SS/3B,5.57,5.0,1,21,3.4,57.849%,carlos correa
+Grant Taylor CHW,SP/RP,5.56,5.0,1,17,7.3,100%,grant taylor
+Justin Steele CHC,RP,5.52,5.0,1,21,3.8,85.465%,justin steele
+Kyle Manzardo CLE,1B,5.51,6.0,1,17,2.2,52.907%,kyle manzardo
+Adolis García PHI,OF,5.5,4.0,1,21,3.3,30.523%,adolis garcia
+Andrew Painter PHI AAA,SP,5.49,5.0,1,13,3.6,76.453%,andrew painter phi
+Agustin Ramirez MIA AAA,C,5.48,5.0,1,15,2.2,32.849%,agustin ramirez mia
+Pablo Lopez MIN,SP,5.47,4.0,1,29,5.3,75.872%,pablo lopez
+Noelvi Marte CIN,3B/OF,5.45,5.0,1,20,3.5,86.919%,noelvi marte
 Bryce Eldridge SFG,1B,5.45,5.0,1,21,8.1,99.709%,bryce eldridge
-Cam Smith HOU,OF,5.43,5.0,1,17,5.0,99.128%,cam smith
-Noelvi Marte CIN,3B/OF,5.41,5.0,1,20,3.7,91.86%,noelvi marte
-Emmet Sheehan LAD,SP,5.39,5.0,1,22,6.0,98.547%,emmet sheehan
-Kyle Manzardo CLE,1B,5.38,5.0,1,17,2.3,59.012%,kyle manzardo
-Trevor Story BOS,SS,5.38,5.0,1,19,2.5,46.221%,trevor story
-Alec Bohm PHI,1B/3B,5.33,5.0,1,20,2.8,72.384%,alec bohm
+Seranthony Dominguez CHW,RP,5.43,4.0,1,26,3.1,81.395%,seranthony dominguez
+Cam Smith HOU,OF,5.43,5.0,1,17,5.2,99.419%,cam smith
+Emmet Sheehan LAD,SP,5.41,5.0,1,22,6.3,99.128%,emmet sheehan
+Marcus Semien NYM,2B,5.41,5.0,1,26,2.2,37.209%,marcus semien
+Evan Carter TEX,OF,5.35,5.0,1,15,3.2,69.477%,evan carter
+Francisco Alvarez NYM,C,5.35,5.0,1,14,4.8,96.221%,francisco alvarez
+Colton Cowser BAL,OF,5.34,5.0,1,18,3.3,57.267%,colton cowser
 Kyren Paris LAA AAA,2B/SS/OF,5.33,5.0,5,6,1.7,0.872%,kyren paris laa
-Francisco Alvarez NYM,C,5.33,5.0,1,14,3.7,95.349%,francisco alvarez
-Mickey Moniak COL,OF,5.26,4.0,1,17,3.5,99.709%,mickey moniak
-Colton Cowser BAL,OF,5.22,5.0,1,18,3.2,67.733%,colton cowser
+Alec Bohm PHI,1B/3B,5.29,5.0,1,20,3.0,71.221%,alec bohm
+Mickey Moniak COL,OF,5.28,4.0,1,17,3.6,100%,mickey moniak
+Trevor Story BOS,SS,5.2,4.0,1,19,2.9,47.384%,trevor story
 JJ Wetherholt STL,2B/SS,5.19,5.0,1,21,9.7,100%,jj wetherholt
-Addison Barger TOR,3B/OF,5.13,5.0,2,12,3.5,72.093%,addison barger
-Andrew Abbott CIN,SP,5.1,4.0,1,15,2.6,83.721%,andrew abbott
+Andrew Abbott CIN,SP,5.1,4.0,1,15,2.3,83.14%,andrew abbott
+Brenton Doyle COL,OF,5.09,5.0,1,13,2.2,19.477%,brenton doyle
+Addison Barger TOR,3B/OF,5.09,5.0,1,12,3.0,61.919%,addison barger
 Parker Messick CLE,SP,5.08,4.0,1,14,6.0,99.709%,parker messick
-Esmerlyn Valdez PIT,OF,5.03,5.0,1,14,6.5,96.221%,esmerlyn valdez
-Abner Uribe MIL,RP,5.01,4.0,2,22,4.3,99.709%,abner uribe
-Masyn Winn STL,SS,5.0,5.0,1,13,4.6,80.233%,masyn winn
-Kris Bubic KCR,SP,5.0,5.0,2,21,3.4,90.988%,kris bubic
-Yariel Rodriguez TOR AAA,RP,5.0,5.0,5,5,1.6,0.291%,yariel rodriguez tor
-Jason Delay BOS AAA,C,5.0,5.0,5,5,1.1,0.291%,jason delay bos
+Luis Gil NYY,SP,5.05,5.0,1,13,2.8,16.57%,luis gil
+Esmerlyn Valdez PIT,OF,5.05,5.0,1,17,5.6,98.256%,esmerlyn valdez
+Masyn Winn STL,SS,5.0,5.0,1,13,4.0,80.523%,masyn winn
+Abner Uribe MIL,RP,5.0,4.0,2,22,4.1,100%,abner uribe
 Jose Miranda SDP AAA,3B,5.0,5.0,5,5,1.5,0.291%,jose miranda sdp
-Starling Marte KCR,OF,5.0,5.0,5,5,1.1,0.291%,starling marte
 Giovanny Gallegos FA,RP,5.0,5.0,5,5,1.2,0.291%,giovanny gallegos
 Brendan Rodgers BOS,2B,5.0,5.0,5,5,1.6,0.291%,brendan rodgers
 Brett Wisely ATL AAA,2B/SS,5.0,5.0,5,5,1.4,0.291%,brett wisely atl
-Nick Sandlin DET AAA,RP,5.0,5.0,5,5,1.1,0.291%,nick sandlin det
-Michael Toglia CIN AAA,1B,5.0,5.0,5,5,2.5,0.291%,michael toglia cin
+Jason Delay BOS AAA,C,5.0,5.0,5,5,1.1,0.291%,jason delay bos
+Starling Marte KCR,OF,5.0,5.0,5,5,1.1,0.291%,starling marte
 David Robertson FA,RP,5.0,5.0,5,5,1.8,0.291%,david robertson
-Luis Gil NYY,SP,4.98,5.0,1,13,2.5,16.86%,luis gil
+Michael Toglia CIN AAA,1B,5.0,5.0,5,5,2.5,0.291%,michael toglia cin
+Yariel Rodriguez TOR AAA,RP,5.0,5.0,5,5,1.6,0.291%,yariel rodriguez tor
+Nick Sandlin DET AAA,RP,5.0,5.0,5,5,1.1,0.291%,nick sandlin det
 Kevin McGonigle DET,SS/3B,4.98,4.0,2,29,14.3,100%,kevin mcgonigle
-Jack Leiter TEX,SP,4.87,4.0,1,16,2.8,66.279%,jack leiter
-Henry Bolte ATH,OF,4.87,5.0,1,12,6.1,97.965%,henry bolte
-Walker Jenkins MIN AAA,OF,4.86,5.0,1,13,5.5,98.256%,walker jenkins min
-Ryan Weathers NYY,SP,4.84,5.0,1,16,3.9,99.128%,ryan weathers
-Mitch Keller PIT,SP,4.83,4.0,1,17,2.3,71.512%,mitch keller
-Matthew Boyd CHC,SP,4.78,5.0,1,12,4.1,96.221%,matthew boyd
-Giancarlo Stanton NYY,OF,4.77,4.0,1,17,2.7,70.64%,giancarlo stanton
-Payton Tolle BOS,SP,4.75,4.0,1,15,7.5,99.419%,payton tolle
-Merrill Kelly ARI,SP,4.65,4.0,1,13,2.4,31.686%,merrill kelly
-Matt Shaw CHC,3B/OF,4.64,5.0,1,13,3.7,84.593%,matt shaw
-Logan Henderson MIL,SP,4.62,4.0,1,13,6.3,99.419%,logan henderson
-Brayan Bello BOS,SP/RP,4.6,3.0,1,14,2.0,25.291%,brayan bello
-Daulton Varsho TOR,OF,4.59,4.0,1,19,4.9,97.384%,daulton varsho
-Clay Holmes NYM,SP,4.59,4.0,1,16,4.3,89.826%,clay holmes
-Trent Grisham NYY,OF,4.57,4.0,1,17,4.0,99.419%,trent grisham
-Willi Castro COL,1B/2B/SS/3B/OF,4.53,5.0,1,11,3.5,97.384%,willi castro
-Ryan O'Hearn PIT,1B/OF,4.53,4.0,1,18,4.0,99.709%,ryan o hearn
-Emerson Hancock SEA,SP/RP,4.51,4.0,1,13,5.5,99.419%,emerson hancock
-Matt Wallner MIN AAA,OF,4.49,4.0,1,17,2.8,30.523%,matt wallner min
-Sal Frelick MIL,OF,4.45,3.0,1,15,2.4,63.081%,sal frelick
-Jonah Tong NYM AAA,SP,4.41,4.0,1,14,2.4,71.512%,jonah tong nym
-Chase DeLauter CLE,OF,4.39,4.0,1,17,8.4,99.709%,chase delauter
-Emilio Pagan CIN,RP,4.35,4.0,1,21,2.2,66.279%,emilio pagan
-Cade Horton CHC,SP,4.35,4.0,1,15,2.6,76.453%,cade horton
-Christian Walker HOU,1B,4.32,3.0,1,19,4.2,98.256%,christian walker
-Noah Cameron KCR,SP,4.31,4.0,1,12,4.1,84.593%,noah cameron
-Carson Benge NYM,OF,4.3,4.0,1,14,6.8,99.419%,carson benge
-Kristian Campbell BOS AAA,1B/2B/OF,4.29,4.0,1,13,3.1,35.174%,kristian campbell bos
-A.J. Ewing NYM,OF,4.28,4.0,1,16,4.8,99.419%,a j ewing
-Max Clark DET AAA,OF,4.28,4.0,1,12,4.0,99.419%,max clark det
-Luis García Jr. WSN,1B/2B,4.26,4.0,1,20,7.6,99.128%,luis garcia
-Kyle Teel CHW,C,4.22,4.0,1,11,4.6,97.384%,kyle teel
-Owen Caissie MIA,OF,4.2,4.0,1,11,2.7,94.767%,owen caissie
-Sebastian Walcott TEX CPX,SS,4.19,4.0,1,10,4.0,95.64%,sebastian walcott tex
-Dylan Beavers BAL,OF,4.19,4.0,1,18,3.3,74.709%,dylan beavers
-Gabriel Moreno ARI,C,4.19,4.0,1,14,3.3,98.837%,gabriel moreno
-Matt Brash SEA,RP,4.17,4.0,1,11,2.7,65.116%,matt brash
-Kade Anderson SEA AA,SP,4.14,4.0,1,16,5.0,99.419%,kade anderson sea
-Joey Cantillo CLE,SP/RP,4.14,4.0,1,12,4.4,97.674%,joey cantillo
-JJ Bleday CIN,OF,4.13,4.0,1,18,3.5,98.547%,jj bleday
-Moises Ballesteros CHC AAA,C,4.11,4.0,1,11,3.8,78.198%,moises ballesteros chc
-Jesus Made MIL AA,SS,4.11,4.0,1,21,4.4,99.419%,jesus made mil
-Ramon Laureano SDP,OF,4.1,3.0,1,10,2.8,27.907%,ramon laureano
-Kyle Finnegan DET,RP,4.1,3.0,1,19,3.2,55.814%,kyle finnegan
-Robert Garcia TEX,RP,4.08,3.5,1,19,2.4,33.14%,robert garcia
-Chandler Simpson TBR,OF,4.07,3.0,1,22,3.0,85.174%,chandler simpson
-Brandon Sproat MIL,SP,4.04,4.0,1,12,3.8,90.698%,brandon sproat
+Kris Bubic KCR,SP,4.97,5.0,1,21,3.6,91.57%,kris bubic
+Henry Bolte ATH,OF,4.85,5.0,1,12,4.2,94.767%,henry bolte
+Walker Jenkins MIN AAA,OF,4.85,5.0,1,13,5.2,98.837%,walker jenkins min
+Ryan Weathers NYY,SP,4.84,5.0,1,16,4.4,98.547%,ryan weathers
+Jack Leiter TEX,SP,4.83,4.0,1,16,2.6,63.663%,jack leiter
+Payton Tolle BOS,SP,4.79,4.0,1,17,8.7,99.709%,payton tolle
+Mitch Keller PIT,SP,4.78,4.0,1,17,2.3,69.477%,mitch keller
+Matthew Boyd CHC,SP,4.77,5.0,1,12,4.7,97.384%,matthew boyd
+Giancarlo Stanton NYY,OF,4.74,4.0,1,17,2.8,70.64%,giancarlo stanton
+Clay Holmes NYM,SP,4.65,4.0,1,16,6.2,93.023%,clay holmes
+Logan Henderson MIL,SP,4.64,4.0,1,13,6.5,99.709%,logan henderson
+Brayan Bello BOS,SP/RP,4.62,3.0,1,14,2.6,24.709%,brayan bello
+Matt Shaw CHC,3B/OF,4.62,5.0,1,13,3.2,82.558%,matt shaw
+Trent Grisham NYY,OF,4.59,4.0,1,17,4.6,99.709%,trent grisham
+Daulton Varsho TOR,OF,4.55,4.0,1,19,3.9,95.93%,daulton varsho
+Sal Frelick MIL,OF,4.55,4.0,1,15,2.3,51.744%,sal frelick
+Ryan O'Hearn PIT,1B/OF,4.55,4.0,1,18,4.9,100%,ryan o hearn
+Emerson Hancock SEA,SP/RP,4.54,4.0,1,14,6.0,99.709%,emerson hancock
+Willi Castro COL,1B/2B/SS/3B/OF,4.53,5.0,1,11,3.6,96.802%,willi castro
+Merrill Kelly ARI,SP,4.48,3.0,1,13,2.1,30.523%,merrill kelly
+Chase DeLauter CLE,OF,4.4,4.0,1,17,8.4,100%,chase delauter
+Jonah Tong NYM AAA,SP,4.37,4.0,1,14,2.8,64.535%,jonah tong nym
+Matt Wallner MIN AAA,OF,4.36,4.0,1,17,2.3,30.523%,matt wallner min
+Cade Horton CHC,SP,4.35,4.0,1,15,3.7,77.326%,cade horton
+Christian Walker HOU,1B,4.32,3.0,1,19,3.9,97.674%,christian walker
+Emilio Pagan CIN,RP,4.32,4.0,1,21,1.6,66.86%,emilio pagan
+Carson Benge NYM,OF,4.31,4.0,1,14,6.6,99.709%,carson benge
+A.J. Ewing NYM,OF,4.29,4.0,1,16,5.1,99.709%,a j ewing
+Max Clark DET AAA,OF,4.27,4.0,1,12,3.6,99.709%,max clark det
+Luis García Jr. WSN,1B/2B,4.27,4.0,1,20,7.7,99.419%,luis garcia
+Noah Cameron KCR,SP,4.26,4.0,1,12,3.4,79.942%,noah cameron
+Kristian Campbell BOS AAA,1B/2B/OF,4.23,4.0,1,13,2.5,34.302%,kristian campbell bos
+Gabriel Moreno ARI,C,4.19,4.0,1,14,3.9,99.128%,gabriel moreno
+Ramon Laureano SDP,OF,4.19,3.5,1,10,2.5,26.163%,ramon laureano
+Joey Cantillo CLE,SP/RP,4.19,4.0,1,17,5.9,99.419%,joey cantillo
+Owen Caissie MIA,OF,4.18,4.0,1,11,2.7,95.93%,owen caissie
+Dylan Beavers BAL,OF,4.18,4.0,1,18,3.0,72.674%,dylan beavers
+Kyle Teel CHW,C,4.17,4.0,1,11,3.3,90.698%,kyle teel
+Sebastian Walcott TEX AA,SS,4.17,4.0,1,10,3.7,97.384%,sebastian walcott tex
+JJ Bleday CIN,OF,4.16,4.0,1,18,4.1,98.837%,jj bleday
+Kade Anderson SEA AA,SP,4.14,4.0,1,16,5.2,99.709%,kade anderson sea
+Jesus Made MIL AA,SS,4.12,4.0,1,21,4.9,99.709%,jesus made mil
+Robert Garcia TEX,RP,4.1,4.0,1,19,3.1,32.267%,robert garcia
+Moises Ballesteros CHC AAA,C,4.09,4.0,1,11,3.3,76.744%,moises ballesteros chc
+Kyle Finnegan DET,RP,4.07,3.0,1,19,2.8,52.907%,kyle finnegan
+Matt Brash SEA,RP,4.06,3.0,1,11,2.4,67.151%,matt brash
+Chandler Simpson TBR,OF,4.04,3.0,1,22,2.6,85.174%,chandler simpson
 Casey Mize DET,SP,4.01,4.0,1,15,4.4,99.709%,casey mize
+Garrett Whitlock BOS,RP,4.01,3.0,1,12,3.6,99.709%,garrett whitlock
+Nolan Jones CHW AAA,OF,4.0,1.0,1,14,1.2,2.035%,nolan jones chw
+Edmundo Sosa PHI,2B/SS/3B/OF,4.0,4.0,4,4,1.5,0.291%,edmundo sosa
+Bryan De La Cruz PHI,OF,4.0,4.0,3,5,1.8,0.581%,bryan de la cruz
+Anthony Banda MIN,RP,4.0,4.0,3,5,1.0,0.581%,anthony banda
+Osleivis Basabe SFG AAA,2B/SS/3B,4.0,4.0,4,4,1.7,0.291%,osleivis basabe sfg
+Mitchell Parker WSN,SP/RP,4.0,4.0,1,10,1.3,2.616%,mitchell parker
+Adam Frazier LAA,2B/OF,4.0,4.0,1,7,1.7,0.581%,adam frazier
+Brent Suter LAA,RP,4.0,4.0,4,4,1.3,0.291%,brent suter
+Jonathon Long CHC AAA,1B,4.0,4.0,4,4,1.4,0.291%,jonathon long chc
 Orelvis Martinez FA,2B,4.0,4.0,4,4,1.0,0.291%,orelvis martinez
 Santiago Espinal TEX AAA,2B/3B/OF,4.0,4.0,1,7,1.4,0.581%,santiago espinal tex
-Tyler Locklear ARI AAA,1B,4.0,4.0,4,4,3.1,0.291%,tyler locklear ari
-Anthony Banda MIN,RP,4.0,4.0,3,5,1.0,0.581%,anthony banda
-Edmundo Sosa PHI,2B/SS/3B/OF,4.0,4.0,4,4,1.5,0.291%,edmundo sosa
-Jonathon Long CHC AAA,1B,4.0,4.0,4,4,1.4,0.291%,jonathon long chc
-Jose Quintana COL,SP,4.0,4.0,4,4,1.1,0.291%,jose quintana
-Bryan De La Cruz PHI AAA,OF,4.0,4.0,3,5,1.8,0.581%,bryan de la cruz phi
-Osleivis Basabe SFG AAA,2B/SS/3B,4.0,4.0,4,4,1.7,0.291%,osleivis basabe sfg
-Brent Suter LAA,RP,4.0,4.0,4,4,1.3,0.291%,brent suter
-Nolan Jones CHW AAA,OF,4.0,1.0,1,14,1.2,2.035%,nolan jones chw
-Mitchell Parker WSN,SP/RP,4.0,4.0,1,10,1.3,2.616%,mitchell parker
 Justyn-Henry Malloy TBR AAA,1B/OF,4.0,4.0,4,4,2.0,0.291%,justyn henry malloy tbr
-Seth Halvorsen COL,RP,4.0,3.0,1,7,1.5,1.453%,seth halvorsen
-Adam Frazier LAA,2B/OF,4.0,4.0,1,7,1.7,0.581%,adam frazier
-Garrett Whitlock BOS,RP,3.99,3.0,1,12,3.7,99.128%,garrett whitlock
-Dennis Santana PIT,RP,3.95,3.0,1,12,2.5,29.36%,dennis santana
-Will Vest DET,RP,3.94,3.0,1,11,2.1,37.791%,will vest
-David Peterson CHC,SP/RP,3.91,3.0,1,12,2.1,34.593%,david peterson
+Caleb Ferguson CIN,RP,4.0,4.0,4,4,1.4,0.291%,caleb ferguson
+Jose Quintana COL,SP,4.0,4.0,4,4,1.1,0.291%,jose quintana
+Brandon Sproat MIL,SP,3.99,4.0,1,12,2.3,92.151%,brandon sproat
+Dennis Santana PIT,RP,3.9,3.0,1,12,2.3,26.744%,dennis santana
+Jordan Beck COL AAA,OF,3.9,3.0,1,10,1.9,14.244%,jordan beck col
+Will Vest DET,RP,3.88,3.0,1,11,2.1,32.558%,will vest
 Miguel Vargas CHW,1B/3B,3.87,3.0,1,23,6.1,100%,miguel vargas
-Cole Carrigg COL,OF,3.86,3.0,1,12,4.7,99.419%,cole carrigg
-Jordan Beck COL AAA,OF,3.84,3.0,1,10,2.7,14.826%,jordan beck col
-Caleb Durbin BOS,2B/3B,3.84,3.0,1,16,3.9,90.407%,caleb durbin
-Will Warren NYY,SP,3.84,3.0,1,14,4.0,99.128%,will warren
-Jake Bennett BOS,SP,3.81,3.0,1,11,3.9,93.605%,jake bennett
-Camilo Doval NYY,RP,3.81,3.0,1,13,1.9,41.86%,camilo doval
-Leo De Vries ATH AA,SS,3.8,3.0,1,11,5.1,99.419%,leo de vries ath
-Didier Fuentes ATL,SP/RP,3.8,4.0,1,13,4.8,99.419%,didier fuentes
-Clayton Beeter WSN,RP,3.79,3.0,1,18,1.7,71.802%,clayton beeter
-Josh Jung TEX,3B,3.77,3.0,1,17,6.2,99.709%,josh jung
-Lars Nootbaar STL,OF,3.75,3.0,1,19,2.9,97.384%,lars nootbaar
-Alejandro Kirk TOR,C,3.74,3.0,1,12,2.3,76.744%,alejandro kirk
-Brady Singer CIN,SP,3.74,3.0,1,22,2.3,32.558%,brady singer
-Nolan Schanuel LAA,1B,3.74,3.0,1,13,2.1,53.488%,nolan schanuel
-Mick Abel MIN,SP,3.72,4.0,1,11,3.0,78.779%,mick abel
-Zebby Matthews MIN,SP,3.71,3.0,1,9,2.7,72.093%,zebby matthews
-Shane Smith CHW AAA,SP,3.71,3.0,1,12,2.8,19.186%,shane smith chw
-Brett Baty NYM,1B/2B/3B/OF,3.69,3.0,1,11,2.4,59.302%,brett baty
-Otto Lopez MIA,2B/SS,3.68,3.0,1,12,3.0,99.709%,otto lopez
-Max Meyer MIA,SP,3.68,3.0,1,11,3.7,99.419%,max meyer
-Zack Gelof ATH,2B/3B/OF,3.68,4.0,1,11,3.5,99.419%,zack gelof
+Cole Carrigg COL,OF,3.86,3.0,1,12,4.8,99.709%,cole carrigg
+Camilo Doval NYY,RP,3.85,3.0,1,13,2.2,40.407%,camilo doval
+Will Warren NYY,SP,3.84,3.0,1,14,4.2,99.419%,will warren
+Caleb Durbin BOS,2B/3B,3.84,3.0,1,16,4.0,93.605%,caleb durbin
+David Peterson CHC,SP/RP,3.82,3.0,1,12,2.5,34.593%,david peterson
+Leo De Vries ATH AA,SS,3.8,3.0,1,11,4.7,99.709%,leo de vries ath
+Jake Bennett BOS,SP,3.8,3.0,1,11,3.9,97.384%,jake bennett
+Alex Lange KCR,RP,3.79,3.0,1,13,3.3,34.593%,alex lange
+Didier Fuentes ATL,SP/RP,3.78,4.0,1,13,4.8,99.419%,didier fuentes
+Josh Jung TEX,3B,3.77,3.0,1,17,5.6,100%,josh jung
+Clayton Beeter WSN,RP,3.76,3.0,1,17,2.0,70.058%,clayton beeter
+Alejandro Kirk TOR,C,3.76,3.0,1,12,2.1,73.547%,alejandro kirk
+Lars Nootbaar STL,OF,3.73,3.0,1,19,2.9,97.093%,lars nootbaar
+Otto Lopez MIA,2B/SS,3.73,3.0,1,21,4.8,100%,otto lopez
+Max Meyer MIA,SP,3.71,3.0,1,16,5.1,99.709%,max meyer
+Brett Baty NYM,1B/2B/3B/OF,3.68,3.0,1,11,2.9,60.756%,brett baty
+Curtis Mead WSN,1B/2B/3B,3.68,3.0,1,18,5.6,99.419%,curtis mead
+Zack Gelof ATH,2B/3B/OF,3.67,4.0,1,11,3.0,99.419%,zack gelof
+Josh Lowe LAA,OF,3.67,2.0,1,14,1.8,28.779%,josh lowe
 Andrew Walters CLE AAA,RP,3.67,3.0,1,7,1.2,0.872%,andrew walters cle
-Quinn Priester MIL,SP/RP,3.67,3.0,1,12,2.0,30.523%,quinn priester
-Jorge Polanco NYM,2B/3B,3.64,3.0,1,13,2.4,59.884%,jorge polanco
-Adrian Morejon SDP,RP,3.64,3.0,1,10,2.5,99.419%,adrian morejon
-Lucas Erceg KCR,RP,3.64,3.0,1,17,2.4,53.198%,lucas erceg
-Curtis Mead WSN,1B/2B/3B,3.63,3.0,1,11,4.9,99.128%,curtis mead
-Hurston Waldrep ATL,SP,3.63,3.0,1,13,3.7,65.407%,hurston waldrep
-Reese Olson DET,SP,3.62,3.0,1,16,2.4,49.709%,reese olson
-Alex Lange KCR,RP,3.61,3.0,1,13,3.2,40.988%,alex lange
-Matt Strahm KCR,RP,3.6,3.0,1,10,2.7,35.174%,matt strahm
-Ryne Nelson ARI,SP/RP,3.57,3.0,1,10,2.0,35.465%,ryne nelson
-Jason Foley SFG ST,RP,3.57,3.0,1,7,1.5,2.035%,jason foley sfg
-Spencer Jones NYY AAA,OF,3.56,3.0,1,14,2.0,93.605%,spencer jones nyy
-Carlos Cortes ATH,OF,3.56,3.0,1,11,4.1,56.105%,carlos cortes
-Noah Schultz CHW,SP,3.55,3.0,1,13,3.9,98.547%,noah schultz
-Cade Cavalli WSN,SP,3.55,3.0,1,12,3.3,99.128%,cade cavalli
-Josh Lowe LAA,OF,3.55,2.0,1,14,2.0,30.814%,josh lowe
-Tanner Scott LAD,RP,3.53,3.0,1,16,4.6,99.419%,tanner scott
-Zach Dezenzo HOU,OF,3.5,3.5,1,6,1.2,0.581%,zach dezenzo
-Kruz Schoolcraft SDP A,SP,3.5,3.5,1,6,1.71,0.581%,kruz schoolcraft sdp a
-Yu Darvish SDP,SP,3.5,1.0,1,11,1.0,1.163%,yu darvish
-Bobby Miller LAD,SP/RP,3.5,3.5,1,6,1.3,1.163%,bobby miller
+Zebby Matthews MIN,SP,3.66,3.0,1,9,2.7,66.57%,zebby matthews
+Adrian Morejon SDP,RP,3.64,3.0,1,10,2.6,99.709%,adrian morejon
+Nolan Schanuel LAA,1B,3.64,3.0,1,13,2.1,56.977%,nolan schanuel
+Jorge Polanco NYM,2B/3B,3.61,3.0,1,13,2.5,56.686%,jorge polanco
+Brady Singer CIN,SP,3.6,3.0,1,22,2.8,36.047%,brady singer
+Hurston Waldrep ATL AAA,SP,3.6,3.0,1,13,2.6,60.174%,hurston waldrep atl
+Lucas Erceg KCR,RP,3.6,3.0,1,17,3.0,49.128%,lucas erceg
+Mick Abel MIN,SP,3.6,3.0,1,11,2.8,76.453%,mick abel
+Vahn Lackey,Util,3.58,3.0,1,10,3.2,35.465%,vahn lackey
+Jackson Flora,RP,3.58,3.0,1,13,3.3,26.744%,jackson flora
+Reese Olson DET,SP,3.56,3.0,1,16,2.4,49.419%,reese olson
+Cade Cavalli WSN,SP,3.56,3.0,1,12,3.1,99.419%,cade cavalli
+Spencer Jones NYY,OF,3.55,3.0,1,14,2.6,93.605%,spencer jones
+Quinn Priester MIL,SP/RP,3.55,3.0,1,12,2.1,31.395%,quinn priester
+Tanner Scott LAD,RP,3.54,3.0,1,16,5.3,99.709%,tanner scott
+Noah Schultz CHW,SP,3.54,3.0,1,13,3.7,98.547%,noah schultz
+Mike Burrows HOU,SP,3.53,3.0,1,13,2.5,20.349%,mike burrows
+Matt Strahm KCR,RP,3.53,3.0,1,10,2.1,33.14%,matt strahm
+Carlos Cortes ATH,OF/RP,3.51,3.0,1,11,2.2,49.419%,carlos cortes
 Gunnar Hoglund ATH,SP,3.5,3.5,3,4,1.9,0.581%,gunnar hoglund
-Mike Burrows HOU,SP,3.5,3.0,1,13,2.6,23.256%,mike burrows
+Bobby Miller LAD,SP/RP,3.5,3.5,1,6,1.3,1.163%,bobby miller
+Kruz Schoolcraft SDP A,SP,3.5,3.5,1,6,1.71,0.581%,kruz schoolcraft sdp a
+Henry Davis PIT,C,3.5,2.0,1,9,1.1,1.163%,henry davis
 Dedniel Nunez NYM,RP,3.5,3.5,1,6,1.3,0.581%,dedniel nunez
-Drew Thorpe CHW,RP,3.5,3.0,1,7,2.1,1.163%,drew thorpe
+Zach Dezenzo HOU,OF,3.5,3.5,1,6,1.2,0.581%,zach dezenzo
+Yu Darvish SDP,SP,3.5,1.0,1,11,1.0,1.163%,yu darvish
 Jordan Walker STL,OF,3.49,3.0,1,33,10.0,100%,jordan walker
-Kyle Karros COL,3B,3.47,3.0,1,10,4.8,65.988%,kyle karros
-Blaze Jordan STL,1B/3B,3.46,3.0,1,12,2.4,40.698%,blaze jordan
-Rhett Lowder CIN,SP,3.44,3.0,1,11,2.1,65.698%,rhett lowder
+Rhett Lowder CIN,SP,3.48,3.0,1,11,2.0,60.174%,rhett lowder
+Nick Castellanos FA,OF,3.48,1.0,1,15,2.7,6.686%,nick castellanos
+Ryne Nelson ARI,SP/RP,3.47,3.0,1,10,2.9,36.628%,ryne nelson
+Kyle Karros COL,3B,3.45,3.0,1,10,1.7,75.581%,kyle karros
+Shane Smith CHW AAA,SP,3.44,3.0,1,12,1.7,20.93%,shane smith chw
 Cade Povich BAL AAA,SP,3.43,3.0,1,8,1.7,4.07%,cade povich bal
-Brooks Lee MIN,2B/SS/3B,3.41,3.0,1,12,2.0,99.419%,brooks lee
-Dalton Rushing LAD,C,3.41,3.0,1,11,4.5,98.837%,dalton rushing
+Seth Halvorsen LAD AAA,RP,3.43,3.0,1,7,1.7,2.035%,seth halvorsen lad
+Troy Melton DET,SP/RP,3.43,3.0,1,13,5.0,99.419%,troy melton
+Dalton Rushing LAD,C,3.41,3.0,1,11,4.3,99.419%,dalton rushing
+Brooks Lee MIN,2B/SS/3B,3.41,3.0,1,12,2.1,99.709%,brooks lee
 JP Sears SDP,SP,3.4,5.0,1,5,1.0,1.453%,jp sears
-Troy Melton DET,SP/RP,3.4,3.0,1,13,3.5,98.837%,troy melton
-Michael Wacha KCR,SP,3.39,3.0,1,10,2.3,97.093%,michael wacha
-Jeff Mcneil ATH,2B/OF,3.39,3.0,1,25,2.3,39.244%,jeff mcneil
-Davis Martin CHW,SP,3.34,2.0,1,13,2.2,99.128%,davis martin
-Logan Allen CLE AAA,SP,3.33,1.0,1,8,1.4,0.872%,logan allen cle
-Thayron Liranzo DET AA,C,3.33,3.0,2,5,1.6,0.872%,thayron liranzo det
+Michael Wacha KCR,SP,3.39,3.0,1,10,2.6,97.384%,michael wacha
+Davis Martin CHW,SP,3.36,2.0,1,13,2.7,99.419%,davis martin
+Logan Allen CLE,SP,3.33,1.0,1,8,1.4,0.872%,logan allen
 Termarr Johnson PIT AAA,2B,3.33,4.0,1,5,1.6,2.616%,termarr johnson pit
-Connor Prielipp MIN,SP,3.33,3.0,1,10,3.2,80.814%,connor prielipp
-Jackson Jobe DET,SP,3.32,2.0,1,13,3.2,96.221%,jackson jobe
-Spencer Arrighetti HOU,SP,3.31,3.0,1,11,2.9,81.686%,spencer arrighetti
+Thayron Liranzo DET A,C,3.33,3.0,2,5,1.6,0.872%,thayron liranzo det a
+JoJo Romero STL,RP,3.33,3.0,1,12,2.1,61.337%,jojo romero
+Jackson Jobe DET,SP,3.32,2.0,1,13,3.6,96.802%,jackson jobe
+Jeff Mcneil ATH,2B/OF,3.32,3.0,1,25,1.8,37.5%,jeff mcneil
+Blaze Jordan STL,1B/3B,3.31,3.0,1,12,2.6,34.302%,blaze jordan
 Colt Emerson SEA,SS/3B,3.3,3.0,1,11,3.4,99.419%,colt emerson
-JoJo Romero STL,RP,3.29,3.0,1,12,2.4,69.186%,jojo romero
-Michael Soroka ARI,SP/RP,3.28,3.0,1,10,3.0,98.256%,michael soroka
-Nick Castellanos FA,OF,3.28,1.0,1,15,2.7,7.267%,nick castellanos
-Carson Williams TBR AAA,SS,3.28,3.0,1,9,2.3,48.547%,carson williams tbr
-Jake Bird NYY,RP,3.25,3.5,2,4,1.5,1.163%,jake bird
-Lenyn Sosa TOR,1B/2B,3.23,3.0,1,12,1.7,9.012%,lenyn sosa
-Ezequiel Duran TEX,1B/2B/SS/3B/OF,3.23,3.0,1,10,3.1,96.802%,ezequiel duran
-Thomas White MIA AAA,SP,3.22,3.0,1,10,2.9,80.523%,thomas white mia
-Kyle Harrison MIL,SP/RP,3.22,3.0,1,18,5.0,99.128%,kyle harrison
-Josh Smith TEX AAA,1B/2B/SS/3B/OF,3.2,3.0,1,9,2.2,23.837%,josh smith tex
-Garrett Cleavinger TBR,RP,3.18,3.0,1,10,2.4,82.849%,garrett cleavinger
-Coby Mayo BAL,1B/3B,3.18,2.0,1,13,2.1,47.965%,coby mayo
-Ernie Clement TOR,1B/2B/SS/3B,3.17,3.0,1,11,3.1,99.709%,ernie clement
-Chris Bassitt BAL,SP,3.17,3.0,1,15,1.8,15.698%,chris bassitt
-Tyler O'Neill BAL,OF,3.16,2.0,1,11,1.9,29.36%,tyler o neill
-Austin Wells NYY,C,3.14,2.0,1,10,2.4,22.093%,austin wells
-Tyler Wells BAL,SP/RP,3.14,2.0,1,15,1.5,63.663%,tyler wells
-Marcell Ozuna PIT,Util,3.14,1.5,1,15,2.0,14.535%,marcell ozuna
-Taj Bradley MIN,SP,3.14,2.0,1,14,3.9,98.837%,taj bradley
-Ethan Holliday COL A,SS,3.13,2.0,1,17,1.4,50.291%,ethan holliday col a
-Aidan Miller PHI AAA,SS,3.12,3.0,1,9,2.5,86.337%,aidan miller phi
-Jose Caballero NYY,2B/SS/3B/OF,3.09,3.0,1,17,3.6,95.058%,jose caballero
-Riley O'Brien STL,RP,3.08,3.0,1,16,3.1,99.419%,riley o brien
-Liam Doyle STL AA,SP,3.07,3.0,1,9,2.2,76.744%,liam doyle stl
-Randy Vasquez SDP,SP,3.07,3.0,1,10,2.1,28.779%,randy vasquez
-Ronny Mauricio NYM AAA,2B/SS/3B,3.06,2.0,1,7,1.6,4.942%,ronny mauricio nym
-David Sandlin CHW AAA,SP/RP,3.05,2.0,1,8,2.1,5.523%,david sandlin chw
-Dustin May STL,SP,3.02,2.5,1,19,3.7,99.419%,dustin may
-Tyler Fitzgerald LAD AAA,2B,3.0,1.0,1,9,2.3,1.163%,tyler fitzgerald lad
-Cam Cannarella MIA AA,OF,3.0,2.0,1,7,3.0,2.616%,cam cannarella mia
-Luis Ortiz CLE,SP,3.0,3.0,3,3,2.1,0.291%,luis ortiz
-Cionel Perez NYM,RP,3.0,3.0,3,3,1.4,0.291%,cionel perez
-Manuel Rodriguez TBR,RP,3.0,3.0,1,5,1.1,0.581%,manuel rodriguez
-Nacho Alvarez Jr. ATL AAA,3B,3.0,3.0,3,3,1.4,0.291%,nacho alvarez atl
-Wilmer Flores,1B,3.0,3.0,3,3,1.5,0.291%,wilmer flores
-Luis Garcia NYY,SP/RP,3.0,3.0,3,3,1.5,0.291%,luis garcia
-Eric Wagaman NYM,1B/OF,3.0,3.0,3,3,1.6,0.291%,eric wagaman
+Connor Prielipp MIN AAA,SP,3.3,3.0,1,10,3.0,83.721%,connor prielipp min
+Michael Soroka ARI,SP/RP,3.29,3.0,1,10,3.1,98.837%,michael soroka
+Spencer Arrighetti HOU,SP,3.29,3.0,1,11,2.8,79.942%,spencer arrighetti
+Marcell Ozuna PIT,Util,3.27,2.0,1,15,2.0,13.953%,marcell ozuna
+Kyle Harrison MIL,SP/RP,3.25,3.0,1,18,6.4,99.709%,kyle harrison
+Dylan Smith SFG,RP,3.25,1.0,1,10,2.3,1.163%,dylan smith
+Jake Bird NYY AAA,RP,3.25,3.5,2,4,1.5,1.163%,jake bird nyy
+Ezequiel Duran TEX,1B/2B/SS/3B/OF,3.24,3.0,1,10,3.9,98.547%,ezequiel duran
+Carson Williams TBR AAA,SS,3.23,3.0,1,9,2.5,48.837%,carson williams tbr
+David Sandlin CHW AAA,SP/RP,3.22,2.0,1,8,2.2,5.233%,david sandlin chw
+Thomas White MIA AAA,SP,3.21,3.0,1,10,2.3,81.686%,thomas white mia
+Ryan Gusto MIA,SP/RP,3.2,3.0,1,5,1.1,1.453%,ryan gusto
+Garrett Cleavinger TBR,RP,3.18,3.0,1,10,2.4,83.14%,garrett cleavinger
+Josh Smith TEX AAA,1B/2B/SS/3B/OF,3.17,3.0,1,9,1.9,22.384%,josh smith tex
+Ernie Clement TOR,1B/2B/SS/3B,3.17,3.0,1,11,3.2,100%,ernie clement
+Austin Wells NYY,C,3.16,2.0,1,10,2.4,21.512%,austin wells
+Ethan Holliday COL A,SS,3.16,2.0,1,17,2.1,50%,ethan holliday col a
+Lenyn Sosa TOR,1B/2B,3.16,2.5,1,12,1.6,9.302%,lenyn sosa
+Taj Bradley MIN,SP,3.15,2.0,1,14,4.3,99.419%,taj bradley
+Tyler O'Neill BAL,OF,3.15,2.0,1,11,1.9,29.36%,tyler o neill
+Chris Bassitt BAL,SP,3.13,3.0,1,15,1.6,15.407%,chris bassitt
+Coby Mayo BAL,1B/3B,3.12,2.0,1,13,2.0,51.453%,coby mayo
+Pierce Johnson CIN,RP,3.11,3.0,1,6,2.3,2.616%,pierce johnson
+Jose Caballero NYY,2B/SS/3B/OF,3.09,3.0,1,17,3.1,95.058%,jose caballero
+Aidan Miller PHI AAA,SS,3.09,3.0,1,9,1.8,87.5%,aidan miller phi
+Riley O'Brien STL,RP,3.08,3.0,1,16,3.0,100%,riley o brien
+Randy Vasquez SDP,SP,3.06,2.0,1,10,2.0,27.035%,randy vasquez
+Liam Doyle STL AA,SP,3.05,3.0,1,9,2.1,76.453%,liam doyle stl
+Dustin May STL,SP,3.04,3.0,1,19,3.4,99.709%,dustin may
+Jack Perkins ATH,SP/RP,3.02,3.0,1,9,2.3,38.081%,jack perkins
+Ronny Mauricio NYM AAA,2B/SS/3B,3.0,2.0,1,7,1.8,4.942%,ronny mauricio nym
+James Karinchak ATL AAA,RP,3.0,3.0,3,3,1.3,0.291%,james karinchak atl
+Trevor Williams WSN,SP,3.0,3.0,1,5,1.6,0.581%,trevor williams
+Bailey Falter KCR AAA,SP/RP,3.0,3.0,3,3,1.3,0.291%,bailey falter kcr
+Andrew Saalfrank ARI,RP,3.0,3.0,1,5,2.5,0.872%,andrew saalfrank
+Osvaldo Bido FA,SP/RP,3.0,3.0,3,3,1.7,0.291%,osvaldo bido
+Joe Whitman SFG AAA,SP/RP,3.0,3.0,2,4,2.0,0.581%,joe whitman sfg
+Danny Coulombe FA,RP,3.0,3.0,3,3,1.5,0.291%,danny coulombe
+Steven Cruz KCR,RP,3.0,3.0,1,5,1.5,0.581%,steven cruz
+Kyle Gibson TBR AAA,SP/RP,3.0,3.0,3,3,1.2,0.291%,kyle gibson tbr
 Luis Mey CIN AAA,RP,3.0,3.0,3,3,1.3,0.581%,luis mey cin
-Danny Coulombe BOS,RP,3.0,3.0,3,3,1.5,0.291%,danny coulombe
-Enrique Hernandez LAD,1B/2B/3B/OF/RP,3.0,3.0,3,3,1.7,0.581%,enrique hernandez
-Cristian Mena ARI,SP/RP,3.0,3.0,3,3,1.0,0.291%,cristian mena
 Adael Amador COL AAA,2B,3.0,2.0,1,6,1.8,2.326%,adael amador col
-Joe Whitman SFG AAA,SP,3.0,3.0,2,4,2.0,0.581%,joe whitman sfg
-Pierce Johnson CIN,RP,3.0,3.0,1,6,2.2,2.907%,pierce johnson
+Tyler Fitzgerald LAD AAA,2B,3.0,1.0,1,9,2.3,1.163%,tyler fitzgerald lad
+Luis Garcia NYY,SP/RP,3.0,3.0,3,3,1.5,0.291%,luis garcia
+Cristian Mena ARI,SP/RP,3.0,3.0,3,3,1.0,0.291%,cristian mena
+Eric Wagaman NYM AAA,1B/OF,3.0,3.0,3,3,1.6,0.291%,eric wagaman nym
+Jeimer Candelario LAA AAA,1B/3B,3.0,3.0,3,3,1.3,0.291%,jeimer candelario laa
+Khal Stephen CLE AA,SP,3.0,3.0,2,4,1.4,0.581%,khal stephen cle
+Mark Vientos NYM,1B/3B,3.0,2.0,1,12,2.7,35.174%,mark vientos
+Marco Luciano NYY AAA,2B/OF,3.0,3.0,1,5,1.5,0.581%,marco luciano nyy
+Trey Sweeney DET,SS,3.0,3.0,3,3,1.7,0.291%,trey sweeney
+Patrick Bailey CLE,C,3.0,1.0,1,8,1.4,1.453%,patrick bailey
+Jesse Winker NYM AAA,Util,3.0,3.0,3,3,1.6,0.291%,jesse winker nym
+Shay Whitcomb HOU AAA,2B/3B/OF,3.0,3.0,3,3,1.9,0.291%,shay whitcomb hou
 Luis Matos MIL AAA,OF,3.0,3.0,3,3,1.8,0.291%,luis matos mil
 Ivan Melendez ARI AAA,1B,3.0,3.0,3,3,1.6,0.291%,ivan melendez ari
-Josiah Gray WSN,RP,3.0,3.0,3,3,1.6,0.291%,josiah gray
-Kyle Gibson TBR AAA,SP/RP,3.0,3.0,3,3,1.2,0.291%,kyle gibson tbr
-Trey Sweeney DET,SS,3.0,3.0,3,3,1.7,0.291%,trey sweeney
-Steven Cruz KCR,RP,3.0,3.0,1,5,1.5,0.581%,steven cruz
 Jose Trevino CIN,C,3.0,3.0,3,3,1.2,0.291%,jose trevino
-David Fry CLE,OF,3.0,3.0,3,3,1.5,0.291%,david fry
-Chris Martin TEX,RP,3.0,2.0,1,9,1.4,4.942%,chris martin
-Markevian Hence STL AAA,SP/RP,3.0,3.0,1,5,1.6,2.326%,markevian hence stl
-Jeimer Candelario LAA AAA,1B/3B,3.0,3.0,3,3,1.3,0.291%,jeimer candelario laa
-James Karinchak ATL,RP,3.0,3.0,3,3,1.3,0.291%,james karinchak
-Andrew Saalfrank ARI,RP,3.0,3.0,1,5,2.5,0.872%,andrew saalfrank
 Chase Davis STL AAA,OF,3.0,3.0,3,3,1.25,0.291%,chase davis stl
-Jace Jung DET AAA,1B/2B/3B,3.0,3.0,3,3,1.1,0.291%,jace jung det
-Osvaldo Bido FA,SP/RP,3.0,3.0,3,3,1.7,0.291%,osvaldo bido
-Mike Tauchman NYM CPX,OF,3.0,3.0,3,3,1.5,0.291%,mike tauchman nym
-Jesse Winker NYM AAA,Util,3.0,3.0,3,3,1.6,0.291%,jesse winker nym
-Bailey Falter KCR AAA,SP/RP,3.0,3.0,3,3,1.3,0.291%,bailey falter kcr
-Trevor Williams WSN,SP,3.0,3.0,1,5,1.6,0.581%,trevor williams
-Mark Vientos NYM,1B/3B,3.0,2.0,1,12,2.3,36.919%,mark vientos
-Shay Whitcomb HOU AAA,2B/3B/OF,3.0,3.0,3,3,1.9,0.291%,shay whitcomb hou
-Marco Luciano NYY AAA,2B/OF,3.0,3.0,1,5,1.5,0.581%,marco luciano nyy
-Khal Stephen CLE AA,SP,3.0,3.0,2,4,1.4,0.581%,khal stephen cle
-Connor Norby MIA AAA,1B/3B,2.98,1.0,1,17,2.6,18.023%,connor norby mia
-Anthony Santander TOR,OF,2.95,2.0,1,24,2.0,59.012%,anthony santander
-J.T. Realmuto PHI,C,2.95,2.0,1,18,1.7,51.744%,j t realmuto
-Justin Crawford PHI,OF,2.94,2.0,1,12,2.9,76.453%,justin crawford
-Jack Perkins ATH,SP/RP,2.94,3.0,1,9,2.1,43.314%,jack perkins
-Josue De Paula LAD AA,OF,2.93,3.0,1,8,3.2,99.128%,josue de paula lad
-Christian Scott NYM,SP,2.91,3.0,1,11,3.0,95.058%,christian scott
-Elvis Alvarado ATH,RP,2.91,2.0,1,10,1.7,40.407%,elvis alvarado
-Charlie Condon COL AAA,1B/OF,2.91,2.0,1,11,3.1,98.547%,charlie condon col
-Cody Ponce TOR,SP/RP,2.91,2.0,1,14,2.0,51.453%,cody ponce
-Kirby Yates LAA,RP,2.9,2.0,1,13,2.9,48.837%,kirby yates
-Bryce Elder ATL,SP,2.9,2.0,1,12,2.5,78.779%,bryce elder
-Sam Antonacci CHW,2B/3B/OF,2.9,2.5,1,9,4.3,99.419%,sam antonacci
-Cole Young SEA,2B/SS,2.9,3.0,1,10,3.1,98.837%,cole young
-Gage Jump ATH,SP,2.9,2.0,1,11,3.5,99.419%,gage jump
-Ian Seymour TBR,SP/RP,2.89,2.0,1,12,3.5,95.93%,ian seymour
-Jacob Latz TEX,SP/RP,2.89,2.0,1,13,2.7,99.419%,jacob latz
-Joe Musgrove SDP,RP,2.88,3.0,1,27,2.1,73.256%,joe musgrove
+Luis Ortiz CLE,SP,3.0,3.0,3,3,2.1,0.291%,luis ortiz
+Josiah Gray WSN,RP,3.0,3.0,3,3,1.6,0.291%,josiah gray
+Markevian Hence STL AAA,SP/RP,3.0,3.0,1,5,1.6,2.035%,markevian hence stl
+Enrique Hernandez LAD,1B/2B/3B/OF/RP,3.0,3.0,3,3,1.7,0.581%,enrique hernandez
+David Fry CLE,OF,3.0,3.0,3,3,1.5,0.291%,david fry
+Cionel Perez NYM,RP,3.0,3.0,3,3,1.4,0.291%,cionel perez
+Wilmer Flores,1B,3.0,3.0,3,3,1.5,0.291%,wilmer flores
+Nacho Alvarez Jr. ATL AAA,3B,3.0,3.0,3,3,1.4,0.291%,nacho alvarez atl
+Manuel Rodriguez TBR,RP,3.0,3.0,1,5,1.1,0.581%,manuel rodriguez
+Tyler Wells BAL,SP/RP,2.99,2.0,1,15,2.8,76.163%,tyler wells
+Connor Norby MIA AAA,1B/3B,2.98,1.0,1,17,2.4,17.151%,connor norby mia
+J.T. Realmuto PHI,C,2.97,2.0,1,18,1.8,50.291%,j t realmuto
+Christian Scott NYM,SP,2.97,3.0,1,11,5.0,96.802%,christian scott
+Bryce Elder ATL,SP,2.93,2.0,1,12,3.1,74.709%,bryce elder
+Josue De Paula LAD AA,OF,2.93,3.0,1,8,3.1,99.419%,josue de paula lad
+Justin Crawford PHI,OF,2.93,2.0,1,12,1.9,77.907%,justin crawford
+Charlie Condon COL AAA,1B/OF,2.93,2.0,1,11,3.3,99.128%,charlie condon col
+Sam Antonacci CHW,2B/3B/OF,2.92,3.0,1,10,4.8,99.709%,sam antonacci
+Ian Seymour TBR,SP/RP,2.91,2.0,1,12,2.4,95.93%,ian seymour
+Kirby Yates LAA,RP,2.91,2.0,1,13,2.6,49.419%,kirby yates
+Jacob Latz TEX,SP/RP,2.9,2.0,1,13,3.5,99.709%,jacob latz
+Anthony Santander TOR,OF,2.9,2.0,1,24,2.0,57.558%,anthony santander
+Cole Young SEA,2B/SS,2.9,3.0,1,10,3.0,99.128%,cole young
+Gage Jump ATH,SP,2.89,2.0,1,11,3.9,99.419%,gage jump
+Chris Martin TEX AAA,RP,2.89,2.0,1,9,1.4,5.233%,chris martin tex
 Alexis Diaz TEX AAA,RP,2.88,1.0,1,9,1.1,2.326%,alexis diaz tex
-Gavin Stone LAD,RP,2.88,2.5,1,8,1.2,2.326%,gavin stone
-Braden Montgomery CHW,OF,2.87,2.0,1,19,4.3,97.965%,braden montgomery
-Tyler Black MIL AAA,1B/OF,2.86,1.0,1,7,1.5,2.035%,tyler black mil
-Andrew Vaughn MIL,1B,2.86,3.0,1,12,2.2,82.849%,andrew vaughn
-Casey Schmitt SFG,1B/2B/3B/OF,2.85,2.0,1,12,4.1,99.419%,casey schmitt
-Emmanuel Rodriguez MIN AAA,OF,2.85,3.0,1,10,2.1,78.779%,emmanuel rodriguez min
+Victor Mesa Jr. TBR,OF,2.87,1.0,1,10,2.6,4.36%,victor mesa
+Casey Schmitt SFG,1B/2B/3B/OF,2.87,2.0,1,12,4.7,99.709%,casey schmitt
+Cody Ponce TOR,SP/RP,2.87,2.0,1,14,1.9,51.744%,cody ponce
+Gavin Stone LAD,RP,2.86,2.0,1,8,1.2,2.035%,gavin stone
+Joe Musgrove SDP,RP,2.85,3.0,1,27,2.0,74.709%,joe musgrove
+Seth Lugo KCR,SP,2.85,2.0,1,16,3.2,57.558%,seth lugo
 Cole Winn TEX,RP,2.85,2.0,1,8,2.0,3.779%,cole winn
-Edwin Arroyo CIN,2B/SS,2.85,2.0,1,7,2.9,54.651%,edwin arroyo
-Tyler Mahle SFG,SP,2.84,3.0,1,8,2.2,28.779%,tyler mahle
-Chase Dollander COL,SP/RP,2.84,2.0,1,10,2.2,48.547%,chase dollander
-Robby Snelling MIA,SP/RP,2.84,2.0,1,12,2.3,61.919%,robby snelling
-Orion Kerkering PHI,RP,2.84,2.0,1,11,1.9,77.616%,orion kerkering
-Chad Patrick MIL,SP/RP,2.83,3.0,1,12,2.4,63.081%,chad patrick
-Angel Martinez CLE,2B/OF,2.83,2.0,1,9,2.6,79.36%,angel martinez
-Bailey Ober MIN,SP,2.83,2.0,1,16,2.7,31.977%,bailey ober
-Anthony Volpe NYY,SS,2.82,2.0,1,17,2.1,68.314%,anthony volpe
-Brady House WSN AAA,3B,2.81,2.0,1,9,1.8,32.558%,brady house wsn
-Joe Boyle TBR AAA,SP/RP,2.81,3.0,1,10,2.3,24.709%,joe boyle tbr
+Heston Kjerstad BAL AAA,OF,2.85,1.0,1,8,1.8,3.779%,heston kjerstad bal
+Braden Montgomery CHW,OF,2.84,2.0,1,19,3.5,98.256%,braden montgomery
+Lourdes Gurriel Jr. ARI,OF,2.84,1.0,1,17,2.0,35.756%,lourdes gurriel
+Emmanuel Rodriguez MIN AAA,OF,2.84,3.0,1,10,2.8,79.36%,emmanuel rodriguez min
+Angel Martinez CLE,2B/OF,2.83,2.0,1,9,2.7,80.523%,angel martinez
+Logan O'Hoppe LAA,C,2.83,1.0,1,12,2.9,28.779%,logan o hoppe
+Orion Kerkering PHI,RP,2.83,2.0,1,11,1.7,77.616%,orion kerkering
+Robby Snelling MIA,SP/RP,2.83,2.0,1,12,2.5,62.209%,robby snelling
+Luis Morales ATH AAA,SP/RP,2.82,2.0,1,8,2.2,3.198%,luis morales ath
+Andrew Vaughn MIL,1B,2.81,2.5,1,12,2.0,77.326%,andrew vaughn
 Reid Detmers LAA,SP/RP,2.81,3.0,1,16,5.4,99.419%,reid detmers
-Seth Lugo KCR,SP,2.81,2.0,1,16,2.5,58.721%,seth lugo
-Ryan Waldschmidt ARI,OF,2.8,2.0,1,10,2.9,98.256%,ryan waldschmidt
-Hunter Gaddis CLE,RP,2.8,3.0,1,12,2.4,68.314%,hunter gaddis
-Murf Gray PIT A+,3B,2.8,2.0,1,7,3.43,1.453%,murf gray pit
-Seth Hernandez PIT A+,SP,2.79,2.0,1,11,3.4,94.477%,seth hernandez pit
-Logan O'Hoppe LAA,C,2.79,1.0,1,12,2.7,30.523%,logan o hoppe
-James Tibbs III LAD AAA,1B/OF,2.78,3.0,1,11,2.4,84.593%,james tibbs lad
-Edwin Uceta TBR,RP,2.78,2.0,1,13,2.2,50%,edwin uceta
-Jeremiah Jackson BAL,2B/SS/3B/OF,2.77,3.0,1,8,2.4,24.128%,jeremiah jackson
-Landen Roupp SFG,SP,2.76,2.0,1,10,3.2,97.674%,landen roupp
-Jurickson Profar ATL,OF,2.76,2.0,1,11,1.5,18.023%,jurickson profar
-Paul Sewald ARI,RP,2.76,2.0,1,20,3.2,96.512%,paul sewald
-Patrick Bailey CLE,C,2.75,1.0,1,8,1.1,1.163%,patrick bailey
-Robert Hassell III WSN AAA,OF,2.75,2.5,1,5,1.3,2.326%,robert hassell wsn
+Jason Foley SFG,RP,2.8,2.0,1,7,1.2,2.907%,jason foley
+Ryan Waldschmidt ARI,OF,2.8,2.0,1,10,2.3,98.547%,ryan waldschmidt
+Seth Hernandez PIT A+,SP,2.8,2.0,1,11,4.0,95.058%,seth hernandez pit
+Brady House WSN AAA,3B,2.8,2.0,1,9,1.8,31.686%,brady house wsn
+Tyler Mahle SFG,SP,2.79,3.0,1,8,1.7,29.36%,tyler mahle
+Chad Patrick MIL,SP/RP,2.79,3.0,1,12,2.4,62.5%,chad patrick
+Chase Dollander COL,SP/RP,2.79,2.0,1,10,2.1,52.326%,chase dollander
+Landen Roupp SFG,SP,2.79,2.0,1,10,3.8,98.837%,landen roupp
+Hunter Gaddis CLE,RP,2.78,3.0,1,12,2.3,70.93%,hunter gaddis
+Bailey Ober MIN,SP,2.78,2.0,1,16,2.4,34.593%,bailey ober
+Drew Gilbert SFG,OF,2.78,3.0,1,6,1.1,2.616%,drew gilbert
+Jeremiah Jackson BAL,2B/SS/3B/OF,2.78,3.0,1,8,1.9,23.547%,jeremiah jackson
+Anthony Volpe NYY,SS,2.78,1.5,1,17,2.4,65.116%,anthony volpe
+Tyler Holton DET,SP/RP,2.77,1.0,1,12,1.3,6.395%,tyler holton
+James Tibbs III LAD AAA,1B/OF,2.77,3.0,1,11,2.2,84.302%,james tibbs lad
+Alex Vesia LAD,RP,2.77,3.0,1,12,3.0,99.128%,alex vesia
+Ryan McMahon NYY,3B,2.76,1.0,1,21,1.8,9.884%,ryan mcmahon
+Edwin Arroyo CIN,2B/SS,2.76,2.0,1,7,2.2,51.163%,edwin arroyo
+Robert Hassell III PIT ST,OF,2.75,2.5,1,5,1.3,2.326%,robert hassell pit
 Thomas Harrington PIT AAA,SP/RP,2.75,3.0,1,4,1.6,1.163%,thomas harrington pit
-Alex Vesia LAD,RP,2.75,2.0,1,12,2.4,99.419%,alex vesia
-Jose A. Ferrer SEA,RP,2.74,3.0,1,8,2.2,75%,jose a ferrer
-Jake Cronenworth SDP,1B/2B/SS,2.74,2.0,1,7,1.5,24.709%,jake cronenworth
-Mark Leiter Jr. ATH,RP,2.74,2.0,1,10,1.5,6.686%,mark leiter
-Reynaldo Lopez ATL,SP/RP,2.74,2.0,1,14,2.4,53.779%,reynaldo lopez
-Luke Weaver NYM,RP,2.73,2.0,1,9,1.9,97.093%,luke weaver
-Victor Scott II STL AAA,OF,2.73,1.0,1,11,2.2,8.721%,victor scott stl
-Jett Williams MIL AAA,2B/SS/3B/OF,2.73,2.0,1,8,2.5,84.593%,jett williams mil
-Ildemaro Vargas ARI,1B/2B/3B,2.73,2.0,1,13,2.8,29.07%,ildemaro vargas
-Jacob Webb CHC,RP,2.72,1.0,1,13,1.9,30.233%,jacob webb
-Heston Kjerstad BAL AAA,OF,2.71,1.0,1,8,1.8,4.07%,heston kjerstad bal
-Ryan McMahon NYY,3B,2.71,1.0,1,21,2.0,10.174%,ryan mcmahon
-Keegan Akin BAL,RP,2.71,3.0,1,7,1.0,2.035%,keegan akin
-Karson Milbrandt MIA AAA,SP,2.71,2.0,1,10,1.7,76.163%,karson milbrandt mia
-River Ryan LAD AAA,SP/RP,2.71,2.0,1,9,2.4,91.57%,river ryan lad
-Jeffrey Springs ATH,SP,2.71,2.0,1,12,2.0,24.709%,jeffrey springs
-Tyler Holton DET,SP/RP,2.7,1.0,1,12,1.2,6.686%,tyler holton
-Jacob Gonzalez PIT,1B/2B/SS,2.69,2.0,1,10,2.7,52.616%,jacob gonzalez
-Colby Thomas ATH,OF,2.69,3.0,1,5,2.2,8.43%,colby thomas
-Luis Lara MIL,OF,2.68,2.0,1,10,3.7,93.314%,luis lara
-Yimi Garcia TOR,RP,2.68,1.0,1,16,1.2,8.14%,yimi garcia
-Yoendrys Gomez MIN,SP/RP,2.67,2.0,1,10,2.3,86.337%,yoendrys gomez
+Paul Sewald ARI,RP,2.75,2.0,1,20,2.9,96.221%,paul sewald
+Ildemaro Vargas ARI,1B/2B/3B,2.74,2.0,1,13,1.9,27.326%,ildemaro vargas
+Heriberto Hernandez MIA,OF,2.74,2.0,1,11,2.8,81.105%,heriberto hernandez
+Colby Thomas ATH,OF,2.74,3.0,1,5,2.1,7.849%,colby thomas
+Brad Keller PHI,RP,2.74,3.0,1,9,2.2,21.221%,brad keller
+Edwin Uceta TBR,RP,2.74,2.0,1,13,1.9,49.128%,edwin uceta
+Luke Weaver NYM,RP,2.73,2.0,1,9,2.2,98.837%,luke weaver
+Jeffrey Springs ATH,SP,2.73,2.0,1,12,2.4,23.256%,jeffrey springs
+Jose A. Ferrer SEA,RP,2.72,3.0,1,8,2.1,75.581%,jose a ferrer
+Reynaldo Lopez ATL,SP/RP,2.72,2.0,1,14,2.0,52.326%,reynaldo lopez
+Jacob Gonzalez PIT,1B/2B/SS,2.72,2.0,1,10,2.8,55.233%,jacob gonzalez
+Tyler Black MIL AAA,1B/OF,2.71,1.0,1,7,1.5,2.035%,tyler black mil
+River Ryan LAD AAA,SP/RP,2.71,2.0,1,9,2.3,91.86%,river ryan lad
+Jett Williams MIL AAA,2B/SS/3B/OF,2.7,2.0,1,8,2.0,84.884%,jett williams mil
+Jordan Romano COL,RP,2.7,2.0,1,6,2.5,15.407%,jordan romano
+Ty France SDP,1B,2.69,1.0,1,9,2.4,3.779%,ty france
+Jacob Webb CHC,RP,2.69,1.0,1,13,2.4,34.593%,jacob webb
+Karson Milbrandt MIA AAA,SP,2.69,2.0,1,10,2.4,72.674%,karson milbrandt mia
+Jurickson Profar ATL,OF,2.69,2.0,1,11,1.7,18.605%,jurickson profar
+Joe Boyle TBR AAA,SP/RP,2.68,3.0,1,7,1.8,23.837%,joe boyle tbr
+Eli Willits WSN A+,SS,2.68,2.0,1,14,3.3,86.337%,eli willits wsn
+Luis Lara MIL,OF,2.68,2.0,1,10,3.3,94.477%,luis lara
+Dominic Canzone SEA,OF,2.67,2.0,1,21,3.9,99.419%,dominic canzone
+Jake Cronenworth SDP,1B/2B/SS,2.67,2.0,1,7,1.6,24.709%,jake cronenworth
+Mark Leiter Jr. ATH,RP,2.67,2.0,1,10,1.5,6.977%,mark leiter
 Caden Dana LAA AAA,SP,2.67,1.0,1,6,1.0,0.872%,caden dana laa
+Danny Jansen TEX,C,2.67,2.0,1,5,1.2,0.872%,danny jansen
+Andrew McCutchen ATL AAA,OF,2.67,1.0,1,14,1.0,2.616%,andrew mccutchen atl
 MJ Melendez NYM AAA,OF,2.67,1.0,1,7,1.0,1.744%,mj melendez nym
-Andrew McCutchen ATL CPX,OF,2.67,1.0,1,14,1.0,2.616%,andrew mccutchen atl
-Eli Willits WSN A+,SS,2.66,2.0,1,14,3.5,84.012%,eli willits wsn
-Quinn Mathews STL AAA,SP,2.66,2.0,1,7,2.1,27.326%,quinn mathews stl
-Tyler Rogers TOR,RP,2.66,3.0,1,11,1.4,86.919%,tyler rogers
-Dominic Canzone SEA,OF,2.65,2.0,1,21,3.3,99.419%,dominic canzone
-Jordan Romano COL,RP,2.65,2.0,1,6,1.6,14.826%,jordan romano
-Jake Bauers MIL,1B/OF/RP,2.64,2.0,1,10,5.1,94.186%,jake bauers
-Jakob Junis TEX,RP,2.63,2.0,1,12,2.0,59.593%,jakob junis
-Erik Sabrowski CLE,RP,2.63,2.0,1,10,2.3,93.314%,erik sabrowski
-Matthew Liberatore STL,SP/RP,2.63,2.0,1,19,2.1,32.849%,matthew liberatore
-Wenceel Perez DET,OF,2.63,3.0,1,5,1.8,2.326%,wenceel perez
-AJ Smith-Shawver ATL,SP,2.62,2.0,1,8,3.4,73.256%,aj smith shawver
-Gavin Sheets SDP,1B/OF,2.62,2.0,1,9,2.0,94.477%,gavin sheets
-Sean Burke CHW,SP/RP,2.62,2.0,1,9,3.7,96.802%,sean burke
-Luis Morales ATH AAA,SP/RP,2.62,2.0,1,8,1.8,3.779%,luis morales ath
-Lourdes Gurriel Jr. ARI,OF,2.61,1.0,1,17,2.0,46.802%,lourdes gurriel
-Franklin Arias BOS AA,SS,2.61,2.0,1,9,3.4,96.802%,franklin arias bos
-Ty France SDP,1B,2.6,1.0,1,9,1.1,1.453%,ty france
-Drew Gilbert SFG,OF,2.6,3.0,1,6,1.1,2.907%,drew gilbert
-Jonathan India KCR,2B/3B/OF,2.6,1.0,1,19,2.7,19.477%,jonathan india
-Gabe Speier SEA,RP,2.6,2.0,1,9,1.7,70.64%,gabe speier
-Heriberto Hernandez MIA,OF,2.6,2.0,1,11,4.6,66.279%,heriberto hernandez
-Foster Griffin WSN,SP,2.59,2.0,1,10,4.3,94.477%,foster griffin
-J.T. Ginn ATH,SP/RP,2.59,2.0,1,9,2.2,86.337%,j t ginn
-Bryan Baker TBR,RP,2.58,2.0,1,12,2.7,99.419%,bryan baker
-Jake Burger TEX,1B,2.58,2.0,1,15,1.3,76.163%,jake burger
-Chase Meidroth CHW,2B/SS,2.57,2.0,1,8,1.7,97.093%,chase meidroth
-Joshua Baez STL AAA,OF,2.57,2.0,1,9,4.3,98.256%,joshua baez stl
-Lazaro Montes SEA AAA,OF,2.57,2.0,1,8,3.6,77.616%,lazaro montes sea
-Ryan Gusto MIA,SP/RP,2.57,3.0,1,5,1.1,2.035%,ryan gusto
-Jordan Hicks CHW,SP/RP,2.57,1.0,1,8,1.3,2.035%,jordan hicks
-Liam Hicks MIA,C/1B,2.57,2.0,1,11,3.7,99.709%,liam hicks
-Yusei Kikuchi LAA,SP,2.56,1.0,1,11,1.4,26.163%,yusei kikuchi
-Erick Fedde CHW,SP/RP,2.55,1.0,1,8,1.1,3.198%,erick fedde
-Hagen Smith CHW AAA,SP,2.54,2.0,1,9,2.0,79.651%,hagen smith chw
-Cooper Pratt MIL,SS,2.54,2.0,1,11,1.3,60.465%,cooper pratt
-Ben Brown CHC,SP/RP,2.53,2.0,1,11,2.5,97.965%,ben brown
-Brad Keller PHI,RP,2.53,2.0,1,9,2.5,38.953%,brad keller
-Harry Ford WSN AAA,C,2.53,2.0,1,8,2.0,15.407%,harry ford wsn
-Gregory Soto PIT,RP,2.53,2.0,1,9,1.8,95.349%,gregory soto
-Jorge Soler LAA,OF,2.51,2.0,1,11,2.2,79.07%,jorge soler
-Dillon Dingler DET,C,2.51,3.0,1,9,3.3,99.419%,dillon dingler
-Brandon Pfaadt ARI,SP/RP,2.5,1.0,1,14,2.6,31.105%,brandon pfaadt
-Spencer Horwitz PIT,1B,2.5,2.0,1,11,1.5,73.256%,spencer horwitz
-Dylan Smith SFG,RP,2.5,1.0,1,10,2.3,1.744%,dylan smith
-Jonny Farmelo SEA A+,OF,2.5,2.5,1,4,1.9,1.744%,jonny farmelo sea
+Keegan Akin BAL,RP,2.67,2.0,1,7,1.0,1.744%,keegan akin
+AJ Smith-Shawver ATL,SP,2.66,2.0,1,8,2.7,81.105%,aj smith shawver
+Jake Bauers MIL,1B/OF/RP,2.66,2.0,1,10,5.6,94.477%,jake bauers
+Tyler Rogers TOR,RP,2.65,3.0,1,11,1.6,88.372%,tyler rogers
+Gabe Speier SEA,RP,2.64,3.0,1,9,1.9,66.279%,gabe speier
+Yoendrys Gomez MIN,SP/RP,2.64,2.0,1,10,2.7,88.953%,yoendrys gomez
+Elvis Alvarado ATH,RP,2.63,2.0,1,10,1.9,27.035%,elvis alvarado
+Sean Burke CHW,SP/RP,2.63,2.0,1,9,3.4,99.128%,sean burke
+Erik Sabrowski CLE,RP,2.62,2.0,1,10,2.2,92.733%,erik sabrowski
+Foster Griffin WSN,SP,2.62,2.0,1,10,4.0,97.093%,foster griffin
+Gavin Sheets SDP,1B/OF,2.62,2.0,1,9,1.7,92.733%,gavin sheets
+Bryan Baker TBR,RP,2.61,2.0,1,12,3.4,99.709%,bryan baker
+Franklin Arias BOS AA,SS,2.61,2.0,1,9,3.1,97.384%,franklin arias bos
+Matthew Liberatore STL,SP/RP,2.61,2.0,1,19,1.7,31.686%,matthew liberatore
+Jake Burger TEX,1B,2.6,2.0,1,15,1.3,75%,jake burger
+Yimi Garcia TOR,RP,2.59,1.0,1,16,1.2,7.849%,yimi garcia
+Lazaro Montes SEA AAA,OF,2.59,2.0,1,8,3.4,78.488%,lazaro montes sea
+Joshua Baez STL AAA,OF,2.58,2.0,1,9,4.3,98.547%,joshua baez stl
+Liam Hicks MIA,C/1B,2.57,2.0,1,11,3.6,100%,liam hicks
+Jakob Junis TEX,RP,2.57,2.0,1,12,1.7,60.465%,jakob junis
+Chase Meidroth CHW,2B/SS,2.56,2.0,1,8,1.4,97.384%,chase meidroth
+Quinn Mathews STL AAA,SP,2.56,2.0,1,7,2.4,33.43%,quinn mathews stl
+Wenceel Perez DET,OF,2.56,3.0,1,5,2.0,2.616%,wenceel perez
+Victor Scott II STL AAA,OF,2.55,1.0,1,11,2.1,8.43%,victor scott stl
+Hagen Smith CHW AAA,SP,2.55,2.0,1,9,1.5,78.779%,hagen smith chw
+Jonathan India KCR,2B/3B/OF,2.54,1.0,1,19,1.7,19.767%,jonathan india
+Jorge Soler LAA,OF,2.54,2.0,1,11,2.7,77.616%,jorge soler
+Cooper Pratt MIL,SS,2.53,2.0,1,11,2.9,65.988%,cooper pratt
+Jason Adam SDP,RP,2.53,1.5,1,11,1.6,51.744%,jason adam
+Ben Brown CHC,SP/RP,2.53,2.0,1,11,2.1,98.547%,ben brown
+Dillon Dingler DET,C,2.53,3.0,1,9,3.9,99.709%,dillon dingler
+J.T. Ginn ATH,SP/RP,2.52,2.0,1,9,1.7,83.14%,j t ginn
+Gregory Soto PIT,RP,2.52,2.0,1,9,1.6,94.477%,gregory soto
+Sean Manaea NYM,SP/RP,2.52,2.0,1,13,2.1,43.314%,sean manaea
+Zyhir Hope LAD AA,OF,2.51,2.0,1,8,4.4,84.884%,zyhir hope lad
+Aaron Bummer KCR ST,RP,2.5,2.5,2,3,1.1,0.581%,aaron bummer kcr
+Pavin Smith ARI AAA,1B,2.5,3.0,1,4,1.2,1.744%,pavin smith ari
+Ryan Pressly FA,RP,2.5,2.5,2,3,1.3,0.581%,ryan pressly
+Jalen Beeks TEX,RP,2.5,2.0,1,5,1.2,1.163%,jalen beeks
 Kyle Freeland COL,SP,2.5,2.5,2,3,1.2,0.581%,kyle freeland
 Bowden Francis TOR,SP,2.5,2.5,1,4,1.9,0.581%,bowden francis
+Jonny Farmelo SEA AA,OF,2.5,2.5,1,4,1.9,1.744%,jonny farmelo sea
 Chase Petty CIN,SP/RP,2.5,3.0,1,4,2.0,2.326%,chase petty
-Ryan Pressly FA,RP,2.5,2.5,2,3,1.3,0.581%,ryan pressly
-Brewer Hicklen ATL,OF,2.5,2.5,1,4,1.3,0.581%,brewer hicklen
-Jalen Beeks TEX,RP,2.5,2.0,1,5,1.2,1.163%,jalen beeks
-Caleb Ferguson CIN,RP,2.5,2.5,1,4,1.4,0.581%,caleb ferguson
-Pavin Smith ARI,1B,2.5,3.0,1,4,1.2,1.744%,pavin smith
-Aaron Bummer CHC AAA,RP,2.5,2.5,2,3,1.1,0.581%,aaron bummer chc
-Parker Meadows DET,OF,2.49,1.0,1,8,1.8,14.826%,parker meadows
-Zyhir Hope LAD AA,OF,2.49,2.0,1,8,4.3,84.302%,zyhir hope lad
-Victor Vodnik COL,RP,2.48,1.5,1,9,2.0,13.953%,victor vodnik
-Daniel Lynch IV KCR,RP,2.48,2.0,1,8,2.6,75.291%,daniel lynch
-Sean Manaea NYM,SP/RP,2.48,1.0,1,13,2.1,46.802%,sean manaea
-JR Ritchie ATL,SP,2.47,2.0,1,9,2.8,48.547%,ritchie
-Louis Varland TOR,RP,2.47,2.0,1,11,3.2,99.709%,louis varland
-Jake Irvin WSN CPX,SP,2.47,1.0,1,7,1.3,4.36%,jake irvin wsn
-Zach Eflin BAL,SP,2.46,1.0,1,22,2.0,15.698%,zach eflin
-Garrett Mitchell MIL,OF,2.45,2.0,1,9,2.0,93.314%,garrett mitchell
-Jason Adam SDP,RP,2.45,1.0,1,11,1.6,57.267%,jason adam
-Ryan Jeffers MIN,C,2.45,2.0,1,11,2.9,95.349%,ryan jeffers
-Druw Jones ARI AA,OF,2.44,2.0,1,6,1.0,2.616%,druw jones ari
-Gabriel Arias CLE,2B/SS/3B,2.44,3.0,1,5,1.2,2.616%,gabriel arias
-Fernando Cruz NYY,RP,2.44,2.0,1,8,1.6,90.988%,fernando cruz
-Rico Garcia BAL,RP,2.43,2.0,1,11,2.7,90.116%,rico garcia
+JR Ritchie ATL,SP/RP,2.5,2.0,1,9,2.6,47.965%,ritchie
+Louis Varland TOR,RP,2.49,2.0,1,11,3.8,100%,louis varland
+Spencer Horwitz PIT,1B,2.49,2.0,1,11,1.7,73.256%,spencer horwitz
+Garrett Mitchell MIL,OF,2.48,2.0,1,9,3.4,95.64%,garrett mitchell
+Yusei Kikuchi LAA,SP,2.47,1.0,1,11,1.3,26.163%,yusei kikuchi
+Ha-seong Kim ATL,2B/SS,2.46,1.5,1,7,1.5,7.558%,ha seong kim
+Daniel Lynch IV KCR,RP,2.46,2.0,1,8,1.9,75.581%,daniel lynch
+Cristian Javier HOU,SP,2.46,2.0,1,8,1.7,17.151%,cristian javier
+Ryan Jeffers MIN,C,2.45,2.0,1,11,3.1,96.221%,ryan jeffers
+Jesus Sanchez TOR,OF,2.45,1.0,1,11,2.0,68.895%,jesus sanchez
+Drew Burress,Util,2.44,2.0,1,11,2.4,12.5%,drew burress
+Zach Eflin BAL,SP,2.44,1.0,1,22,1.5,15.988%,zach eflin
+Harrison Bader SFG,OF,2.43,2.5,1,9,1.7,8.721%,harrison bader
 Brandon Walter HOU,SP/RP,2.43,3.0,1,4,1.8,2.035%,brandon walter
-Jose Berrios TOR,SP,2.43,1.0,1,9,3.5,8.14%,jose berrios
-Taylor Rogers MIN,RP,2.43,1.0,1,12,1.7,11.628%,taylor rogers
-Jesus Sanchez TOR,OF,2.42,1.0,1,11,2.0,73.547%,jesus sanchez
-Ryan Sloan SEA AA,SP,2.41,2.0,1,9,4.1,95.058%,ryan sloan sea
-Juan Morillo ARI,RP,2.41,2.0,1,8,1.5,82.267%,juan morillo
-Ha-seong Kim ATL,2B/SS,2.41,1.0,1,7,1.5,7.849%,ha seong kim
-Jameson Taillon CHC AAA,SP,2.4,1.0,1,10,2.1,12.209%,jameson taillon chc
-Craig Yoho MIL,RP,2.4,1.0,1,12,1.3,4.36%,craig yoho
-Sean Murphy ATL,C,2.4,1.0,1,17,1.9,11.628%,sean murphy
-Lane Thomas KCR,OF,2.39,1.0,1,10,1.5,8.14%,lane thomas
+Drew Thorpe CHW,RP,2.43,1.0,1,7,1.8,2.035%,drew thorpe
+Fernando Cruz NYY,RP,2.42,2.0,1,8,1.9,94.186%,fernando cruz
+Ryan Sloan SEA AA,SP,2.42,2.0,1,9,4.0,95.64%,ryan sloan sea
+Rico Garcia BAL,RP,2.42,2.0,1,11,2.0,87.5%,rico garcia
+Alex Freeland LAD,2B/SS/3B,2.41,2.0,1,7,1.8,11.919%,alex freeland
+Sean Murphy ATL,C,2.41,1.0,1,17,1.9,11.337%,sean murphy
+Matt Svanson STL,RP,2.41,2.0,1,6,1.7,9.302%,matt svanson
+Victor Vodnik COL,RP,2.4,1.0,1,9,1.7,13.663%,victor vodnik
+Juan Morillo ARI,RP,2.4,2.0,1,8,1.4,82.558%,juan morillo
+Jameson Taillon CHC,SP,2.4,1.0,1,10,2.0,12.5%,jameson taillon
 Ricky Tiedemann TOR A,RP,2.39,2.0,1,8,1.7,5.233%,ricky tiedemann tor a
-Michael McGreevy STL,SP,2.39,2.0,1,10,2.2,57.267%,michael mcgreevy
-Cristian Javier HOU,SP,2.38,2.0,1,8,1.7,18.895%,cristian javier
-Walbert Urena LAA,SP/RP,2.38,2.0,1,11,3.2,91.279%,walbert urena
-Harrison Bader SFG,OF,2.38,2.0,1,9,1.7,9.302%,harrison bader
-Luis Pena MIL A+,2B/SS,2.37,2.0,1,7,2.3,76.163%,luis pena mil
-Kaelen Culpepper MIN AAA,SS,2.37,2.0,1,8,2.4,93.605%,kaelen culpepper min
-Brayan Rocchio CLE,2B/SS,2.37,2.0,1,9,3.3,92.151%,brayan rocchio
-Xavier Isaac TBR AA,1B,2.37,2.0,1,5,1.7,5.523%,xavier isaac tbr
-Theo Gillen TBR AA,OF,2.37,2.0,1,7,2.5,62.791%,theo gillen tbr
-Alex Freeland LAD,2B/SS/3B,2.36,2.0,1,7,1.8,12.791%,alex freeland
-Tommy Edman LAD,2B/3B/OF,2.36,1.0,1,20,2.6,92.442%,tommy edman
-Zach McKinstry DET,2B/SS/3B/OF,2.35,2.0,1,10,1.7,31.977%,zach mckinstry
-Christian Moore LAA AAA,2B/3B,2.34,2.0,1,8,1.1,32.267%,christian moore laa
-Keaton Winn SFG,SP/RP,2.34,2.0,1,7,2.0,48.547%,keaton winn
-Ryan Yarbrough NYY,SP/RP,2.33,1.0,1,5,1.6,0.872%,ryan yarbrough
-Zack Littell WSN,SP/RP,2.33,1.0,1,7,1.6,3.488%,zack littell
+Cam Cannarella MIA AAA,OF,2.39,1.5,1,7,2.3,10.465%,cam cannarella mia
+Parker Meadows DET,OF,2.39,1.0,1,8,1.7,14.244%,parker meadows
+Brandon Pfaadt ARI,SP/RP,2.38,1.0,1,14,1.8,41.86%,brandon pfaadt
+Jose Berrios TOR,SP,2.38,1.0,1,9,3.4,8.43%,jose berrios
+Steven Matz TBR AAA,SP/RP,2.38,1.0,1,17,1.5,8.43%,steven matz tbr
+Taylor Rogers MIN,RP,2.38,1.0,1,12,2.0,10.756%,taylor rogers
+Mike Sirota LAD AA,OF,2.38,2.0,1,11,3.6,78.488%,mike sirota lad
+Kaelen Culpepper MIN AAA,SS,2.37,2.0,1,8,2.5,94.477%,kaelen culpepper min
+Walbert Urena LAA,SP/RP,2.37,2.0,1,11,2.8,92.442%,walbert urena
+Michael McGreevy STL,SP,2.37,2.0,1,10,2.1,60.465%,michael mcgreevy
+Tommy Edman LAD,2B/3B/OF,2.35,1.0,1,20,3.1,93.605%,tommy edman
+Cedric Mullins TBR,OF,2.35,1.0,1,15,1.2,32.849%,cedric mullins
+Luis Pena MIL A+,2B/SS,2.35,2.0,1,7,2.0,76.453%,luis pena mil
+Brayan Rocchio CLE,2B/SS,2.35,2.0,1,9,1.7,95.64%,brayan rocchio
+David Festa MIN,SP,2.35,1.0,1,9,1.4,7.558%,david festa
+Christian Moore LAA AAA,2B/3B,2.35,2.0,1,8,1.6,31.105%,christian moore laa
+Zach McKinstry DET,2B/SS/3B/OF,2.35,2.0,1,10,2.0,31.105%,zach mckinstry
+Joshua Kuroda-Grauer ATH,2B/SS/3B,2.33,2.0,1,9,1.9,59.012%,joshua kuroda grauer
 Johnny King TOR A+,SP,2.33,2.0,2,3,1.5,0.872%,johnny king tor
+Ryan Yarbrough NYY,SP/RP,2.33,1.0,1,5,1.6,0.872%,ryan yarbrough
 Justin Wrobleski LAD,SP/RP,2.33,2.0,1,13,5.7,99.709%,justin wrobleski
-Joshua Kuroda-Grauer ATH,2B/SS/3B,2.33,2.0,1,9,2.1,48.547%,joshua kuroda grauer
-Kumar Rocker TEX,SP,2.32,1.0,1,13,1.3,65.407%,kumar rocker
-Mike Sirota LAD AA,OF,2.32,2.0,1,11,2.9,72.674%,mike sirota lad
-Hyeseong Kim LAD AAA,2B/SS/OF,2.31,1.5,1,11,2.0,15.698%,hyeseong kim lad
-George Lombard Jr. NYY CPX,SS,2.3,2.0,1,8,2.3,87.209%,george lombard nyy
-Luisangel Acuna CHW,2B/SS/OF,2.3,1.0,1,13,1.3,12.5%,luisangel acuna
-Cedric Mullins TBR,OF,2.3,1.0,1,15,1.1,33.721%,cedric mullins
-Everson Pereira CHW,OF,2.3,2.0,1,5,1.8,5.814%,everson pereira
+Theo Gillen TBR AA,OF,2.33,2.0,1,7,2.4,68.605%,theo gillen tbr
+George Lombard Jr. NYY AAA,SS,2.32,2.0,1,8,2.5,89.535%,george lombard nyy
+Keaton Winn SFG,SP/RP,2.31,2.0,1,7,1.9,49.419%,keaton winn
+Zack Littell WSN,SP/RP,2.31,1.0,1,7,1.9,3.779%,zack littell
+Erick Fedde CHW,SP/RP,2.31,1.0,1,8,1.1,3.779%,erick fedde
+Samad Taylor SDP,2B/OF,2.3,1.0,1,8,2.2,37.209%,samad taylor
 Ben Casparius LAD,RP,2.3,2.0,1,5,1.5,2.907%,ben casparius
-Wade Meckler LAA,OF,2.3,1.0,1,8,1.3,25.291%,wade meckler
-Max Muncy ATH AAA,2B/SS/3B,2.3,2.0,1,7,2.0,51.163%,max muncy ath
-Matt Svanson STL,RP,2.29,2.0,1,6,1.7,11.047%,matt svanson
+Gabriel Arias CLE,2B/SS/3B,2.3,2.0,1,5,1.2,2.907%,gabriel arias
+Xavier Isaac TBR AA,1B,2.3,2.0,1,5,1.6,5.814%,xavier isaac tbr
+Trevor McDonald SFG,SP/RP,2.29,2.0,1,9,2.1,37.791%,trevor mcdonald
 Jonah Cox SFG,OF,2.29,2.0,1,5,1.9,2.035%,jonah cox
-Jonatan Clase TOR,OF,2.29,2.0,1,5,1.5,2.035%,jonatan clase
-Deyvison De Los Santos MIA AAA,1B/3B,2.29,2.0,1,8,1.8,8.14%,deyvison de los santos mia
-Samad Taylor SDP,2B/OF,2.28,1.0,1,8,2.2,42.151%,samad taylor
-Joel Kuhnel MIL,RP,2.28,2.0,1,7,2.3,9.302%,joel kuhnel
-Anthony Eyanson BOS AA,SP,2.28,2.0,1,8,2.6,66.57%,anthony eyanson bos
-Luis Severino ATH,SP,2.28,1.0,1,11,1.9,27.326%,luis severino
 Jake Meyers HOU AAA,OF,2.27,3.0,1,5,1.3,3.198%,jake meyers hou
-Tony Santillan CIN,RP,2.27,2.0,1,8,2.1,32.267%,tony santillan
-Matt Wilkinson SFG AAA,SP,2.25,2.5,1,3,1.9,1.163%,matt wilkinson sfg
-Sawyer Gipson-Long DET AAA,SP/RP,2.25,2.5,1,3,1.8,1.163%,sawyer gipson long det
-David Festa MIN,SP,2.25,1.0,1,9,1.4,8.14%,david festa
-Danny Jansen TEX,C,2.25,1.5,1,5,1.2,1.163%,danny jansen
-Steven Matz TBR AAA,SP/RP,2.25,1.0,1,17,2.0,9.302%,steven matz tbr
-Felix Bautista BAL,RP,2.24,2.0,1,15,2.3,67.151%,felix bautista
-Tristan Peters CHW,OF,2.23,1.0,1,7,3.7,33.14%,tristan peters
-Trevor McDonald SFG,SP/RP,2.22,2.0,1,9,2.3,46.512%,trevor mcdonald
-Tommy Troy ARI,2B/OF,2.22,2.0,1,8,2.6,33.43%,tommy troy
-Jose Fernandez ARI AAA,1B/SS/3B,2.21,1.5,1,6,2.1,8.14%,jose fernandez ari
-Pedro Ramirez CHC,2B/3B,2.21,2.0,1,7,2.1,34.593%,pedro ramirez
-Blaze Alexander BAL,2B/SS/3B/OF,2.21,1.0,1,8,1.4,74.128%,blaze alexander
-Braxton Garrett MIA AAA,SP/RP,2.21,2.0,1,12,2.2,26.744%,braxton garrett mia
-Aaron Ashby MIL,RP,2.2,2.0,1,8,2.0,92.442%,aaron ashby
-Grant Holmes ATL,SP,2.2,1.0,1,11,1.6,36.337%,grant holmes
+Joel Kuhnel MIL,RP,2.27,2.0,1,7,2.0,8.721%,joel kuhnel
+Luis Severino ATH,SP,2.26,1.0,1,11,1.8,27.616%,luis severino
+Kumar Rocker TEX,SP,2.26,1.0,1,13,1.5,61.919%,kumar rocker
+Anthony Eyanson BOS AA,SP,2.26,2.0,1,8,2.4,67.733%,anthony eyanson bos
+Tony Santillan CIN,RP,2.25,2.0,1,8,2.0,29.651%,tony santillan
+Yuki Matsui SDP,RP,2.25,1.5,1,6,1.1,2.326%,yuki matsui
+Tristan Peters CHW,OF,2.24,1.0,1,10,1.9,43.314%,tristan peters
+Harry Ford WSN,C,2.24,2.0,1,8,1.7,25.291%,harry ford
+Felix Bautista BAL,RP,2.23,2.0,1,15,2.0,70.058%,felix bautista
+Joey Ortiz MIL,SS/3B,2.23,1.0,1,8,1.5,3.779%,joey ortiz
+Kevin Alcantara CHC,OF,2.23,1.0,1,8,1.8,21.512%,kevin alcantara
+Hyeseong Kim LAD AAA,2B/SS/OF,2.23,1.0,1,11,1.8,15.407%,hyeseong kim lad
+Jake Irvin WSN,SP,2.22,1.0,1,7,1.2,5.233%,jake irvin
+TJ Rumfield COL,1B,2.22,1.0,1,9,3.7,92.733%,tj rumfield
+Mike Yastrzemski ATL,OF,2.22,1.0,1,9,1.6,21.512%,mike yastrzemski
+Pedro Ramirez CHC,2B/3B,2.21,2.0,1,7,2.6,38.081%,pedro ramirez
+Aaron Ashby MIL,RP,2.21,2.0,1,8,2.0,91.57%,aaron ashby
+Max Muncy ATH,2B/SS/3B,2.2,2.0,1,7,1.9,44.477%,max muncy
+Craig Yoho MIL,RP,2.2,1.0,1,12,1.5,5.814%,craig yoho
 Connor Phillips CIN AAA,RP,2.2,1.0,1,5,1.2,1.453%,connor phillips cin
-Michael Kopech FA,RP,2.2,1.0,1,6,2.8,1.453%,michael kopech
 Logan Evans SEA,SP,2.2,3.0,1,3,1.0,1.453%,logan evans
-TJ Rumfield COL,1B,2.2,1.0,1,9,2.9,91.86%,tj rumfield
-Carson Whisenhunt SFG,SP,2.19,1.0,1,5,1.1,4.651%,carson whisenhunt
-Caleb Kilian SFG,RP,2.18,1.0,1,11,2.1,65.116%,caleb kilian
+Michael Kopech FA,RP,2.2,1.0,1,6,2.7,1.453%,michael kopech
 Adrian Houser SFG,SP/RP,2.18,1.0,1,4,2.6,3.198%,adrian houser
-Jordan Montgomery TEX,SP/RP,2.18,1.0,1,14,1.0,3.198%,jordan montgomery
-Kevin Alcantara CHC,OF,2.18,1.0,1,8,1.6,22.965%,kevin alcantara
-Mike Yastrzemski ATL,OF,2.18,1.0,1,9,1.7,22.965%,mike yastrzemski
-Jake Mangum PIT,OF,2.18,1.0,1,10,1.7,32.849%,jake mangum
-Carlos Lagrange NYY AAA,SP/RP,2.17,2.0,1,8,1.6,71.221%,carlos lagrange nyy
+Shane Drohan MIL,SP/RP,2.18,1.0,1,9,4.1,91.279%,shane drohan
+Caleb Kilian SFG,RP,2.18,1.0,1,11,2.1,62.791%,caleb kilian
+Tommy White ATH,1B/3B,2.17,1.0,1,8,1.8,21.802%,tommy white
+Carlos Lagrange NYY AAA,SP/RP,2.17,2.0,1,8,1.6,69.767%,carlos lagrange nyy
 Otto Kemp PHI AAA,1B/3B/OF,2.17,2.0,1,4,1.6,1.744%,otto kemp phi
-Ronel Blanco HOU,SP,2.17,1.0,1,8,1.4,8.721%,ronel blanco
-Edward Florentino PIT A+,OF,2.16,2.0,1,10,1.6,65.407%,edward florentino pit
-Joey Ortiz MIL,SS/3B,2.15,1.0,1,8,1.4,3.779%,joey ortiz
-Ethan Salas SDP AA,C,2.15,2.0,1,7,1.2,37.791%,ethan salas sdp
-Brandon Marsh PHI,OF,2.15,1.0,1,9,2.6,99.709%,brandon marsh
-Nasim Nunez WSN,2B/SS,2.15,1.0,1,9,3.0,34.593%,nasim nunez
-Lance McCullers Jr. MIL ST,SP,2.14,1.0,1,11,2.2,6.395%,lance mccullers mil
-Erik Miller SFG,RP,2.13,2.0,1,7,1.5,28.488%,erik miller
-J.P. Crawford SEA,SS/3B,2.13,1.0,1,11,2.0,76.744%,j p crawford
-Mason Montgomery PIT,RP,2.13,2.0,1,8,2.2,75%,mason montgomery
-Cole Sands MIN CPX,RP,2.13,2.0,1,5,1.9,11.047%,cole sands min
-Javier Assad CHC,SP/RP,2.13,1.0,1,6,1.1,6.686%,javier assad
-Nathan Church STL,OF,2.13,2.0,1,9,2.0,13.663%,nathan church
-Ben Joyce LAA,RP,2.13,1.0,1,10,1.2,52.907%,ben joyce
-Edgardo Henriquez LAD,RP,2.13,2.0,1,6,1.6,74.419%,edgardo henriquez
-Jacob Lopez ATH,SP,2.13,1.0,1,6,1.6,4.651%,jacob lopez
-Lucas Giolito SDP,SP,2.13,1.0,1,8,1.6,11.628%,lucas giolito
+Javier Assad CHC,SP/RP,2.17,1.0,1,6,1.1,5.233%,javier assad
+Ethan Salas SDP AA,C,2.17,2.0,1,7,1.5,36.919%,ethan salas sdp
+Braxton Garrett MIA AAA,SP/RP,2.17,2.0,1,12,2.0,29.942%,braxton garrett mia
+Brandon Marsh PHI,OF,2.16,1.0,1,9,2.9,100%,brandon marsh
+Ronel Blanco HOU,SP,2.16,1.0,1,8,1.5,9.012%,ronel blanco
+Carlos Narvaez BOS,C,2.15,2.0,1,7,1.8,3.779%,carlos narvaez
+Jose Fernandez ARI AAA,1B/SS/3B,2.15,1.5,1,6,2.2,7.558%,jose fernandez ari
+Everson Pereira CHW AAA,OF,2.15,2.0,1,5,1.9,5.814%,everson pereira chw
+Edward Florentino PIT A+,OF,2.15,2.0,1,10,2.0,65.116%,edward florentino pit
+Grant Holmes ATL,SP,2.14,1.0,1,11,1.9,34.884%,grant holmes
+Jake McCarthy COL,OF,2.14,1.0,1,9,3.2,98.837%,jake mccarthy
+Wade Meckler LAA,OF,2.14,1.0,1,8,1.8,23.547%,wade meckler
+Tommy Troy ARI,2B/OF,2.13,1.0,1,8,2.9,25.872%,tommy troy
+J.P. Crawford SEA,SS/3B,2.13,1.0,1,11,1.9,76.163%,j p crawford
+Nasim Nunez WSN,2B/SS,2.13,1.0,1,9,1.7,35.174%,nasim nunez
+Ben Joyce LAA,RP,2.13,1.0,1,10,1.6,54.07%,ben joyce
+Jonatan Clase TOR,OF,2.13,1.5,1,5,1.7,2.326%,jonatan clase
 Brusdar Graterol LAD,RP,2.13,1.0,1,9,1.1,2.326%,brusdar graterol
-Shane Drohan MIL,SP/RP,2.12,1.0,1,8,2.8,88.663%,shane drohan
-Nick Martinez TBR,SP/RP,2.12,2.0,1,9,2.1,91.86%,nick martinez
-Jake McCarthy COL,OF,2.12,1.0,1,9,2.9,97.674%,jake mccarthy
-Tyler Stephenson CIN,C,2.12,1.0,1,11,1.3,37.791%,tyler stephenson
-Zach Thornton NYM,SP/RP,2.12,1.0,1,8,3.3,7.558%,zach thornton
-Hayden Wesneski HOU,SP,2.11,1.0,1,5,1.1,2.616%,hayden wesneski
-Kody Clemens MIN,1B/2B/OF,2.11,1.0,1,11,3.0,98.547%,kody clemens
-Kyle Leahy STL,SP/RP,2.1,2.0,1,9,2.3,24.128%,kyle leahy
-Luke Raley SEA,1B/OF,2.09,1.0,1,8,2.0,77.907%,luke raley
-Caleb Bonemer CHW AA,SS/3B,2.09,2.0,1,9,4.0,66.86%,caleb bonemer chw
-Jarlin Susana WSN AA,SP,2.08,2.0,1,8,1.5,34.302%,jarlin susana wsn
-Daniel Schneemann CLE,2B/SS/3B/OF,2.08,2.0,1,6,2.1,20.93%,daniel schneemann
-Carmen Mlodzinski PIT,SP/RP,2.08,2.0,1,6,2.5,42.151%,carmen mlodzinski
-Jhostynxon Garcia PIT AAA,OF,2.08,2.0,1,4,2.0,14.535%,jhostynxon garcia pit
-Mauricio Dubon ATL,2B/SS/3B/OF,2.08,2.0,1,8,2.7,94.767%,mauricio dubon
-Jose Alvarado PHI,RP,2.08,2.0,1,10,1.8,29.942%,jose alvarado
-Brendon Little TOR AAA,RP,2.08,2.0,1,4,1.7,3.779%,brendon little tor
-Carlos Narvaez BOS,C,2.07,1.5,1,7,1.8,4.07%,carlos narvaez
-Triston Casas BOS,1B,2.07,1.0,1,16,1.7,41.57%,triston casas
-Michael Conforto CHC,OF,2.06,1.0,1,10,1.5,9.593%,michael conforto
-Slade Cecconi CLE,SP,2.05,1.0,1,7,1.6,31.977%,slade cecconi
+Caleb Bonemer CHW AA,SS/3B,2.12,2.0,1,9,3.9,68.895%,caleb bonemer chw
+Carson Whisenhunt SFG AAA,SP,2.12,1.0,1,5,1.1,4.942%,carson whisenhunt sfg
+Mason Montgomery PIT,SP/RP,2.12,2.0,1,8,1.8,85.174%,mason montgomery
+Nick Martinez TBR,SP/RP,2.11,2.0,1,9,2.2,93.023%,nick martinez
+Kody Clemens MIN,1B/2B/OF,2.11,1.0,1,11,2.6,98.837%,kody clemens
+Gus Varland WSN AAA,RP,2.11,2.0,1,6,2.1,8.14%,gus varland wsn
+Nathan Church STL,OF,2.11,1.0,1,9,2.0,11.047%,nathan church
+Lucas Giolito SDP,SP,2.11,1.0,1,8,1.7,11.047%,lucas giolito
+Luisangel Acuna CHW,2B/SS/OF,2.1,1.0,1,7,1.4,11.628%,luisangel acuna
+Erik Miller SFG,RP,2.1,2.0,1,7,2.3,36.628%,erik miller
+Michael Conforto CHC,OF,2.09,1.0,1,10,1.5,9.302%,michael conforto
+Lane Thomas KCR,OF,2.09,1.0,1,10,1.2,28.779%,lane thomas
+Jaxon Wiggins CHC AAA,SP,2.09,2.0,1,9,1.9,25.872%,jaxon wiggins chc
+Jarlin Susana WSN AA,SP,2.09,2.0,1,8,1.9,36.628%,jarlin susana wsn
+Peter Lambert HOU,SP,2.09,1.0,1,9,3.1,84.302%,peter lambert
+Blaze Alexander BAL,2B/SS/3B/OF,2.09,1.0,1,8,1.7,61.337%,blaze alexander
+Luke Raley SEA,1B/OF,2.08,1.0,1,8,2.1,73.256%,luke raley
+Carmen Mlodzinski PIT,SP/RP,2.08,2.0,1,7,2.1,44.186%,carmen mlodzinski
+Jake Mangum PIT,OF,2.08,1.0,1,10,1.0,36.919%,jake mangum
+Daniel Schneemann CLE,2B/SS/3B/OF,2.07,2.0,1,6,1.9,19.767%,daniel schneemann
+Mauricio Dubon ATL,2B/SS/3B/OF,2.07,2.0,1,8,2.2,95.64%,mauricio dubon
+Jordan Montgomery TEX,SP/RP,2.07,1.0,1,14,1.2,4.07%,jordan montgomery
+Edgardo Henriquez LAD,RP,2.07,2.0,1,6,1.7,75.581%,edgardo henriquez
+Cole Sands MIN AAA,RP,2.07,1.5,1,5,2.2,8.721%,cole sands min
+Jhostynxon Garcia PIT AAA,OF,2.06,2.0,1,4,1.6,13.953%,jhostynxon garcia pit
+Jose Alvarado PHI,RP,2.06,2.0,1,10,1.8,28.779%,jose alvarado
+Romy Gonzalez BOS,1B/2B,2.06,2.0,1,7,2.3,29.07%,romy gonzalez
+Paul Goldschmidt NYY,1B,2.06,1.0,1,11,1.7,55.523%,paul goldschmidt
 Blake Treinen LAD,RP,2.05,1.0,1,7,1.7,5.523%,blake treinen
-Paul Goldschmidt NYY,1B,2.05,1.0,1,11,1.7,61.919%,paul goldschmidt
-Jaxon Wiggins CHC AAA,SP,2.04,2.0,1,9,1.6,27.035%,jaxon wiggins chc
-Justin Slaten BOS,RP,2.02,1.0,1,5,1.5,13.953%,justin slaten
-Trevor Larnach MIN,OF,2.02,1.0,1,8,1.5,87.5%,trevor larnach
-Romy Gonzalez BOS,1B/2B,2.02,1.0,1,7,2.2,35.174%,romy gonzalez
-Peter Lambert HOU,SP,2.02,1.0,1,9,1.8,77.035%,peter lambert
-Bryan King HOU,RP,2.01,2.0,1,7,2.5,77.907%,bryan king
-Walker Buehler SDP,SP,2.01,1.0,1,16,1.1,44.186%,walker buehler
-Ivan Brethowr PIT AA,OF,2.0,2.0,2,2,1.0,0.291%,ivan brethowr pit
+Kyle Leahy STL,SP/RP,2.05,1.0,1,9,2.2,29.36%,kyle leahy
+Tyler Stephenson CIN,C,2.04,1.0,1,11,1.3,38.953%,tyler stephenson
+Triston Casas BOS,1B,2.04,1.0,1,16,1.8,41.86%,triston casas
+Walker Buehler SDP,SP,2.04,1.0,1,16,1.1,41.279%,walker buehler
+Deyvison De Los Santos MIA AAA,1B/3B,2.03,2.0,1,4,1.8,8.43%,deyvison de los santos mia
+Slade Cecconi CLE,SP,2.03,1.0,1,7,1.4,31.395%,slade cecconi
+Zach Thornton NYM,SP/RP,2.03,1.0,1,8,2.4,21.221%,zach thornton
+Hogan Harris ATH,RP,2.03,1.0,1,11,1.7,33.43%,hogan harris
+Nathaniel Lowe CIN,1B,2.02,1.0,1,8,1.6,12.791%,nathaniel lowe
+Trevor Larnach MIN,OF,2.02,1.0,1,8,1.7,88.372%,trevor larnach
+Robert Gasser MIL,SP,2.02,1.0,1,6,1.9,18.314%,robert gasser
+Ralphy Velazquez CLE AAA,1B,2.01,1.0,1,7,2.7,74.128%,ralphy velazquez cle
 Austin Peterson CLE AAA,SP,2.0,2.0,2,2,1.4,0.291%,austin peterson cle
-Ke'Bryan Hayes CIN,3B,2.0,2.0,1,3,1.5,0.581%,ke bryan hayes
-Anderson Brito TBR A+,SP,2.0,2.0,2,2,1.0,0.291%,anderson brito tbr
-Felix Reyes PHI AAA,1B/OF,2.0,1.0,1,4,1.4,0.872%,felix reyes phi
-Enrique Bradfield Jr. BAL AAA,OF,2.0,2.0,2,2,1.3,0.291%,enrique bradfield bal
-Blake Mitchell KCR A+,C,2.0,2.0,2,2,1.0,0.581%,blake mitchell kcr
-Rob Refsnyder SEA,OF,2.0,2.0,1,3,1.1,1.163%,rob refsnyder
-Hunter Barco PIT CPX,SP/RP,2.0,2.0,1,4,1.5,4.07%,hunter barco pit
-Scott Barlow KCR AAA,RP,2.0,1.0,1,6,1.7,1.453%,scott barlow kcr
-Yoan Moncada LAA,3B,2.0,1.0,1,5,1.6,2.035%,yoan moncada
-Tyson Neighbors BAL AA,RP,2.0,2.0,2,2,1.11,0.291%,tyson neighbors bal
-Juan Brito CLE AAA,2B,2.0,2.0,2,2,1.4,0.581%,juan brito cle
-Jackson Ferris LAD AAA,SP,2.0,2.0,2,2,1.2,0.291%,jackson ferris lad
-Justin Lawrence WSN,RP,2.0,2.0,1,3,1.2,0.581%,justin lawrence
-Gus Varland WSN AAA,RP,2.0,2.0,1,6,2.3,11.337%,gus varland wsn
-Adam Macko TOR,SP/RP,2.0,2.0,2,2,1.57,0.872%,adam macko
-Yuki Matsui SDP,RP,2.0,1.0,1,6,1.1,2.907%,yuki matsui
-Robert Gasser MIL,SP,2.0,1.0,1,6,1.7,17.733%,robert gasser
-Mason Barnett ATH,SP/RP,2.0,2.0,1,5,2.2,5.814%,mason barnett
 Victor Figueroa BAL A+,1B,2.0,2.0,2,2,1.0,0.291%,victor figueroa bal
-Victor Robles SEA,OF,2.0,1.0,1,7,1.5,3.198%,victor robles
-AJ Russell TEX A+,SP,2.0,2.0,2,2,1.5,0.291%,aj russell tex
-Adam Seminaris PHI AA,SP,2.0,2.0,2,2,2.0,0.291%,adam seminaris phi
-Hoby Milner CHC,RP,2.0,2.0,1,3,1.8,0.872%,hoby milner
-Esteban Mejia BAL A,SP,2.0,2.0,2,2,1.0,0.291%,esteban mejia bal a
-Alejandro Rosario WSN AA,RP,2.0,2.0,2,2,1.2,0.581%,alejandro rosario wsn
-Robby Ahlstrom TEX,RP,2.0,2.0,2,2,1.14,0.291%,robby ahlstrom
-Joseph Sullivan HOU AA,OF,2.0,2.0,2,2,1.2,0.291%,joseph sullivan hou
-Ryan Fernandez STL AAA,RP,2.0,2.0,2,2,1.3,0.291%,ryan fernandez stl
-James Triantos CHC AAA,2B/3B/OF,2.0,2.0,1,3,1.2,0.872%,james triantos chc
-Blade Tidwell SFG AAA,SP/RP,2.0,2.0,1,3,1.6,1.163%,blade tidwell sfg
-Jose Tena WSN,2B/3B,2.0,2.0,1,3,1.4,0.581%,jose tena
-CJ Kayfus CLE AAA,1B/OF,2.0,1.0,1,5,1.9,2.326%,cj kayfus cle
 Cam Collier CIN AA,1B/3B,2.0,2.0,1,4,1.5,2.616%,cam collier cin
+Juan Brito CLE AAA,2B,2.0,2.0,2,2,1.4,0.581%,juan brito cle
+Sawyer Gipson-Long DET AAA,SP/RP,2.0,2.0,1,3,1.8,0.872%,sawyer gipson long det
+Tyson Neighbors BAL AA,RP,2.0,2.0,2,2,1.11,0.291%,tyson neighbors bal
+Rob Refsnyder SEA,OF,2.0,2.0,1,3,1.1,1.163%,rob refsnyder
+Felix Reyes PHI AAA,1B/OF,2.0,1.0,1,4,1.4,0.872%,felix reyes phi
 Tomoyuki Sugano COL,SP,2.0,2.0,2,2,1.4,0.291%,tomoyuki sugano
-Ike Irish BAL A+,1B/OF,2.0,2.0,1,3,2.0,0.872%,ike irish bal
-Kristian Robinson ARI AAA,OF,2.0,2.0,2,2,1.2,0.291%,kristian robinson ari
-Gavin Fien WSN A,OF,2.0,2.0,2,2,1.5,0.581%,gavin fien wsn a
-Tre' Morgan TBR CPX,1B,2.0,2.0,2,2,1.1,0.291%,tre morgan tbr
-Hogan Harris ATH,RP,2.0,1.0,1,11,1.5,35.756%,hogan harris
-Reggie Crawford SFG CPX,RP,2.0,2.0,2,2,1.6,0.291%,reggie crawford sfg
-Jhonkensy Noel BAL AAA,1B/OF,2.0,1.0,1,4,1.1,0.872%,jhonkensy noel bal
+Hunter Barco PIT AAA,SP/RP,2.0,2.0,1,4,1.4,3.779%,hunter barco pit
+Adam Macko TOR AAA,SP/RP,2.0,2.0,2,2,1.57,0.872%,adam macko tor
+AJ Russell TEX A+,SP,2.0,2.0,2,2,1.5,0.291%,aj russell tex
+Hoby Milner CHC,RP,2.0,2.0,1,3,1.8,0.872%,hoby milner
+Matt Wilkinson SFG AAA,SP,2.0,2.0,1,3,1.7,1.453%,matt wilkinson sfg
+Dean Kremer BAL,SP,2.0,1.0,1,8,1.9,23.837%,dean kremer
 Thomas Saggese STL AAA,2B/SS/3B/OF,2.0,2.0,1,3,1.5,0.872%,thomas saggese stl
-Max Scherzer TOR AAA,SP,2.0,1.0,1,8,1.6,4.942%,max scherzer tor
-Phil Maton CHC ST,RP,2.0,2.0,1,6,1.9,17.151%,phil maton chc
-Nolan Arenado ARI,3B,1.99,1.0,1,15,1.2,67.733%,nolan arenado
-Anthony Seigler BOS,C/2B/3B,1.99,1.0,1,7,1.7,28.779%,anthony seigler
-Dean Kremer BAL,SP,1.99,1.0,1,8,1.4,26.163%,dean kremer
-Calvin Faucher MIA,RP,1.99,1.0,1,7,1.9,25.872%,calvin faucher
-Zac Veen COL AAA,OF,1.98,1.0,1,7,2.7,50.581%,zac veen col
-Ralphy Velazquez CLE AAA,1B,1.98,1.0,1,7,2.0,71.802%,ralphy velazquez cle
-Antonio Senzatela COL,SP/RP,1.97,1.0,1,8,1.7,45.93%,antonio senzatela
-Jesus Rodriguez SFG,C/3B,1.96,2.0,1,6,2.3,6.686%,jesus rodriguez
-Ryan Ward LAD AAA,1B/OF,1.95,2.0,1,6,1.9,5.814%,ryan ward lad
-Miguel Andujar SDP,3B/OF,1.95,1.0,1,8,2.3,38.953%,miguel andujar
-Stephen Kolek KCR,SP,1.94,1.0,1,7,1.9,29.07%,stephen kolek
-Nathaniel Lowe CIN,1B,1.94,1.0,1,8,1.7,13.953%,nathaniel lowe
-Eric Hartman ATL A+,2B/OF,1.93,2.0,1,8,2.0,50.291%,eric hartman atl
+Jace Jung DET AAA,1B/2B/3B,2.0,2.0,1,3,1.1,0.581%,jace jung det
+Justin Lawrence WSN,RP,2.0,2.0,1,3,1.2,0.581%,justin lawrence
+Murf Gray PIT AA,3B,2.0,1.0,1,7,1.7,3.198%,murf gray pit
+Adam Seminaris PHI AA,SP,2.0,2.0,2,2,2.0,0.291%,adam seminaris phi
+Jacob Lopez ATH,SP,2.0,1.0,1,6,1.8,5.523%,jacob lopez
+Ike Irish BAL A+,1B/OF,2.0,2.0,1,3,2.1,1.453%,ike irish bal
+Esteban Mejia BAL A,SP,2.0,2.0,2,2,1.0,0.291%,esteban mejia bal a
+Victor Robles SEA,OF,2.0,1.0,1,7,1.5,3.198%,victor robles
+Jhonkensy Noel BAL AAA,1B/OF,2.0,1.0,1,4,1.1,0.872%,jhonkensy noel bal
+Enrique Bradfield Jr. BAL AAA,OF,2.0,2.0,2,2,1.3,0.291%,enrique bradfield bal
+Joseph Sullivan HOU AA,OF,2.0,2.0,2,2,1.2,0.291%,joseph sullivan hou
+Alejandro Rosario WSN AA,RP,2.0,2.0,2,2,1.2,0.581%,alejandro rosario wsn
+Tre' Morgan TBR AAA,1B,2.0,2.0,2,2,1.1,0.291%,tre morgan tbr
+Kristian Robinson ARI AAA,OF,2.0,2.0,2,2,1.2,0.291%,kristian robinson ari
+CJ Kayfus CLE AAA,1B/OF,2.0,1.0,1,5,2.1,2.326%,cj kayfus cle
+James Triantos CHC AAA,2B/3B/OF,2.0,2.0,1,3,1.2,0.872%,james triantos chc
+Robby Ahlstrom TEX,RP,2.0,2.0,2,2,1.14,0.291%,robby ahlstrom
+Gavin Fien WSN A,OF,2.0,2.0,2,2,1.5,0.581%,gavin fien wsn a
+Yoan Moncada LAA,3B,2.0,1.0,1,5,1.6,2.035%,yoan moncada
+Blake Mitchell KCR A+,C,2.0,2.0,2,2,1.0,0.581%,blake mitchell kcr
+Reggie Crawford SFG CPX,RP,2.0,2.0,2,2,1.6,0.291%,reggie crawford sfg
+Ivan Brethowr PIT AA,OF,2.0,2.0,2,2,1.0,0.291%,ivan brethowr pit
+Scott Barlow KCR AAA,RP,2.0,1.0,1,6,1.7,1.453%,scott barlow kcr
+Mike Tauchman NYM AA,OF,2.0,2.0,1,3,1.5,0.581%,mike tauchman nym
+Brendon Little TOR,RP,2.0,1.5,1,4,1.6,4.07%,brendon little
+Anderson Brito TBR A+,SP,2.0,2.0,2,2,1.0,0.291%,anderson brito tbr
+Tom Cosgrove WSN,RP,2.0,2.0,2,2,1.3,0.291%,tom cosgrove
+Nolan Arenado ARI,3B,2.0,1.0,1,15,1.8,69.186%,nolan arenado
+Zac Veen COL AAA,OF,1.99,1.0,1,7,1.9,52.907%,zac veen col
+Griffin Conine MIA,OF,1.98,1.0,1,15,1.4,30.814%,griffin conine
+Andres Gimenez TOR,2B/SS,1.97,1.0,1,14,2.2,43.314%,andres gimenez
+Eric Hartman ATL A+,2B/OF,1.96,2.0,1,8,2.4,54.36%,eric hartman atl
+Andrew Kittredge BAL,RP,1.96,1.0,1,9,1.7,20.349%,andrew kittredge
+Jesus Rodriguez SFG,C/3B,1.95,2.0,1,6,2.1,6.395%,jesus rodriguez
+Kai-Wei Teng HOU,SP/RP,1.95,1.0,1,5,1.8,5.523%,kai wei teng
+Phil Maton CHC,RP,1.95,1.5,1,6,1.9,16.279%,phil maton
+Miguel Andujar SDP,3B/OF,1.95,1.0,1,8,2.0,32.558%,miguel andujar
+Ryan Ward LAD AAA,1B/OF,1.94,2.0,1,6,1.9,5.233%,ryan ward lad
+Max Scherzer TOR AAA,SP,1.94,1.0,1,8,1.6,5.233%,max scherzer tor
+Michael Arroyo SEA AAA,2B/OF,1.94,2.0,1,7,1.8,20.349%,michael arroyo sea
+Calvin Faucher MIA,RP,1.94,1.0,1,7,1.7,23.547%,calvin faucher
+Javier Sanoja MIA,2B/SS/3B/OF/RP,1.93,1.0,1,6,2.1,8.14%,javier sanoja
 Hayden Birdsong SFG,SP/RP,1.93,1.0,1,6,2.0,4.07%,hayden birdsong
-Andres Gimenez TOR,2B/SS,1.93,1.0,1,14,2.2,46.512%,andres gimenez
-Enyel De Los Santos HOU,RP,1.93,1.0,1,7,2.0,11.628%,enyel de los santos
-Sean Keys TOR,1B/3B,1.92,1.0,1,9,1.2,19.186%,sean keys
-Christian Encarnacion-Strand BAL AAA,1B/3B,1.92,1.0,1,4,2.5,3.779%,christian encarnacion strand bal
-Clarke Schmidt NYY,SP,1.92,1.0,1,10,2.0,52.326%,clarke schmidt
-Eduardo Quintero LAD A+,OF,1.92,2.0,1,7,1.8,51.163%,eduardo quintero lad
-Austin Hays CHW,OF,1.92,1.0,1,6,1.6,21.802%,austin hays
-Aiva Arquette MIA AA,SS,1.92,2.0,1,5,1.5,6.977%,aiva arquette mia
-Brice Matthews HOU,2B/OF,1.92,1.0,1,5,2.0,6.977%,brice matthews
-Kai-Wei Teng HOU CPX,SP/RP,1.91,1.0,1,5,1.1,6.395%,kai wei teng hou
-Michael Arroyo SEA AAA,2B/OF,1.91,2.0,1,7,2.2,15.698%,michael arroyo sea
-Nolan Gorman STL AAA,2B/3B,1.9,1.0,1,6,2.4,20.64%,nolan gorman stl
-Josue Briceno DET CPX,C/1B,1.9,2.0,1,8,1.5,20.058%,josue briceno det
-Cooper Ingle CLE AAA,C,1.9,1.0,1,13,1.1,25.581%,cooper ingle cle
-Andre Pallante STL,SP,1.9,1.0,1,9,1.6,53.488%,andre pallante
-Travis Sykora WSN AA,SP,1.9,2.0,1,7,1.4,19.477%,travis sykora wsn
-Justin Martinez ARI,RP,1.89,1.0,1,10,1.6,57.267%,justin martinez
-Janson Junk MIA,SP/RP,1.89,1.0,1,6,1.7,26.744%,janson junk
-Keider Montero DET,SP/RP,1.89,1.0,1,7,1.2,56.395%,keider montero
-Will Klein LAD,RP,1.88,1.0,1,7,1.7,40.116%,will klein
-Griffin Conine MIA,OF,1.88,1.0,1,7,1.3,16.86%,griffin conine
-Carson Kelly CHC,C,1.88,1.0,1,8,1.5,76.744%,carson kelly
-Andrew Kittredge BAL,RP,1.88,1.0,1,9,2.7,16.279%,andrew kittredge
-Endy Rodriguez PIT,C/1B,1.87,1.0,1,7,1.5,62.209%,endy rodriguez
-Nick Yorke PIT AAA,2B/3B/OF,1.86,2.0,1,3,2.0,2.035%,nick yorke pit
+Clarke Schmidt NYY,SP,1.93,1.0,1,10,2.1,54.651%,clarke schmidt
+Amed Rosario NYY,2B/3B,1.92,1.0,1,7,1.1,3.779%,amed rosario
+Bryan King HOU AAA,RP,1.92,1.0,1,7,2.2,63.081%,bryan king hou
+Enyel De Los Santos HOU,RP,1.92,1.0,1,7,1.9,10.756%,enyel de los santos
+Ryan Zeferjahn LAA,RP,1.92,1.0,1,6,2.6,31.977%,ryan zeferjahn
+Anthony Seigler BOS,C/2B/3B,1.91,1.0,1,7,1.6,36.047%,anthony seigler
+Justin Slaten BOS,RP,1.91,2.0,1,5,1.9,21.802%,justin slaten
+Devin Fitz-Gerald WSN AA,2B/SS,1.91,2.0,1,5,1.6,9.302%,devin fitz gerald wsn
+Lance McCullers Jr. MIL,SP,1.9,1.0,1,11,1.6,11.919%,lance mccullers
+Brandyn Garcia ARI,RP,1.9,1.0,1,8,3.1,71.221%,brandyn garcia
+Eduardo Quintero LAD A+,OF,1.9,2.0,1,7,1.3,53.198%,eduardo quintero lad
+Brandon Young BAL,SP,1.9,1.0,1,8,2.8,52.616%,brandon young
+Carson Kelly CHC,C,1.89,1.0,1,8,1.9,76.453%,carson kelly
+Eric Lauer LAD,SP/RP,1.89,1.0,1,5,1.9,5.233%,eric lauer
+Druw Jones ARI AA,OF,1.89,1.0,1,5,1.0,2.616%,druw jones ari
+Austin Hays CHW,OF,1.89,1.0,1,6,1.4,22.965%,austin hays
+Nolan Gorman STL AAA,2B/3B,1.89,1.0,1,6,2.4,17.733%,nolan gorman stl
+Aiva Arquette MIA AA,SS,1.88,2.0,1,5,1.4,7.558%,aiva arquette mia
+Justin Verlander DET,SP,1.88,1.0,1,16,1.6,12.5%,justin verlander
+Tyler Bell,Util,1.88,2.0,1,4,1.9,4.651%,tyler bell
+Mason Barnett ATH ST,SP/RP,1.88,1.5,1,4,2.2,2.326%,mason barnett ath
+Justin Martinez ARI,RP,1.87,1.0,1,10,1.4,59.884%,justin martinez
+Nick Gonzales PIT,2B/SS/3B,1.86,1.0,1,8,2.5,91.57%,nick gonzales
+Keider Montero DET,SP/RP,1.86,1.0,1,7,1.7,60.174%,keider montero
+Travis Sykora WSN AA,SP,1.86,2.0,1,7,1.2,20.64%,travis sykora wsn
+Dylan Lee ATL,RP,1.86,1.0,1,7,1.9,98.547%,dylan lee
+Nick Yorke PIT AAA,2B/3B/OF,1.86,2.0,1,3,1.9,2.035%,nick yorke pit
+Christian Encarnacion-Strand BAL,1B/3B,1.86,2.0,1,4,1.7,6.105%,christian encarnacion strand
 Brock Stewart LAD,RP,1.86,1.0,1,5,1.0,2.035%,brock stewart
-Dylan Lee ATL,RP,1.85,1.0,1,7,2.0,97.965%,dylan lee
+Zach Cole HOU AAA,OF,1.86,1.0,1,3,1.9,4.07%,zach cole hou
+Elmer Rodriguez NYY AAA,SP/RP,1.86,1.0,1,8,1.5,34.302%,elmer rodriguez nyy
 Johan Oviedo BOS,SP,1.85,1.0,1,7,1.6,11.628%,johan oviedo
-Devin Fitz-Gerald WSN AA,2B/SS,1.85,2.0,1,5,1.6,11.337%,devin fitz gerald wsn
-Rainiel Rodriguez STL AA,C,1.85,1.0,1,6,1.7,69.477%,rainiel rodriguez stl
-Justin Verlander DET,SP,1.84,1.0,1,16,1.6,13.081%,justin verlander
-Brandyn Garcia ARI,RP,1.84,1.0,1,7,2.2,64.826%,brandyn garcia
-Josiah Hartshorn CHC A+,1B/OF,1.84,1.0,1,7,2.0,27.326%,josiah hartshorn chc
-Ryan Zeferjahn LAA,RP,1.84,1.0,1,6,1.7,26.744%,ryan zeferjahn
-Elmer Rodriguez NYY AAA,SP/RP,1.84,1.0,1,8,1.6,35.465%,elmer rodriguez nyy
-Troy Johnston COL,1B/OF,1.84,1.0,1,9,1.7,90.407%,troy johnston
-Brandon Young BAL,SP,1.83,1.0,1,7,1.6,50.872%,brandon young
-Nick Gonzales PIT,2B/SS/3B,1.83,1.0,1,8,1.7,87.209%,nick gonzales
-Eric Lauer LAD,SP/RP,1.83,1.0,1,5,1.4,5.233%,eric lauer
+Andre Pallante STL,SP,1.85,1.0,1,9,1.4,55.523%,andre pallante
+Alfredo Duno CIN AA,C,1.85,1.0,1,6,2.3,36.047%,alfredo duno cin
+Sean Keys TOR,1B/3B,1.84,1.0,1,9,1.1,13.081%,sean keys
+Janson Junk MIA,SP/RP,1.84,1.0,1,7,1.9,31.395%,janson junk
+Rainiel Rodriguez STL AA,C,1.84,1.0,1,6,1.6,70.93%,rainiel rodriguez stl
+Will Klein LAD,RP,1.84,1.0,1,7,1.6,39.535%,will klein
 Luis Perales WSN AAA,SP,1.83,2.0,1,2,1.2,1.744%,luis perales wsn
-Denzel Clarke ATH,OF,1.83,1.0,1,6,1.6,1.744%,denzel clarke
-Javier Sanoja MIA,2B/SS/3B/OF/RP,1.83,1.0,1,6,2.0,8.721%,javier sanoja
 Tylor Megill NYM,SP,1.83,1.0,1,7,1.2,6.977%,tylor megill
-Isaac Collins KCR,OF,1.83,1.0,1,7,1.2,30.523%,isaac collins
-Gavin Lux TBR,2B/3B/OF,1.83,1.0,1,9,1.7,25.291%,gavin lux
-Alfredo Duno CIN AA,C,1.81,1.0,1,6,3.0,33.14%,alfredo duno cin
-Caleb Thielbar CHC,RP,1.81,1.0,1,5,1.7,9.012%,caleb thielbar
-Oswald Peraza LAA,1B/2B/SS/3B,1.8,1.0,1,6,1.4,35.174%,oswald peraza
+Denzel Clarke ATH,OF,1.83,1.0,1,6,1.6,1.744%,denzel clarke
+Troy Johnston COL,1B/OF,1.83,1.0,1,9,1.6,87.209%,troy johnston
+Josue Briceno DET AA,C/1B,1.83,2.0,1,8,1.3,20.64%,josue briceno det
+Endy Rodriguez PIT,C/1B,1.83,1.0,1,7,1.5,63.372%,endy rodriguez
+Jordan Hicks CHW,SP/RP,1.83,1.0,1,8,1.6,6.686%,jordan hicks
+Edgar Quero CHW,C,1.83,1.0,1,4,1.7,6.686%,edgar quero
+Isaac Collins KCR,OF,1.83,1.0,1,7,1.3,29.942%,isaac collins
+Andrew Morris MIN,SP/RP,1.82,1.0,1,11,1.4,50.291%,andrew morris
+Gavin Lux TBR,2B/3B/OF,1.81,1.0,1,9,1.8,25%,gavin lux
+Angel Genao CLE AAA,SS,1.81,1.0,1,6,1.5,27.907%,angel genao cle
+Eduardo Rodriguez ARI,SP,1.81,1.0,1,7,2.7,86.628%,eduardo rodriguez
+Oswald Peraza LAA,1B/2B/SS/3B,1.81,1.0,1,6,1.5,31.395%,oswald peraza
+Jim Jarvis ATL,SS,1.8,2.0,1,3,1.4,1.453%,jim jarvis
 Kutter Crawford BOS,RP,1.8,1.0,1,3,1.8,2.907%,kutter crawford
-Nick Mears KCR,RP,1.8,1.0,1,3,1.0,1.453%,nick mears
-Amed Rosario NYY,2B/3B,1.8,1.0,1,7,1.1,4.36%,amed rosario
-Rece Hinds MIA,OF,1.8,1.0,1,4,2.2,2.907%,rece hinds
-Zach Cole HOU AAA,OF,1.8,1.0,1,3,1.9,4.36%,zach cole hou
-Masataka Yoshida BOS,OF,1.8,1.0,1,6,1.4,12.791%,masataka yoshida
-Felnin Celesten SEA A+,SS,1.79,2.0,1,4,1.6,8.43%,felnin celesten sea
-Jamie Arnold ATH AA,SP,1.79,1.0,1,6,1.4,22.384%,jamie arnold ath
-Edgar Quero CHW AAA,C,1.79,1.0,1,4,1.8,6.977%,edgar quero chw
-Shelby Miller CHC,RP,1.79,1.0,1,8,1.0,4.07%,shelby miller
-Christian Zazueta LAD AA,SP,1.78,1.0,1,5,1.4,10.756%,christian zazueta lad
-Luis Campusano SDP,C,1.78,1.0,1,5,1.3,18.314%,luis campusano
-Rhys Hoskins CLE,1B,1.78,1.0,1,4,1.1,2.616%,rhys hoskins
-Juan Mejia COL,RP,1.78,1.0,1,4,2.0,2.616%,juan mejia
-Tejay Antone CIN,RP,1.78,1.0,1,4,1.4,2.616%,tejay antone
-Eduardo Rodriguez ARI,SP,1.78,1.0,1,7,2.5,84.593%,eduardo rodriguez
-Andrew Fischer MIL AA,3B,1.78,1.0,1,8,1.7,38.953%,andrew fischer mil
-Kevin Kelly TBR,RP,1.77,1.0,1,5,1.5,86.919%,kevin kelly
-Anthony Nunez BAL,RP,1.77,1.0,1,5,2.1,10.174%,anthony nunez
-Chase Silseth LAA,SP/RP,1.77,2.0,1,3,2.1,3.779%,chase silseth
-Justin Foscue TEX,1B/2B,1.77,1.0,1,5,1.2,3.779%,justin foscue
-Daniel Espino CLE AAA,RP,1.77,1.0,1,4,1.9,11.337%,daniel espino cle
-Esteury Ruiz MIA,OF,1.77,1.0,1,5,1.8,12.5%,esteury ruiz
-Braydon Fisher TOR,SP/RP,1.77,1.0,1,6,1.7,22.384%,braydon fisher
-Kyle Hurt LAD,RP,1.77,1.0,1,6,1.5,37.209%,kyle hurt
-Manuel Pena ARI AAA,1B,1.76,1.0,1,8,2.3,8.43%,manuel pena ari
-Javier Baez DET,2B/SS/3B/OF,1.76,1.0,1,5,1.5,10.756%,javier baez
-Jack Dreyer LAD,SP/RP,1.76,1.0,1,4,1.6,14.244%,jack dreyer
-Anthony Bender MIA,RP,1.75,1.0,1,8,1.2,42.442%,anthony bender
-Jim Jarvis ATL,SS,1.75,1.5,1,3,1.38,1.163%,jim jarvis
-Justin Sterner ATH,RP,1.75,1.0,1,9,1.6,22.965%,justin sterner
-Blake Dunn CIN,OF,1.74,1.0,1,6,1.1,7.849%,blake dunn
-Tyler Freeman COL,2B/OF,1.73,1.0,1,7,1.6,34.884%,tyler freeman
-Bryan Hudson CHW,SP/RP,1.73,1.0,1,5,2.0,6.395%,bryan hudson
+Blade Tidwell SFG AAA,SP/RP,1.8,1.0,1,3,1.6,1.453%,blade tidwell sfg
+Rece Hinds MIA AAA,OF,1.8,1.0,1,4,2.1,2.907%,rece hinds mia
+Jamie Arnold ATH AA,SP,1.8,1.0,1,6,1.7,22.965%,jamie arnold ath
+Braydon Fisher TOR,SP/RP,1.8,1.0,1,6,1.6,21.512%,braydon fisher
+Andrew Fischer MIL AA,3B,1.8,1.0,1,8,1.8,44.186%,andrew fischer mil
+Antonio Senzatela COL,SP/RP,1.79,1.0,1,8,1.6,42.442%,antonio senzatela
+Josiah Hartshorn CHC A+,1B/OF,1.79,1.0,1,7,1.6,27.616%,josiah hartshorn chc
+Evan Phillips LAD,RP,1.79,1.0,1,7,2.0,17.733%,evan phillips
+Kevin Kelly TBR,RP,1.78,1.0,1,5,1.6,88.081%,kevin kelly
+Javier Baez DET,2B/SS/3B/OF,1.78,1.0,1,5,1.5,10.465%,javier baez
+Justin Foscue TEX,1B/2B,1.78,1.0,1,6,1.7,5.233%,justin foscue
+Brice Matthews HOU,2B/OF,1.77,1.0,1,5,1.6,6.395%,brice matthews
+Felnin Celesten SEA AA,SS,1.77,1.5,1,4,1.5,8.721%,felnin celesten sea
+Tyler Freeman COL,2B/OF,1.76,1.0,1,7,1.6,32.849%,tyler freeman
+Esteury Ruiz MIA,OF,1.76,1.0,1,5,2.2,13.372%,esteury ruiz
+Blake Dunn CIN,OF,1.76,1.0,1,6,1.2,7.267%,blake dunn
+Jack Dreyer LAD,SP/RP,1.75,1.0,1,4,1.7,15.407%,jack dreyer
+Tyler Locklear ARI,1B,1.75,1.0,1,4,2.4,1.163%,tyler locklear
+Brewer Hicklen ATL,OF,1.75,1.0,1,4,1.3,1.163%,brewer hicklen
+Juan Mejia COL,RP,1.75,1.0,1,4,2.0,2.326%,juan mejia
+Nelson Rada LAA AAA,OF,1.75,2.0,1,2,1.1,1.163%,nelson rada laa
+Ryne Stanek STL,RP,1.74,1.0,1,5,1.9,5.523%,ryne stanek
+Cooper Ingle CLE AAA,C,1.74,1.0,1,7,1.1,19.767%,cooper ingle cle
+Shelby Miller CHC,RP,1.73,1.0,1,8,1.3,4.36%,shelby miller
+Manuel Pena ARI AAA,1B/OF,1.73,1.0,1,8,2.3,8.721%,manuel pena ari
+Michael Petersen MIA,RP,1.73,1.0,1,7,2.8,68.314%,michael petersen
+Anthony Bender MIA,RP,1.72,1.0,1,8,1.2,39.826%,anthony bender
 Colin Rea CHC,SP/RP,1.72,1.0,1,7,1.2,10.465%,colin rea
-DL Hall MIL,RP,1.71,1.0,1,3,1.1,4.07%,dl hall
-Austin Martin MIN,OF,1.71,1.0,1,5,2.2,25%,austin martin
-Denzer Guzman LAA,SS/3B,1.7,1.0,1,8,1.3,32.267%,denzer guzman
-Bradgley Rodriguez SDP,RP,1.7,1.0,1,6,1.8,46.512%,bradgley rodriguez
-Graham Ashcraft CIN,SP/RP,1.7,1.0,1,7,1.6,52.035%,graham ashcraft
-Edouard Julien COL,1B/2B,1.69,1.0,1,8,1.7,10.465%,edouard julien
+Daniel Espino CLE AAA,RP,1.72,1.0,1,4,1.9,9.302%,daniel espino cle
+Luis Campusano SDP,C,1.72,1.0,1,5,1.4,22.674%,luis campusano
+DL Hall MIL AAA,RP,1.71,1.0,1,3,1.1,4.07%,dl hall mil
+Bryan Hudson CHW,SP/RP,1.71,1.0,1,5,2.0,6.105%,bryan hudson
+Caleb Thielbar CHC,RP,1.71,1.0,1,5,1.8,8.14%,caleb thielbar
+Ty Madden DET,SP/RP,1.71,1.0,1,5,1.6,2.035%,ty madden
+Brent Headrick NYY,RP,1.71,1.0,1,9,3.0,34.302%,brent headrick
+David Hamilton MIL,2B/SS/3B,1.71,1.0,1,7,1.4,4.942%,david hamilton
+Bradgley Rodriguez SDP,RP,1.7,1.0,1,6,1.7,46.221%,bradgley rodriguez
+Kyle Hurt LAD,RP,1.7,1.0,1,6,1.6,28.488%,kyle hurt
+Trey Gibson BAL AAA,SP,1.7,1.0,1,6,1.2,2.907%,trey gibson bal
+Tejay Antone CIN,RP,1.7,1.0,1,4,1.4,2.907%,tejay antone
+Rhys Hoskins CLE,1B,1.7,1.0,1,4,1.1,2.907%,rhys hoskins
+Ryan Clifford NYM AAA,1B/OF,1.7,1.0,1,6,2.0,6.686%,ryan clifford nym
+Hector Rodriguez CIN AAA,OF,1.69,1.0,1,6,2.5,45.64%,hector rodriguez cin
 Jurrangelo Cijntje STL AAA,SP,1.69,1.0,1,4,1.2,3.779%,jurrangelo cijntje stl
-Yennier Cano BAL,RP,1.69,1.0,1,6,1.1,56.395%,yennier cano
-Angel Genao CLE AAA,SS,1.68,1.0,1,6,1.6,18.895%,angel genao cle
-DJ Herz WSN,RP,1.68,1.0,1,7,1.0,19.767%,dj herz
-Josuar Gonzalez SFG CPX,SS,1.67,1.0,1,6,2.0,45.93%,josuar gonzalez sfg
-Emiliano Teodo TEX ST,RP,1.67,2.0,1,2,1.6,0.872%,emiliano teodo tex
-Ty Madden DET AAA,SP/RP,1.67,1.0,1,5,1.5,1.744%,ty madden det
-Ben Malgeri DET,OF,1.67,2.0,1,2,1.5,0.872%,ben malgeri
-Mikey Romero BOS AAA,2B/SS/3B,1.67,2.0,1,2,1.1,0.872%,mikey romero bos
-Adrian Del Castillo ARI AAA,C,1.67,1.0,1,3,1.1,0.872%,adrian del castillo ari
-Huascar Brazoban NYM,SP/RP,1.67,1.0,1,4,1.3,2.616%,huascar brazoban
-Cam Caminiti ATL A+,SP,1.67,1.5,1,4,1.5,6.977%,cam caminiti atl
+Kahlil Watson CLE,OF,1.69,1.0,1,6,1.0,15.988%,kahlil watson
+Hayden Wesneski HOU,SP,1.69,1.0,1,5,1.1,4.651%,hayden wesneski
+Anthony Nunez BAL,RP,1.69,1.0,1,5,2.0,9.302%,anthony nunez
+Christian Zazueta LAD AA,SP,1.69,1.0,1,5,1.6,14.826%,christian zazueta lad
+Edouard Julien COL,1B/2B,1.69,1.0,1,8,1.6,10.174%,edouard julien
+Yennier Cano BAL,RP,1.68,1.0,1,6,1.1,54.36%,yennier cano
+Justin Sterner ATH,RP,1.68,1.0,1,9,2.1,18.023%,justin sterner
+Josuar Gonzalez SFG CPX,SS,1.67,1.0,1,6,2.1,47.093%,josuar gonzalez sfg
+Graham Ashcraft CIN,SP/RP,1.67,1.0,1,7,1.7,52.326%,graham ashcraft
+DJ Herz WSN,RP,1.67,1.0,1,7,1.1,19.477%,dj herz
+Chase Silseth LAA,SP/RP,1.67,1.5,1,3,1.8,3.488%,chase silseth
 Joey Wentz ATL,SP/RP,1.67,1.0,1,3,1.4,0.872%,joey wentz
+Ben Malgeri DET,OF,1.67,2.0,1,2,1.5,0.872%,ben malgeri
+Jordan Leasure CHW,RP,1.67,1.0,1,5,2.1,5.233%,jordan leasure
+Richard Lovelady WSN,SP/RP,1.67,1.0,1,5,1.7,1.744%,richard lovelady
 Bennett Sousa HOU,RP,1.67,1.0,1,3,1.4,0.872%,bennett sousa
-Nelson Rada LAA AAA,OF,1.67,2.0,1,2,1.0,0.872%,nelson rada laa
+Adrian Del Castillo ARI,C,1.67,1.0,1,3,1.1,0.872%,adrian del castillo
+Nick Mears KCR,RP,1.67,1.0,1,3,1.0,1.744%,nick mears
 Cole Henry WSN AAA,RP,1.67,1.0,1,5,1.4,2.616%,cole henry wsn
-Evan Phillips LAD,RP,1.66,1.0,1,7,2.0,21.221%,evan phillips
-Ronny Henriquez MIA,RP,1.65,1.0,1,6,1.7,20.93%,ronny henriquez
-Sean Newcomb CHW,SP/RP,1.65,1.0,1,7,1.7,59.012%,sean newcomb
-Ryne Stanek STL,RP,1.65,1.0,1,5,1.8,5.814%,ryne stanek
-David Hamilton MIL,2B/SS/3B,1.65,1.0,1,7,1.2,5.814%,david hamilton
-A.J. Puk ARI,RP,1.65,1.0,1,7,1.7,55.523%,a j puk
-Colin Holderman CLE,RP,1.65,1.0,1,7,1.2,60.174%,colin holderman
-Arjun Nimmala TOR AA,SS,1.65,1.0,1,6,1.3,9.012%,arjun nimmala tor
+Mikey Romero BOS AAA,2B/SS/3B,1.67,2.0,1,2,1.1,0.872%,mikey romero bos
+Emiliano Teodo TEX AAA,RP,1.67,2.0,1,2,1.5,0.872%,emiliano teodo tex
+Huascar Brazoban NYM,SP/RP,1.67,1.0,1,4,1.3,2.616%,huascar brazoban
+Austin Martin MIN,OF,1.66,1.0,1,5,2.8,22.384%,austin martin
 Jeferson Quero MIL AAA,C,1.64,1.0,1,4,1.2,4.07%,jeferson quero mil
-Bryce Rainer DET A+,SS,1.64,1.0,1,4,1.4,40.116%,bryce rainer det
-Vaughn Grissom LAA,1B/2B/SS/3B,1.64,1.0,1,9,1.5,22.384%,vaughn grissom
-Jordan Leasure CHW,RP,1.63,1.0,1,5,2.1,5.523%,jordan leasure
-Hector Rodriguez CIN AAA,OF,1.63,1.0,1,6,2.4,36.047%,hector rodriguez cin
+Cam Caminiti ATL A+,SP,1.64,1.0,1,4,1.5,7.267%,cam caminiti atl
+A.J. Puk ARI,RP,1.64,1.0,1,7,1.6,54.651%,a j puk
+Bryce Rainer DET A+,SS,1.63,1.0,1,4,1.4,42.151%,bryce rainer det
+Sean Newcomb CHW,SP/RP,1.63,1.0,1,7,1.5,65.116%,sean newcomb
+Stephen Kolek KCR,SP,1.63,1.0,1,7,1.6,19.767%,stephen kolek
+Daniel Susac SFG,C,1.63,1.0,1,6,1.6,5.523%,daniel susac
+Colin Holderman CLE,RP,1.63,1.0,1,7,1.2,63.663%,colin holderman
+Joe Mack MIA,C,1.63,1.0,1,6,1.5,47.384%,joe mack
 Simeon Woods Richardson TOR AAA,SP/RP,1.63,1.0,1,4,1.7,2.326%,simeon woods richardson tor
-Eduard Bazardo SEA,RP,1.62,1.0,1,5,1.3,49.419%,eduard bazardo
-Tyler Tolbert KCR,SS/OF,1.62,1.0,1,5,1.5,6.105%,tyler tolbert
-Joe Mack MIA,C,1.62,1.0,1,6,1.2,47.093%,joe mack
-Martin Perez ATL,SP,1.62,1.0,1,7,1.1,18.895%,martin perez
-Michael Petersen MIA,RP,1.6,1.0,1,6,2.0,63.953%,michael petersen
+Arjun Nimmala TOR AA,SS,1.63,1.0,1,6,1.4,9.302%,arjun nimmala tor
+Ronny Henriquez MIA,RP,1.62,1.0,1,6,1.5,22.384%,ronny henriquez
+Cameron Cauley TEX,2B/SS/OF,1.61,1.0,1,4,1.5,5.233%,cameron cauley
+Kendry Chourio KCR A+,SP,1.61,1.0,1,6,2.2,8.14%,kendry chourio kcr
 Griffin Canning SDP,SP,1.6,1.0,1,4,2.3,4.36%,griffin canning
-Kahlil Watson CLE,OF,1.59,1.0,1,6,1.0,20.058%,kahlil watson
-Kevin Ginkel ARI,RP,1.59,1.0,1,16,1.0,25%,kevin ginkel
-Shawn Armstrong CLE,RP,1.59,1.0,1,6,1.4,15.698%,shawn armstrong
-Spencer Miles TOR,RP,1.59,1.0,1,7,1.3,35.174%,spencer miles
-Josh Bell MIN,1B,1.59,1.0,1,9,1.4,28.779%,josh bell
-Trey Gibson BAL,SP,1.58,1.0,1,6,1.2,3.488%,trey gibson
-Jimmy Herget COL,RP,1.58,1.0,1,4,1.8,3.488%,jimmy herget
-Tyler Alexander TEX,SP/RP,1.58,1.0,1,5,1.4,13.953%,tyler alexander
-Brooks Raley NYM,RP,1.58,1.0,1,5,1.3,47.674%,brooks raley
-Ryan Mountcastle BAL,1B,1.57,1.0,1,5,1.3,2.035%,ryan mountcastle
-Richard Lovelady WSN,SP/RP,1.57,1.0,1,5,1.7,2.035%,richard lovelady
-Dominic Smith ATL,1B/OF,1.56,1.0,1,4,1.6,24.709%,dominic smith
-Jack Kochanowicz LAA,SP,1.56,1.0,1,4,1.7,7.849%,jack kochanowicz
+Denzer Guzman LAA,SS/3B,1.6,1.0,1,6,1.6,27.616%,denzer guzman
+Vaughn Grissom LAA,1B/2B/SS/3B,1.6,1.0,1,9,1.4,25.291%,vaughn grissom
+Samy Natera Jr. LAA,RP,1.59,1.0,1,5,1.9,10.756%,samy natera
+Kevin Ginkel ARI,RP,1.59,1.0,1,16,1.1,25.581%,kevin ginkel
+Masataka Yoshida BOS,OF,1.59,1.0,1,6,1.2,18.314%,masataka yoshida
+Dominic Smith ATL,1B/OF,1.58,1.0,1,4,1.6,21.512%,dominic smith
+Eduard Bazardo SEA,RP,1.58,1.0,1,5,1.0,52.326%,eduard bazardo
+Seaver King WSN AAA,SS,1.58,1.0,1,6,1.9,26.163%,seaver king wsn
+Brooks Raley NYM,RP,1.58,1.0,1,5,1.4,46.512%,brooks raley
+Shawn Armstrong CLE,RP,1.57,1.0,1,6,1.4,14.244%,shawn armstrong
+Jimmy Herget COL,RP,1.57,1.0,1,4,1.8,2.035%,jimmy herget
+Hunter Dobbins STL,SP,1.57,1.0,1,3,1.8,2.035%,hunter dobbins
+Tyler Bremner LAA A+,SP,1.57,1.0,1,5,1.8,27.616%,tyler bremner laa
+Tyler Alexander TEX,SP/RP,1.56,1.0,1,5,1.1,14.535%,tyler alexander
+Bryan Torres STL,2B/OF,1.56,1.0,1,4,1.1,2.616%,bryan torres
 Sung-Mun Song SDP,2B/SS/3B,1.56,1.0,1,5,1.5,2.616%,sung mun song
-Tyron Guerrero BOS,RP,1.55,1.0,1,5,1.4,29.36%,tyron guerrero
-Keibert Ruiz WSN,C,1.55,1.0,1,9,1.8,64.535%,keibert ruiz
-Daniel Susac SFG,C,1.55,1.0,1,6,1.6,6.395%,daniel susac
-Bryan Torres STL,2B/OF,1.55,1.0,1,4,1.1,3.198%,bryan torres
-Luis Hernandez SFG CPX,SS,1.54,1.0,1,4,1.6,7.558%,luis hernandez sfg
-Seaver King WSN AAA,SS,1.53,1.0,1,6,1.5,24.128%,seaver king wsn
-Nelson Velazquez STL,OF,1.53,1.0,1,5,1.5,4.942%,nelson velazquez
-Brody Hopkins TBR AAA,SP,1.53,1.0,1,5,1.4,26.453%,brody hopkins tbr
-Cameron Cauley TEX,2B/SS/OF,1.52,1.0,1,4,1.5,6.686%,cameron cauley
-Randy Rodriguez SFG,RP,1.51,1.0,1,5,1.5,39.535%,randy rodriguez
-Jack Wenninger NYM AAA,SP/RP,1.51,1.0,1,5,1.6,17.733%,jack wenninger nym
-Andrew Morris MIN,SP/RP,1.5,1.0,1,7,1.8,29.36%,andrew morris
-A.J. Minter NYM,RP,1.5,1.0,1,5,1.8,42.151%,a j minter
-Austin Warren NYM,RP,1.5,1.5,1,2,1.2,0.581%,austin warren
+A.J. Minter NYM,RP,1.55,1.0,1,5,1.8,36.047%,a j minter
+Jack Kochanowicz LAA,SP,1.54,1.0,1,4,1.7,7.558%,jack kochanowicz
+Tyron Guerrero BOS,RP,1.54,1.0,1,5,1.8,36.919%,tyron guerrero
+Gage Wood PHI AA,SP,1.53,1.0,1,4,2.5,21.802%,gage wood phi
+Jonathan Loaisiga ARI,RP,1.53,1.0,1,5,1.6,9.302%,jonathan loaisiga
+Keibert Ruiz WSN,C,1.53,1.0,1,9,1.5,65.116%,keibert ruiz
+Randy Rodriguez SFG,RP,1.53,1.0,1,5,1.5,39.535%,randy rodriguez
+Spencer Miles TOR,RP,1.53,1.0,1,7,1.2,35.174%,spencer miles
+Nathan Lukes TOR,OF,1.52,1.0,1,5,1.4,6.105%,nathan lukes
+Josh Bell MIN,1B,1.52,1.0,1,9,1.1,30.523%,josh bell
+Joey Wiemer WSN AAA,OF,1.52,1.0,1,5,2.2,6.105%,joey wiemer wsn
+Luis Hernandez SFG CPX,SS,1.52,1.0,1,4,1.7,7.849%,luis hernandez sfg
+Tyler Phillips MIA,SP/RP,1.51,1.0,1,4,1.9,10.174%,tyler phillips
+Martin Perez ATL,SP,1.51,1.0,1,7,1.1,17.151%,martin perez
+Brody Hopkins TBR AAA,SP,1.51,1.0,1,5,1.2,26.453%,brody hopkins tbr
+Tyler Tolbert KCR,SS/OF/RP,1.5,1.0,1,5,1.2,6.977%,tyler tolbert
+Bo Naylor CLE AAA,C,1.5,1.0,1,4,2.0,2.907%,bo naylor cle
+Rintaro Sasaki,Util,1.5,1.5,1,2,1.5,0.581%,rintaro sasaki
+Hao-Yu Lee DET,2B/3B,1.5,1.5,1,2,1.2,0.581%,hao yu lee
+Enmanuel De Jesus DET AAA,RP,1.5,1.5,1,2,1.11,0.581%,enmanuel de jesus det
 Franco Aleman CLE,RP,1.5,1.5,1,2,1.2,1.163%,franco aleman
 LaMonte Wade Jr. HOU,1B/OF,1.5,1.0,1,3,1.1,1.163%,lamonte wade
-Jaison Chourio CLE AA,OF,1.5,1.5,1,2,1.2,4.07%,jaison chourio cle
-John Rave KCR AAA,OF,1.5,1.5,1,2,1.2,0.581%,john rave kcr
-Joey Wiemer WSN AAA,OF,1.5,1.0,1,5,2.4,6.395%,joey wiemer wsn
-Steele Hall CIN CPX,SS,1.5,1.5,1,2,1.0,0.581%,steele hall cin
-Roldy Brito COL A,2B/OF,1.5,1.0,1,3,1.4,1.163%,roldy brito col a
-Brandon Clarke STL CPX,SP,1.5,1.5,1,2,1.7,0.581%,brandon clarke stl
-Brant Hurter DET,RP,1.5,1.0,1,3,1.1,1.163%,brant hurter
-Tyler Bremner LAA A+,SP,1.5,1.0,1,5,1.5,28.488%,tyler bremner laa
+Nelson Velazquez STL,OF,1.5,1.0,1,5,1.5,3.488%,nelson velazquez
+Austin Warren NYM,RP,1.5,1.5,1,2,1.2,0.581%,austin warren
 Gage Workman DET AAA,SS/3B/OF,1.5,1.0,1,3,2.7,1.744%,gage workman det
-Reed Garrett NYM,RP,1.5,1.0,1,3,1.1,1.163%,reed garrett
-Samy Natera Jr. LAA,RP,1.5,1.0,1,4,1.2,6.977%,samy natera
-Sterlin Thompson COL AAA,OF,1.5,1.5,1,2,1.1,0.581%,sterlin thompson col
-Bo Naylor CLE AAA,C,1.5,1.0,1,4,1.9,2.907%,bo naylor cle
-Alek Thomas LAD AAA,OF,1.5,1.0,1,3,1.0,1.163%,alek thomas lad
 Cody Bradford TEX,RP,1.5,1.0,1,8,1.1,4.07%,cody bradford
-Hao-Yu Lee DET,2B/3B,1.5,1.5,1,2,1.2,0.581%,hao yu lee
-Luinder Avila KCR,SP/RP,1.5,1.0,1,4,1.2,4.07%,luinder avila
-Enmanuel De Jesus DET AAA,RP,1.5,1.5,1,2,1.11,0.581%,enmanuel de jesus det
-Kemp Alderman MIA AAA,OF,1.5,1.0,1,3,1.3,2.326%,kemp alderman mia
-Matt Waldron SDP,SP/RP,1.5,1.5,1,2,1.4,0.581%,matt waldron
+Ryan Mountcastle BAL,1B,1.5,1.0,1,5,1.3,2.326%,ryan mountcastle
+George Klassen LAA AAA,SP/RP,1.5,1.0,1,4,1.3,1.744%,george klassen laa
+Jaison Chourio CLE AA,OF,1.5,1.5,1,2,1.2,4.07%,jaison chourio cle
+Kendall George LAD AA,OF,1.5,1.5,1,2,1.2,0.581%,kendall george lad
+Eric Orze MIN AAA,RP,1.5,1.0,1,3,1.0,1.163%,eric orze min
+Victor Bericoto SFG,1B/OF,1.5,1.0,1,4,1.1,2.907%,victor bericoto
+John Rave KCR AAA,OF,1.5,1.5,1,2,1.2,0.581%,john rave kcr
 Eduardo Tait MIN A+,C,1.5,1.5,1,2,1.4,0.581%,eduardo tait min
-Nathan Lukes TOR,OF,1.48,1.0,1,5,1.3,6.686%,nathan lukes
-Ryan Clifford NYM AAA,1B/OF,1.48,1.0,1,3,1.5,6.686%,ryan clifford nym
-Tyler Phillips MIA,SP/RP,1.48,1.0,1,4,1.7,11.628%,tyler phillips
-Anthony Kay CHW,SP,1.47,1.0,1,7,1.1,10.465%,anthony kay
-Andrew Alvarez WSN,SP/RP,1.46,1.0,1,5,1.6,19.767%,andrew alvarez
-Hunter Harvey CHC,RP,1.45,1.0,1,4,1.8,19.186%,hunter harvey
-JoJo Parker TOR A,SS,1.45,1.0,1,4,1.4,11.628%,jojo parker tor a
-Jacob Young WSN,OF,1.45,1.0,1,5,1.1,14.244%,jacob young
-Jonathan Loaisiga ARI,RP,1.45,1.0,1,4,1.4,8.43%,jonathan loaisiga
-Hunter Dobbins STL,SP,1.44,1.0,1,3,2.0,2.616%,hunter dobbins
-Joseph Dzierwa BAL AA,SP,1.44,1.0,1,7,1.4,19.767%,joseph dzierwa bal
-Brad Lord WSN,SP/RP,1.44,1.0,1,4,1.0,7.267%,brad lord
-Gage Wood PHI AA,SP,1.43,1.0,1,4,1.3,20.058%,gage wood phi
-Dylan Dodd ATL,RP,1.43,1.0,1,3,1.2,2.035%,dylan dodd
-Patrick Sandoval BOS,SP/RP,1.42,1.0,1,6,1.3,10.465%,patrick sandoval
-AJ Blubaugh HOU,SP/RP,1.41,1.0,1,3,1.3,9.884%,aj blubaugh
-Yohandy Morales WSN AAA,1B/3B,1.41,1.0,1,6,1.2,11.337%,yohandy morales wsn
-Brandon Valenzuela TOR,C,1.4,1.0,1,4,1.4,12.209%,brandon valenzuela
-Jonny Deluca TBR,OF,1.4,1.0,1,3,1.0,1.453%,jonny deluca
+Alek Thomas LAD AAA,OF,1.5,1.0,1,3,1.1,1.163%,alek thomas lad
+Jose Tena WSN,2B/3B,1.5,1.0,1,3,1.1,1.163%,jose tena
+Owen Murphy ATL,SP/RP,1.49,1.0,1,6,1.1,14.244%,owen murphy
+Patrick Sandoval BOS,SP/RP,1.49,1.0,1,5,1.2,13.081%,patrick sandoval
+Andrew Alvarez WSN,SP/RP,1.49,1.0,1,5,1.2,19.767%,andrew alvarez
+Jacob Young WSN,OF,1.48,1.0,1,5,1.1,12.791%,jacob young
+Derek Curiel,Util,1.47,1.0,1,4,1.2,4.942%,derek curiel
+Anthony Kay CHW,SP,1.47,1.0,1,7,1.1,9.302%,anthony kay
+Jack Wenninger NYM AAA,SP/RP,1.46,1.0,1,5,1.6,18.314%,jack wenninger nym
+AJ Blubaugh HOU,SP/RP,1.46,1.0,1,3,1.3,6.977%,aj blubaugh
+Brad Lord WSN,SP/RP,1.45,1.0,1,4,1.1,5.814%,brad lord
+Hunter Harvey CHC,RP,1.45,1.0,1,4,1.9,19.477%,hunter harvey
+Kemp Alderman MIA AAA,OF,1.44,1.0,1,3,1.3,2.616%,kemp alderman mia
+Chris Hacopian,Util,1.44,1.0,1,3,1.6,2.616%,chris hacopian
+Luinder Avila KCR,SP/RP,1.44,1.0,1,4,1.2,4.651%,luinder avila
+Brandon Valenzuela TOR,C,1.44,1.0,1,4,1.4,11.337%,brandon valenzuela
+Joseph Dzierwa BAL AA,SP,1.43,1.0,1,7,1.4,22.093%,joseph dzierwa bal
+JoJo Parker TOR A,SS,1.43,1.0,1,4,1.3,12.209%,jojo parker tor a
+Yohandy Morales WSN AAA,1B/3B,1.43,1.0,1,6,1.2,10.174%,yohandy morales wsn
+Drew Pomeranz CHC,RP,1.43,1.0,1,4,1.5,2.035%,drew pomeranz
+Jonny Deluca TBR,OF,1.43,1.0,1,3,1.1,2.035%,jonny deluca
+Jared Koenig MIL,RP,1.42,1.0,1,5,1.0,6.977%,jared koenig
+Gabriel Hughes COL,SP/RP,1.4,1.0,1,2,1.3,2.907%,gabriel hughes
 Isaac Mattson PIT,RP,1.4,1.0,1,2,1.0,1.453%,isaac mattson
 Tyler Callihan PIT,OF,1.4,1.0,1,4,2.2,2.907%,tyler callihan
-Eric Orze MIN,RP,1.4,1.0,1,3,1.0,1.453%,eric orze
-Max Anderson DET AAA,2B/3B,1.39,1.0,1,3,1.4,8.14%,max anderson det
-Donovan Walton ATH,2B/SS/3B/OF,1.39,1.0,1,3,1.0,5.233%,donovan walton
-Steven Okert HOU,RP,1.39,1.0,1,3,1.0,19.477%,steven okert
-Victor Bericoto SFG,1B/OF,1.38,1.0,1,4,1.1,3.779%,victor bericoto
-Sam Bachman LAA,RP,1.38,1.0,1,4,1.5,20.64%,sam bachman
-Drew Anderson DET,RP,1.38,1.0,1,5,1.2,14.535%,drew anderson
-Tobias Myers NYM,SP/RP,1.38,1.0,1,3,1.4,2.326%,tobias myers
-Drew Pomeranz CHC,RP,1.38,1.0,1,4,1.4,2.326%,drew pomeranz
-Brent Headrick NYY,RP,1.37,1.0,1,6,1.1,20.349%,brent headrick
-Jared Koenig MIL,RP,1.37,1.0,1,5,1.0,7.849%,jared koenig
-Jacob Melton TBR AAA,OF,1.36,1.0,1,4,1.2,11.337%,jacob melton tbr
-Yohendrick Pinango TOR AAA,OF,1.34,1.0,1,3,1.4,9.302%,yohendrick pinango tor
-Grant Wolfram BAL,RP,1.34,1.0,1,3,1.2,21.221%,grant wolfram
+Alan Roden MIN,OF,1.4,1.0,1,3,1.1,1.453%,alan roden
+Sam Bachman LAA,RP,1.39,1.0,1,4,1.8,19.186%,sam bachman
+Yohendrick Pinango TOR,OF,1.39,1.0,1,3,1.4,8.14%,yohendrick pinango
+Max Anderson DET AAA,2B/3B,1.38,1.0,1,3,1.4,8.43%,max anderson det
+Nolan Perry TOR AA,SP,1.38,1.0,1,3,1.3,2.326%,nolan perry tor
+Tobias Myers NYM AAA,SP/RP,1.38,1.0,1,3,1.3,2.326%,tobias myers nym
+Jorge Mateo ATL,2B/SS/OF,1.36,1.0,1,4,1.4,3.198%,jorge mateo
+Donovan Walton ATH,2B/SS/3B/OF,1.35,1.0,1,3,1.1,5.814%,donovan walton
+Steven Okert HOU,RP,1.35,1.0,1,3,1.1,23.547%,steven okert
+Grant Wolfram BAL,RP,1.34,1.0,1,3,1.2,21.512%,grant wolfram
 Elian Peña NYM A,SS,1.33,1.0,1,2,1.1,1.744%,elian pena nym a
-Ryan Rolison CHC,RP,1.33,1.0,1,2,1.2,0.872%,ryan rolison
-Michael Forret TBR AAA,SP,1.33,1.0,1,2,1.3,1.744%,michael forret tbr
-Demetrio Crisantes ARI AA,2B,1.33,1.0,1,3,1.5,1.744%,demetrio crisantes ari
-Kyle Isbel KCR,OF,1.33,1.0,1,3,1.6,4.36%,kyle isbel
-Jake Bloss TOR AAA,SP/RP,1.33,1.0,1,2,1.3,1.744%,jake bloss tor
+Demetrio Crisantes ARI AAA,2B,1.33,1.0,1,3,1.5,1.744%,demetrio crisantes ari
+Josh Ekness MIA,RP,1.33,1.0,1,2,1.1,0.872%,josh ekness
+AJ Gracia,Util,1.33,1.0,1,2,1.33,0.872%,aj gracia
+Roldy Brito COL A+,2B/OF,1.33,1.0,1,3,1.29,1.744%,roldy brito col
+Jacob Melton TBR AAA,OF,1.33,1.0,1,4,1.3,13.081%,jacob melton tbr
 Patrick Corbin TOR,SP,1.33,1.0,1,2,1.5,0.872%,patrick corbin
-Andrew Benintendi CHW,OF,1.33,1.0,1,6,1.3,33.14%,andrew benintendi
-Orlando Ribalta WSN,RP,1.33,1.0,1,2,1.4,0.872%,orlando ribalta
-Aaron Civale ATH,SP/RP,1.33,1.0,1,2,1.6,0.872%,aaron civale
+Jackson Ferris LAD AAA,SP,1.33,1.0,1,2,1.1,0.872%,jackson ferris lad
 Luis Gastelum STL,RP,1.33,1.0,1,2,1.25,0.872%,luis gastelum
-Braylon Payne MIL A+,OF,1.33,1.0,1,2,1.0,0.872%,braylon payne mil
-LuJames Groover ARI AAA,1B/3B,1.33,1.0,1,3,1.2,2.616%,lujames groover ari
-Kendall George LAD AA,OF,1.33,1.0,1,2,1.2,0.872%,kendall george lad
-Angel Zerpa MIL,RP,1.33,1.0,1,2,1.1,1.744%,angel zerpa
+Bishop Letson MIL AA,SP,1.33,1.0,1,2,1.11,0.872%,bishop letson mil
+Ryan Rolison CHC,RP,1.33,1.0,1,2,1.2,0.872%,ryan rolison
+Steele Hall CIN CPX,SS,1.33,1.0,1,2,1.0,0.872%,steele hall cin
+Aaron Civale CHC,SP/RP,1.33,1.0,1,2,1.6,0.872%,aaron civale
+Sterlin Thompson COL AAA,OF,1.33,1.0,1,2,1.1,0.872%,sterlin thompson col
 Caden Scarborough TEX A+,SP,1.33,1.0,1,2,1.22,0.872%,caden scarborough tex
 Davis Schneider TOR AAA,2B/OF,1.33,1.0,1,3,1.5,2.616%,davis schneider tor
-Josh Ekness MIA,RP,1.33,1.0,1,2,1.1,0.872%,josh ekness
-Emil Morales LAD A+,SS,1.3,1.0,1,3,1.4,5.814%,emil morales lad
-Jorge Mateo ATL,2B/SS/OF,1.3,1.0,1,4,1.2,2.907%,jorge mateo
+Juneiker Caceres CLE A+,OF,1.33,1.0,1,2,1.14,0.872%,juneiker caceres cle
+Dylan Dodd ATL,RP,1.33,1.0,1,3,1.2,2.616%,dylan dodd
+Orlando Ribalta WSN,RP,1.33,1.0,1,2,1.4,0.872%,orlando ribalta
+Reed Garrett NYM,RP,1.33,1.0,1,3,1.1,1.744%,reed garrett
+Drew Anderson DET,RP,1.33,1.0,1,4,1.4,11.628%,drew anderson
+Andrew Benintendi CHW,OF,1.32,1.0,1,6,1.0,33.43%,andrew benintendi
+Emil Morales LAD A+,SS,1.32,1.0,1,3,1.4,5.523%,emil morales lad
+Joc Pederson TEX,Util,1.3,1.0,1,5,1.5,14.535%,joc pederson
+Kendry Rojas MIN,SP/RP,1.3,1.0,1,2,1.4,2.907%,kendry rojas
 Ethan Conrad CHC A,Util,1.3,1.0,1,3,1.3,2.907%,ethan conrad chc a
-Joc Pederson TEX,Util,1.29,1.0,1,5,1.2,13.081%,joc pederson
-Gabriel Hughes COL,SP/RP,1.29,1.0,1,2,1.29,2.035%,gabriel hughes
+Andrew Nardi MIA,RP,1.3,1.0,1,3,1.5,2.907%,andrew nardi
+Lake Bachar MIA,RP,1.3,1.0,1,3,1.2,2.907%,lake bachar
+Jared Young NYM,1B/OF,1.29,1.0,1,3,1.4,6.977%,jared young
+Ty Johnson TBR AAA,SP/RP,1.29,1.0,1,7,1.6,9.012%,ty johnson tbr
+Michael Forret TBR AAA,SP,1.29,1.0,1,2,1.3,2.035%,michael forret tbr
 Brooks Baldwin CHW,2B/SS/3B/OF,1.29,1.0,1,3,1.4,4.07%,brooks baldwin
-Kendry Rojas MIN,SP/RP,1.29,1.0,1,2,1.3,2.035%,kendry rojas
-Owen Murphy ATL,SP/RP,1.28,1.0,1,3,1.3,9.302%,owen murphy
-Nick Loftin KCR,2B/3B/OF,1.28,1.0,1,3,1.3,5.233%,nick loftin
-Andrew Nardi MIA,RP,1.27,1.0,1,3,1.5,3.198%,andrew nardi
+Miguel Ullola HOU AAA,SP/RP,1.27,1.0,1,3,1.0,3.198%,miguel ullola hou
 Ryan Kreidler MIN,SS/OF,1.27,1.0,1,2,1.7,3.198%,ryan kreidler
 Joel Peguero SFG,RP,1.27,1.0,1,3,1.6,4.36%,joel peguero
-Kendry Chourio KCR A+,SP,1.26,1.0,1,3,1.4,5.523%,kendry chourio kcr
-Drew Sommers DET,RP,1.25,1.0,1,3,1.3,2.326%,drew sommers
-Devin Taylor ATH AA,OF,1.25,1.0,1,2,1.3,1.163%,devin taylor ath
-Lake Bachar MIA,RP,1.25,1.0,1,3,1.2,3.488%,lake bachar
-Bishop Letson MIL AA,SP,1.25,1.0,1,2,1.11,1.163%,bishop letson mil
-George Valera CLE AAA,OF,1.25,1.0,1,2,1.4,1.163%,george valera cle
-Miguel Ullola HOU AAA,SP/RP,1.25,1.0,1,3,1.0,3.488%,miguel ullola hou
-Bo Davidson SFG AA,OF,1.25,1.0,1,2,1.2,2.326%,bo davidson sfg
-Cam Booser TBR,RP,1.25,1.0,1,2,1.2,1.163%,cam booser
+Wilber Dotel PIT,SP/RP,1.25,1.0,1,2,1.6,2.326%,wilber dotel
+Brandon Clarke STL A,SP,1.25,1.0,1,2,1.7,1.163%,brandon clarke stl a
 Richard Fitts STL AAA,SP,1.25,1.0,1,2,1.5,1.163%,richard fitts stl
-Eduardo Valencia DET,C/1B,1.25,1.0,1,2,1.6,1.163%,eduardo valencia
-Alan Roden MIN,OF,1.25,1.0,1,3,1.1,2.326%,alan roden
-Gary Sanchez MIL,C,1.24,1.0,1,4,1.2,28.779%,gary sanchez
-Tanner Houck BOS,SP,1.24,1.0,1,5,1.0,6.105%,tanner houck
-Tim Hill NYY,RP,1.24,1.0,1,3,1.1,6.105%,tim hill
-Robert Stephenson LAA,RP,1.24,1.0,1,5,1.9,11.047%,robert stephenson
-Jonathan Bowlan PHI,RP,1.23,1.0,1,2,1.4,11.337%,jonathan bowlan
-Mason Fluharty TOR,RP,1.21,1.0,1,2,1.5,5.523%,mason fluharty
-Victor Caratini MIN,C/1B,1.21,1.0,1,3,1.1,12.5%,victor caratini
-Michael Massey KCR,2B/OF,1.21,1.0,1,3,1.1,6.977%,michael massey
-Kyson Witherspoon BOS A+,SP,1.2,1.0,1,2,1.6,1.453%,kyson witherspoon bos
-Jhonny Level SFG A+,SS,1.2,1.0,1,3,1.3,4.36%,jhonny level sfg
+Cam Booser TBR,RP,1.25,1.0,1,2,1.2,1.163%,cam booser
+Bo Davidson SFG AAA,OF,1.25,1.0,1,2,1.2,2.326%,bo davidson sfg
+Braylon Payne MIL A+,OF,1.25,1.0,1,2,1.0,1.163%,braylon payne mil
+Drew Sommers DET,RP,1.25,1.0,1,3,1.3,2.326%,drew sommers
+Robert Stephenson LAA,RP,1.24,1.0,1,5,2.2,10.756%,robert stephenson
+Luke Adams MIL AAA,1B/3B,1.23,1.0,1,3,1.2,3.779%,luke adams mil
+Kyle Isbel KCR,OF,1.23,1.0,1,2,1.5,3.779%,kyle isbel
+Tanner Houck BOS,SP,1.23,1.0,1,5,1.0,6.395%,tanner houck
+Grant Anderson MIL,RP,1.22,1.0,1,2,1.2,2.616%,grant anderson
+Jake Bloss TOR AAA,SP/RP,1.22,1.0,1,2,1.2,2.616%,jake bloss tor
+Victor Caratini MIN,C/1B,1.22,1.0,1,3,1.1,10.465%,victor caratini
+Michael Massey KCR,2B/OF,1.22,1.0,1,3,1.0,6.686%,michael massey
 Wandy Peralta SDP,RP,1.2,1.0,1,2,1.1,1.453%,wandy peralta
-Grant Anderson MIL,RP,1.2,1.0,1,2,1.2,2.907%,grant anderson
-Hendry Mendez MIN AAA,OF,1.18,1.0,1,2,1.2,4.942%,hendry mendez min
-Wilber Dotel PIT AAA,SP/RP,1.17,1.0,1,2,1.6,1.744%,wilber dotel pit
-Brock Burke CIN,RP,1.17,1.0,1,2,1.1,1.744%,brock burke
-Rikuu Nishida CHW AAA,2B/OF,1.17,1.0,1,2,1.2,1.744%,rikuu nishida chw
+Jovani Moran BOS,SP/RP,1.2,1.0,1,2,1.2,1.453%,jovani moran
+Devin Taylor ATH AA,OF,1.2,1.0,1,2,1.3,1.453%,devin taylor ath
+Eduardo Valencia DET AAA,C/1B,1.2,1.0,1,2,1.33,1.453%,eduardo valencia det
+Kyson Witherspoon BOS A+,SP,1.2,1.0,1,2,1.6,1.453%,kyson witherspoon bos
+Jonathan Bowlan PHI,RP,1.2,1.0,1,2,1.1,15.988%,jonathan bowlan
+Jonah Heim ATH,C,1.19,1.0,1,3,1.1,9.302%,jonah heim
+Nick Loftin KCR,2B/3B/OF,1.18,1.0,1,2,1.3,4.942%,nick loftin
+Mason Fluharty TOR,RP,1.18,1.0,1,2,1.5,4.942%,mason fluharty
+Gary Sanchez MIL,C,1.17,1.0,1,3,1.2,27.907%,gary sanchez
+Angel Zerpa MIL,RP,1.17,1.0,1,2,1.1,1.744%,angel zerpa
+Xavier Neyens HOU A+,3B,1.17,1.0,1,2,1.22,1.744%,xavier neyens hou
+Rikuu Nishida CHW AAA,2B/OF,1.17,1.0,1,2,1.3,1.744%,rikuu nishida chw
+Alimber Santa HOU AAA,RP,1.17,1.0,1,2,1.3,1.744%,alimber santa hou
+Jhonny Level SFG A+,SS,1.17,1.0,1,3,1.3,5.233%,jhonny level sfg
+Wei-En Lin ATH AAA,SP/RP,1.17,1.0,1,2,1.3,1.744%,wei en lin ath
 Ryan Thompson ARI,RP,1.17,1.0,1,2,1.2,1.744%,ryan thompson
-Jonah Heim ATH,C,1.16,1.0,1,3,1.1,10.756%,jonah heim
-Jared Young NYM,1B/OF,1.16,1.0,1,3,1.1,7.267%,jared young
-Ronny Cruz WSN A+,SS,1.15,1.0,1,2,1.4,3.779%,ronny cruz wsn
-Wei-En Lin ATH AAA,SP/RP,1.14,1.0,1,2,1.3,2.035%,wei en lin ath
-John King MIA,RP,1.14,1.0,1,2,1.3,2.035%,john king
-Alimber Santa HOU,RP,1.14,1.0,1,2,1.3,2.035%,alimber santa
-Nolan Perry TOR AA,SP,1.14,1.0,1,2,1.1,2.035%,nolan perry tor
 Miguel Amaya CHC,C,1.14,1.0,1,2,1.0,2.035%,miguel amaya
-Luke Adams MIL AAA,1B/3B,1.13,1.0,1,2,1.8,2.326%,luke adams mil
-Yohan Ramirez PIT,RP,1.13,1.0,1,2,1.3,2.326%,yohan ramirez
-Ty Johnson TBR AAA,SP/RP,1.12,1.0,1,2,1.0,7.558%,ty johnson tbr
-Abimelec Ortiz WSN,1B/OF,1.11,1.0,1,2,1.0,2.616%,abimelec ortiz
-Justin Gonzales BOS A+,OF,1.11,1.0,1,2,1.1,2.616%,justin gonzales bos
+Hendry Mendez MIN AAA,OF,1.13,1.0,1,2,1.2,4.36%,hendry mendez min
+LuJames Groover ARI AAA,1B/3B,1.13,1.0,1,2,1.2,2.326%,lujames groover ari
+Justin Gonzales BOS A+,OF,1.13,1.0,1,2,1.1,2.326%,justin gonzales bos
+Tim Hill NYY,RP,1.12,1.0,1,3,1.1,4.942%,tim hill
 Isiah Kiner-Falefa BOS,2B/SS/3B,1.11,1.0,1,2,1.1,2.616%,isiah kiner falefa
-Tyson Hardin MIL AAA,SP,1.1,1.0,1,2,1.5,2.907%,tyson hardin mil
-Nick Fortes TBR,C,1.1,1.0,1,2,1.0,2.907%,nick fortes
+Tim Tawa ARI,1B/2B/OF,1.11,1.0,1,2,1.1,2.616%,tim tawa
+Zion Rose,Util,1.11,1.0,1,2,1.1,2.616%,zion rose
+Taylor Clarke ARI,RP,1.11,1.0,1,2,1.0,8.14%,taylor clarke
+Abimelec Ortiz WSN AAA,1B/OF,1.1,1.0,1,2,1.0,2.907%,abimelec ortiz wsn
 Christopher Morel NYM AAA,1B/OF,1.09,1.0,1,2,1.0,3.198%,christopher morel nym
-Taylor Clarke ARI,RP,1.09,1.0,1,2,1.0,9.884%,taylor clarke
-Tanner McDougal CHW AAA,SP/RP,1.07,1.0,1,2,1.0,4.07%,tanner mcdougal chw
-Dax Kilby NYY CPX,Util,1.06,1.0,1,2,1.1,4.651%,dax kilby nyy
-Miles Mikolas WSN,SP/RP,1.0,1.0,1,1,1.4,0.581%,miles mikolas
-James Outman DET,OF,1.0,1.0,1,1,1.1,0.581%,james outman
-Khristian Curtis PIT AAA,SP,1.0,1.0,1,1,1.0,0.291%,khristian curtis pit
-Caden Hunter BAL A+,SP,1.0,1.0,1,1,1.0,0.291%,caden hunter bal
-John Schreiber KCR,RP,1.0,1.0,1,1,1.5,0.291%,john schreiber
-Jesus Tinoco MIA,RP,1.0,1.0,1,1,1.6,0.291%,jesus tinoco
-Richie Palacios TBR,2B,1.0,1.0,1,1,1.3,0.291%,richie palacios
-Tim Mayza PHI,RP,1.0,1.0,1,1,1.1,0.291%,tim mayza
-Kane Kepley CHC A+,OF,1.0,1.0,1,1,1.0,0.291%,kane kepley chc
-Yilber Diaz DET AAA,SP/RP,1.0,1.0,1,1,1.3,0.291%,yilber diaz det
-Ethan Pecko HOU AAA,SP,1.0,1.0,1,1,1.0,0.581%,ethan pecko hou
-Cal Quantrill TEX,SP/RP,1.0,1.0,1,1,1.0,0.872%,cal quantrill
-Mason Englert TBR AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,mason englert tbr
-Carter Baumler TEX,RP,1.0,1.0,1,1,1.1,0.581%,carter baumler
-Jackson Kent WSN AAA,SP,1.0,1.0,1,1,1.0,0.291%,jackson kent wsn
-Tanner Franklin STL A+,SP,1.0,1.0,1,1,1.0,2.907%,tanner franklin stl
-Jovani Moran BOS,SP/RP,1.0,1.0,1,1,1.1,0.291%,jovani moran
-Tanner Banks PHI,RP,1.0,1.0,1,1,1.3,0.291%,tanner banks
-Alex McFarlane PHI AA,SP/RP,1.0,1.0,1,1,1.0,0.581%,alex mcfarlane phi
-Woo-Suk Go MIN,RP,1.0,1.0,1,1,1.3,0.581%,woo suk go
-Alan Rangel PHI,SP/RP,1.0,1.0,1,1,1.5,0.581%,alan rangel
-Zach Agnos COL,RP,1.0,1.0,1,1,1.2,0.581%,zach agnos
-BJ Murray CHC AAA,1B/3B,1.0,1.0,1,1,1.0,0.291%,bj murray chc
-Parks Harber SFG AA,3B/OF,1.0,1.0,1,1,1.0,0.291%,parks harber sfg
-Jake Fraley TBR,OF,1.0,1.0,1,1,1.1,0.291%,jake fraley
-Ryan Wideman SDP A+,OF,1.0,1.0,1,1,1.0,0.291%,ryan wideman sdp
-Ben Williamson TBR,2B/SS/3B,1.0,1.0,1,1,1.0,0.291%,ben williamson
-William Bergolla Jr. CHW AAA,SS,1.0,1.0,1,1,1.0,0.581%,william bergolla chw
-Coleman Crow MIL AAA,SP/RP,1.0,1.0,1,1,1.3,0.581%,coleman crow mil
-Bo Bonds TOR A+,RP,1.0,1.0,1,1,1.0,0.291%,bo bonds tor
+Tyson Hardin MIL AAA,SP,1.09,1.0,1,2,1.5,3.198%,tyson hardin mil
+Ronny Cruz WSN A+,SS,1.08,1.0,1,2,1.4,3.488%,ronny cruz wsn
+Mitch Bratt ARI,SP/RP,1.07,1.0,1,2,1.1,4.07%,mitch bratt
+Dax Kilby NYY CPX,Util,1.06,1.0,1,2,1.0,4.942%,dax kilby nyy
+Tanner McDougal CHW AAA,SP/RP,1.06,1.0,1,2,1.0,5.233%,tanner mcdougal chw
+Scott Alexander KCR CPX,RP,1.0,1.0,1,1,1.0,0.291%,scott alexander kcr
 Jose Suarez ATH,SP/RP,1.0,1.0,1,1,1.3,0.291%,jose suarez
-Ryan Johnson LAA,SP/RP,1.0,1.0,1,1,1.1,0.291%,ryan johnson
-Juan Sanchez TOR A,SS/3B,1.0,1.0,1,1,1.0,1.163%,juan sanchez tor a
-Jose Butto SFG,RP,1.0,1.0,1,1,1.2,0.291%,jose butto
-Ryan Fitzgerald LAD AAA,SS/3B/OF,1.0,1.0,1,1,1.0,0.581%,ryan fitzgerald lad
-PJ Poulin WSN,SP/RP,1.0,1.0,1,1,1.0,0.291%,pj poulin
-Cade Marlowe ATH AAA,OF,1.0,1.0,1,1,1.9,0.291%,cade marlowe ath
-Mason Peters SEA A,SP,1.0,1.0,1,1,1.0,0.291%,mason peters sea a
-Julio Urias LAD,RP,1.0,1.0,1,1,1.1,0.291%,julio urias
-Nestor German BAL AAA,SP,1.0,1.0,1,1,1.0,0.581%,nestor german bal
 Jack Suwinski LAD AAA,OF,1.0,1.0,1,1,1.2,0.291%,jack suwinski lad
-Tony Rossi NYY AA,RP,1.0,1.0,1,1,1.0,0.291%,tony rossi nyy
-Gavin Cross KCR AAA,OF,1.0,1.0,1,1,1.7,0.291%,gavin cross kcr
-George Klassen LAA AAA,SP/RP,1.0,1.0,1,1,1.0,1.453%,george klassen laa
-German Marquez SDP,SP,1.0,1.0,1,1,1.1,0.872%,german marquez
-Joe Jimenez ATL,RP,1.0,1.0,1,1,1.2,0.872%,joe jimenez
-Jose Franco CIN AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,jose franco cin
-Jack O'Dowd COL AA,C,1.0,1.0,1,1,1.0,0.291%,jack o dowd col
-Darell Hernaiz ATH AAA,2B/SS/3B,1.0,1.0,1,1,1.1,0.291%,darell hernaiz ath
-Drew Romo CHW,C,1.0,1.0,1,1,1.2,1.744%,drew romo
-Kody Huff CLE AAA,C/1B,1.0,1.0,1,1,1.0,0.581%,kody huff cle
-Justin Topa KCR AAA,RP,1.0,1.0,1,1,1.8,0.291%,justin topa kcr
-Dante Nori PHI AA,OF,1.0,1.0,1,1,1.0,0.581%,dante nori phi
-Juaron Watts-Brown BAL AA,SP,1.0,1.0,1,1,1.25,0.581%,juaron watts brown bal
-Christian Vazquez HOU,C,1.0,1.0,1,1,1.0,0.872%,christian vazquez
-Jesse Scholtens TBR CPX,SP/RP,1.0,1.0,1,1,1.1,0.291%,jesse scholtens tbr
-Jose Siri LAA,OF,1.0,1.0,1,1,1.4,0.581%,jose siri
-Walker Janek HOU CPX,C,1.0,1.0,1,1,1.0,0.291%,walker janek hou
-Mitch Voit NYM A+,SS,1.0,1.0,1,1,1.0,0.291%,mitch voit nym
-Xavier Neyens HOU A+,3B,1.0,1.0,1,1,1.14,1.163%,xavier neyens hou
-Miguel Rojas LAD,2B/SS/3B,1.0,1.0,1,1,1.0,0.581%,miguel rojas
-Braiden Ward BOS AAA,OF,1.0,1.0,1,1,1.0,0.291%,braiden ward bos
-Santiago Suarez TBR AA,SP,1.0,1.0,1,1,1.0,0.291%,santiago suarez tbr
-Nathan Flewelling TBR A+,C,1.0,1.0,1,1,1.33,0.872%,nathan flewelling tbr
-George Soriano STL,RP,1.0,1.0,1,1,1.0,0.872%,george soriano
-JD Dix ARI A+,2B,1.0,1.0,1,1,1.0,0.291%,jd dix ari
-Chas McCormick CHC AAA,OF,1.0,1.0,1,1,1.1,0.291%,chas mccormick chc
-Tyler Kinley ATL,RP,1.0,1.0,1,1,1.0,0.872%,tyler kinley
-JT Quinn BAL A+,SP,1.0,1.0,1,1,1.0,0.291%,jt quinn bal
-C.J. Culpepper MIN AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,c j culpepper min
-Kala'i Rosario MIN AAA,OF,1.0,1.0,1,1,1.0,0.291%,kala i rosario min
-Jared Triolo PIT,1B/2B/SS/3B,1.0,1.0,1,1,1.4,0.872%,jared triolo
-Taylor Walls TBR,SS,1.0,1.0,1,1,1.6,0.291%,taylor walls
-Matt Gage SFG,RP,1.0,1.0,1,1,1.0,0.581%,matt gage
-Leody Taveras BAL,OF,1.0,1.0,1,1,1.1,4.942%,leody taveras
-John Gil ATL A+,2B/SS,1.0,1.0,1,1,1.2,0.872%,john gil atl
-Sam Hentges SFG,RP,1.0,1.0,1,1,1.2,0.581%,sam hentges
-Brennen Davis SEA AAA,OF,1.0,1.0,1,1,1.3,0.291%,brennen davis sea
-Griff O'Ferrall BAL AA,2B/SS,1.0,1.0,1,1,1.0,0.291%,griff o ferrall bal
-Gabriel Rincones Jr. PHI,OF,1.0,1.0,1,1,1.1,0.581%,gabriel rincones
-Tre Richardson III STL AA,2B,1.0,1.0,1,1,1.0,0.291%,tre richardson stl
-Ryan Vilade TBR,1B/2B/OF,1.0,1.0,1,1,1.1,3.488%,ryan vilade
-Nick Morabito NYM AAA,OF,1.0,1.0,1,1,1.0,0.581%,nick morabito nym
-Tucker Musgrove SDP AA,SP/RP,1.0,1.0,1,1,1.0,0.291%,tucker musgrove sdp
-JT Brubaker SFG,SP/RP,1.0,1.0,1,1,1.1,0.291%,jt brubaker
-Rodolfo Duran SDP,C,1.0,1.0,1,1,1.0,0.291%,rodolfo duran
-Porter Hodge CHC,RP,1.0,1.0,1,1,1.1,0.581%,porter hodge
-Nate Eaton BOS,3B/OF,1.0,1.0,1,1,1.6,0.581%,nate eaton
-Cesar Perdomo SFG AAA,SP,1.0,1.0,1,1,1.0,0.291%,cesar perdomo sfg
-Sam Aldegheri LAA AAA,SP,1.0,1.0,1,1,1.3,0.581%,sam aldegheri laa
-Shotaro Morii ATH A,SS/SP,1.0,1.0,1,1,2.9,0.291%,shotaro morii ath a
-Ryan Ritter COL AAA,2B/SS,1.0,1.0,1,1,1.2,0.581%,ryan ritter col
-Victor Mesa Jr. TBR,OF,1.0,1.0,1,1,1.0,0.291%,victor mesa
-Sebastian Dos Santos STL A,SS,1.0,1.0,1,1,1.0,0.291%,sebastian dos santos stl a
-Jerar Encarnacion SFG,OF,1.0,1.0,1,1,1.0,0.291%,jerar encarnacion
-Tristan Gray MIN,2B/SS/3B,1.0,1.0,1,1,1.1,0.291%,tristan gray
-Emmanuel Clase CLE,RP,1.0,1.0,1,1,3.9,0.291%,emmanuel clase
-Aidan Smith TBR A+,OF,1.0,1.0,1,1,1.33,0.291%,aidan smith tbr
-Jase Bowen SDP,OF,1.0,1.0,1,1,1.0,0.291%,jase bowen
-Drey Jameson ARI,RP,1.0,1.0,1,1,1.0,0.291%,drey jameson
-Cam Sanders BAL,RP,1.0,1.0,1,1,1.0,0.291%,cam sanders
-Ethan Frey HOU CPX,OF,1.0,1.0,1,1,1.0,0.291%,ethan frey hou
-Luis Rengifo SDP,2B/3B/OF,1.0,1.0,1,1,1.3,2.907%,luis rengifo
-Randal Grichuk CHW,OF,1.0,1.0,1,1,1.0,2.907%,randal grichuk
-Ben Ross MIN AAA,SS/3B/OF,1.0,1.0,1,1,1.0,0.291%,ben ross min
-Hunter Bigge TBR AAA,RP,1.0,1.0,1,1,1.6,0.291%,hunter bigge tbr
-Jimmy Crooks STL,C,1.0,1.0,1,1,1.1,1.453%,jimmy crooks
-Carter Graham CIN AA,1B/3B,1.0,1.0,1,1,1.0,0.291%,carter graham cin
-Craig Kimbrel TBR,RP,1.0,1.0,1,1,1.2,0.872%,craig kimbrel
-Jose Cabrera ARI,SP/RP,1.0,1.0,1,1,1.0,0.581%,jose cabrera
-Luis De Leon BAL AA,SP,1.0,1.0,1,1,1.0,1.163%,luis de leon bal
-Brandon Lockridge MIL,OF,1.0,1.0,1,1,1.0,0.291%,brandon lockridge
-Creed Willems BAL AAA,C/1B,1.0,1.0,1,1,1.0,0.291%,creed willems bal
-Billy Carlson CHW CPX,SS,1.0,1.0,1,1,1.0,0.291%,billy carlson chw
-Jahmai Jones BOS,OF,1.0,1.0,1,1,1.0,0.581%,jahmai jones
-Jonathan Santucci NYM AA,SP,1.0,1.0,1,1,1.0,0.581%,jonathan santucci nym
-Greg Weissert BOS,RP,1.0,1.0,1,1,1.3,0.291%,greg weissert
-Daysbel Hernandez ATL AAA,RP,1.0,1.0,1,1,1.0,0.291%,daysbel hernandez atl
-Max Kepler ARI,OF,1.0,1.0,1,1,1.2,0.581%,max kepler
-Henry Lalane NYY A+,SP,1.0,1.0,1,1,1.0,1.163%,henry lalane nyy
-Eduardo Rivera BOS,SP/RP,1.0,1.0,1,1,1.0,0.581%,eduardo rivera
-Cole Sulser TBR,RP,1.0,1.0,1,1,1.6,0.872%,cole sulser
-Mike Vasil CHW,RP,1.0,1.0,1,1,1.1,1.163%,mike vasil
-Tate Southisene ATL A+,2B/SS,1.0,1.0,1,1,1.0,0.291%,tate southisene atl
-Brady Smith LAD A,SP,1.0,1.0,1,1,1.0,0.291%,brady smith lad a
-Andruw Monasterio BOS,1B/2B/SS/3B,1.0,1.0,1,1,1.1,0.291%,andruw monasterio
-Derek Hill PHI,OF,1.0,1.0,1,1,1.0,0.581%,derek hill
-Jesús Báez STL AA,SS/3B,1.0,1.0,1,1,1.5,0.581%,jesus baez stl
-Johnny Slawinski LAA CPX,SP,1.0,1.0,1,1,1.0,0.291%,johnny slawinski laa
-Clay Edmondson SDP AA,RP,1.0,1.0,1,1,1.0,0.291%,clay edmondson sdp
-Riley Cornelio WSN,SP/RP,1.0,1.0,1,1,1.1,1.744%,riley cornelio
-Hayden Alvarez LAA A,OF,1.0,1.0,1,1,1.0,0.581%,hayden alvarez laa a
-Aidan Cremarosa TBR A,SP,1.0,1.0,1,1,1.0,0.291%,aidan cremarosa tbr a
-Eddys Leonard MIL AAA,2B/3B/OF,1.0,1.0,1,1,1.17,0.291%,eddys leonard mil
-Ryan Feltner COL,SP,1.0,1.0,1,1,1.1,0.291%,ryan feltner
-Kody Funderburk MIN,RP,1.0,1.0,1,1,1.5,0.872%,kody funderburk
-Michael Martinez ATL A,OF,1.0,1.0,1,1,1.0,0.291%,michael martinez atl a
-William Kempner MIA,RP,1.0,1.0,1,1,1.4,0.581%,william kempner
-Ryan Lambert NYM AAA,RP,1.0,1.0,1,1,1.1,0.291%,ryan lambert nym
-Nick Sogard BOS ST,1B/2B/SS/3B,1.0,1.0,1,1,1.0,0.291%,nick sogard bos
-Darell Morel PIT CPX,SS,1.0,1.0,1,1,1.0,0.291%,darell morel pit
-Luis Torrens NYM,C,1.0,1.0,1,1,1.1,0.291%,luis torrens
-Braxton Fulford COL,C,1.0,1.0,1,1,1.0,0.291%,braxton fulford
-Luis Garcia FA,RP,1.0,1.0,1,1,1.0,0.291%,luis garcia
-Kade Strowd ARI AAA,RP,1.0,1.0,1,1,1.5,0.291%,kade strowd ari
-Dakota Jordan SFG A+,OF,1.0,1.0,1,1,1.0,0.291%,dakota jordan sfg
-Austin Hedges CLE,C,1.0,1.0,1,1,1.3,0.581%,austin hedges
-Tommy White ATH AAA,1B/3B,1.0,1.0,1,1,1.0,2.035%,tommy white ath
-Cayden Wallace WSN AAA,SS/3B,1.0,1.0,1,1,1.0,0.291%,cayden wallace wsn
-Kaleb Wing CHC A,SP,1.0,1.0,1,1,1.0,0.581%,kaleb wing chc a
-Chase Harlan LAD A+,3B,1.0,1.0,1,1,1.0,0.291%,chase harlan lad
-Andrew Heaney FA,SP,1.0,1.0,1,1,1.8,0.291%,andrew heaney
-Luke Murphy LAA AA,RP,1.0,1.0,1,1,1.0,0.291%,luke murphy laa
-Joey Bart ATL,C,1.0,1.0,1,1,1.3,0.291%,joey bart
-Nate Pearson HOU,RP,1.0,1.0,1,1,1.3,0.291%,nate pearson
-Joey Loperfido HOU AAA,OF,1.0,1.0,1,1,1.3,0.291%,joey loperfido hou
-Eloy Jimenez TOR AAA,OF,1.0,1.0,1,1,1.0,0.291%,eloy jimenez tor
-Tyler Ferguson CHC,RP,1.0,1.0,1,1,1.5,0.291%,tyler ferguson
-Peyton Gray TEX,RP,1.0,1.0,1,1,1.13,1.163%,peyton gray
-Yovanny Cruz NYY AAA,RP,1.0,1.0,1,1,1.0,0.872%,yovanny cruz nyy
-Tyler Hardman NYY AAA,1B/3B,1.0,1.0,1,1,1.0,0.291%,tyler hardman nyy
-Chase Shores LAA A+,SP,1.0,1.0,1,1,1.0,0.291%,chase shores laa
-Mitch Bratt ARI,SP/RP,1.0,1.0,1,1,1.0,3.779%,mitch bratt
-Mike Paredes MIN,SP/RP,1.0,1.0,1,1,1.0,0.291%,mike paredes
-Kyle Higashioka TEX,C,1.0,1.0,1,1,1.0,0.291%,kyle higashioka
-Taitn Gray TBR CPX,1B,1.0,1.0,1,1,1.0,0.291%,taitn gray tbr
-Braden Nett ATH AAA,SP,1.0,1.0,1,1,1.0,0.291%,braden nett ath
-Owen Ayers CHC AA,C,1.0,1.0,1,1,1.0,0.581%,owen ayers chc
-Will Benson CIN AAA,OF,1.0,1.0,1,1,1.1,0.291%,will benson cin
+Jefferson Rojas CHC AA,2B/SS/3B,1.0,1.0,1,1,1.2,3.779%,jefferson rojas chc
+Jonathan Santucci NYM AA,SP,1.0,1.0,1,1,1.0,0.872%,jonathan santucci nym
+Victor Mederos ATL,SP/RP,1.0,1.0,1,1,1.0,0.291%,victor mederos
 Jacob Reimer NYM CPX,3B,1.0,1.0,1,1,1.1,0.291%,jacob reimer nym
-John Taylor TEX AAA,1B/2B/SS,1.0,1.0,1,1,1.0,0.581%,john taylor tex
-Josh Adamczewski MIL AA,2B/OF,1.0,1.0,1,1,1.0,1.163%,josh adamczewski mil
-Ronny Simon PIT AAA,2B/OF,1.0,1.0,1,1,1.0,0.291%,ronny simon pit
-Owen White CHW AAA,SP/RP,1.0,1.0,1,1,1.4,0.291%,owen white chw
-Scott Alexander SFG,RP,1.0,1.0,1,1,1.0,0.291%,scott alexander
-Ryan Bergert KCR AAA,SP,1.0,1.0,1,1,1.9,0.872%,ryan bergert kcr
-Tim Herrin CLE,RP,1.0,1.0,1,1,1.6,0.291%,tim herrin
-Mickey Gasper BOS AAA,C,1.0,1.0,1,1,1.0,1.163%,mickey gasper bos
-Kevin Made WSN AA,2B/SS,1.0,1.0,1,1,1.0,0.291%,kevin made wsn
-Raudi Rodriguez LAA AA,OF,1.0,1.0,1,1,1.2,0.872%,raudi rodriguez laa
-Patrick Copen LAD AA,SP,1.0,1.0,1,1,1.0,0.291%,patrick copen lad
-Danis Correa NYM AA,RP,1.0,1.0,1,1,1.0,0.291%,danis correa nym
-Jefferson Rojas CHC AA,2B/SS/3B,1.0,1.0,1,1,1.2,4.942%,jefferson rojas chc
-Michael Lorenzen COL,SP,1.0,1.0,1,1,1.1,0.872%,michael lorenzen
+Jose Butto SFG,RP,1.0,1.0,1,1,1.2,0.291%,jose butto
+Nick Morabito NYM AAA,OF,1.0,1.0,1,1,1.0,0.581%,nick morabito nym
+Parks Harber SFG AAA,3B/OF,1.0,1.0,1,1,1.0,0.291%,parks harber sfg
+John Taylor TEX AAA,1B/2B/SS/3B,1.0,1.0,1,1,1.0,0.581%,john taylor tex
+Jose Franco CIN AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,jose franco cin
+Tate Southisene ATL A+,2B/SS,1.0,1.0,1,1,1.0,0.872%,tate southisene atl
+Wilian Bormie TEX AAA,RP,1.0,1.0,1,1,1.0,0.291%,wilian bormie tex
+Sebastian Dos Santos STL A,SS,1.0,1.0,1,1,1.0,0.291%,sebastian dos santos stl a
+Taylor Walls TBR,SS,1.0,1.0,1,1,1.6,0.291%,taylor walls
+Drew Romo CHW,C,1.0,1.0,1,1,1.7,1.744%,drew romo
+Tony Rossi NYY AA,RP,1.0,1.0,1,1,1.0,0.291%,tony rossi nyy
+Creed Willems BAL AAA,C/1B,1.0,1.0,1,1,1.0,0.291%,creed willems bal
+Leody Taveras BAL,OF,1.0,1.0,1,1,1.1,4.651%,leody taveras
+Ryan Fitzgerald LAD AAA,SS/3B/OF,1.0,1.0,1,1,1.0,0.581%,ryan fitzgerald lad
+Griff O'Ferrall BAL AA,2B/SS,1.0,1.0,1,1,1.0,0.291%,griff o ferrall bal
+Thairo Estrada,2B,1.0,1.0,1,1,1.9,0.291%,thairo estrada
+Eduardo Rivera BOS,SP/RP,1.0,1.0,1,1,1.0,0.581%,eduardo rivera
+JT Brubaker SFG,SP/RP,1.0,1.0,1,1,1.1,0.291%,jt brubaker
+Luis Garcia FA,RP,1.0,1.0,1,1,1.0,0.291%,luis garcia
 Miguel Sime Jr. WSN A+,SP,1.0,1.0,1,1,1.0,0.291%,miguel sime wsn
-Jefry Yan NYM AAA,RP,1.0,1.0,1,1,1.0,0.581%,jefry yan nym
-Gage Stanifer TOR AA,SP/RP,1.0,1.0,1,1,1.14,0.581%,gage stanifer tor
-Francisco Renteria PHI DSL,OF,1.0,1.0,1,1,1.0,0.291%,francisco renteria phi
+Kane Kepley CHC A+,OF,1.0,1.0,1,1,1.0,0.291%,kane kepley chc
+George Valera CLE AAA,OF,1.0,1.0,1,1,1.5,0.872%,george valera cle
+Ryan Wideman SDP A+,OF,1.0,1.0,1,1,1.0,0.291%,ryan wideman sdp
+Christian Vazquez HOU,C,1.0,1.0,1,1,1.0,0.872%,christian vazquez
+Michael Lorenzen COL,SP,1.0,1.0,1,1,1.1,0.872%,michael lorenzen
+Juan Sanchez TOR A,SS/3B,1.0,1.0,1,1,1.0,1.163%,juan sanchez tor a
+John King MIA,RP,1.0,1.0,1,1,1.3,1.744%,john king
+Liam Peterson,RP,1.0,1.0,1,1,1.0,0.291%,liam peterson
+Braiden Ward BOS AAA,OF,1.0,1.0,1,1,1.0,0.291%,braiden ward bos
+Nicky Lopez TEX,2B/SS/3B,1.0,1.0,1,1,1.0,0.291%,nicky lopez
+Justin Lebron,Util,1.0,1.0,1,1,1.0,0.291%,justin lebron
+Justin Topa KCR AAA,RP,1.0,1.0,1,1,1.8,0.291%,justin topa kcr
 Trevor Bauer,RP,1.0,1.0,1,1,1.3,0.291%,trevor bauer
-Evan Sisk PIT,RP,1.0,1.0,1,1,1.2,0.872%,evan sisk
-Blake Burke MIL AA,1B,1.0,1.0,1,1,1.0,0.581%,blake burke mil
-Caden Bodine TBR AA,C,1.0,1.0,1,1,1.0,0.581%,caden bodine tbr
-Taijuan Walker LAA CPX,SP/RP,1.0,1.0,1,1,2.4,0.581%,taijuan walker laa
+Jackson Kent WSN AAA,SP,1.0,1.0,1,1,1.0,0.291%,jackson kent wsn
+Andrew Heaney FA,SP,1.0,1.0,1,1,1.8,0.291%,andrew heaney
+Nestor German BAL AAA,SP,1.0,1.0,1,1,1.0,0.581%,nestor german bal
+JT Quinn BAL A+,SP,1.0,1.0,1,1,1.0,0.291%,jt quinn bal
+Khristian Curtis PIT AAA,SP,1.0,1.0,1,1,1.0,0.291%,khristian curtis pit
+Jose Siri LAA,OF,1.0,1.0,1,1,1.4,0.581%,jose siri
+Cesar Perdomo SFG AAA,SP,1.0,1.0,1,1,1.0,0.291%,cesar perdomo sfg
+Ryan Bergert KCR AAA,SP,1.0,1.0,1,1,1.9,0.872%,ryan bergert kcr
+Kaleb Wing CHC A,SP,1.0,1.0,1,1,1.0,0.581%,kaleb wing chc a
+Ryan Vilade TBR,1B/2B/OF,1.0,1.0,1,1,1.1,3.779%,ryan vilade
+Nathan Flewelling TBR A+,C,1.0,1.0,1,1,1.33,0.872%,nathan flewelling tbr
+Kala'i Rosario MIN AAA,OF,1.0,1.0,1,1,1.0,0.291%,kala i rosario min
+Cal Quantrill TEX,SP/RP,1.0,1.0,1,1,1.0,0.581%,cal quantrill
+Braden Nett ATH AAA,SP,1.0,1.0,1,1,1.0,0.291%,braden nett ath
+Jesús Báez STL AA,SS/3B,1.0,1.0,1,1,1.38,1.163%,jesus baez stl
+Porter Hodge CHC,RP,1.0,1.0,1,1,1.1,0.581%,porter hodge
+Matt Gage SFG,RP,1.0,1.0,1,1,1.0,0.581%,matt gage
+Tucker Musgrove SDP AA,SP/RP,1.0,1.0,1,1,1.0,0.291%,tucker musgrove sdp
+Rodolfo Duran SDP,C,1.0,1.0,1,1,1.0,0.291%,rodolfo duran
+Nate Eaton BOS AAA,3B/OF,1.0,1.0,1,1,1.6,0.581%,nate eaton bos
+Raudi Rodriguez LAA AA,OF,1.0,1.0,1,1,1.2,0.872%,raudi rodriguez laa
+Cole Sulser TBR,RP,1.0,1.0,1,1,1.6,0.872%,cole sulser
+Richie Palacios TBR,2B,1.0,1.0,1,1,1.3,0.291%,richie palacios
+Mike Vasil CHW,RP,1.0,1.0,1,1,1.1,1.163%,mike vasil
+John Gil ATL A+,2B/SS,1.0,1.0,1,1,1.2,0.872%,john gil atl
+Chas McCormick CHC AAA,OF,1.0,1.0,1,1,1.1,0.291%,chas mccormick chc
+Julio Urias LAD,RP,1.0,1.0,1,1,1.1,0.291%,julio urias
+Tristan Gray MIN AAA,2B/SS/3B,1.0,1.0,1,1,1.1,0.291%,tristan gray min
+Ben Ross MIN AAA,SS/3B/OF,1.0,1.0,1,1,1.0,0.291%,ben ross min
+Peyton Gray TEX,RP,1.0,1.0,1,1,1.13,1.163%,peyton gray
+George Soriano STL,RP,1.0,1.0,1,1,1.0,1.163%,george soriano
+Jake Fraley TBR,OF,1.0,1.0,1,1,1.1,0.291%,jake fraley
+Jose Cabrera ARI AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,jose cabrera ari
+Brennen Davis SEA AAA,OF,1.0,1.0,1,1,1.3,0.291%,brennen davis sea
+Eddys Leonard MIL AAA,2B/3B/OF,1.0,1.0,1,1,1.17,0.291%,eddys leonard mil
+Carter Baumler TEX,RP,1.0,1.0,1,1,1.1,0.581%,carter baumler
+Jahmai Jones BOS,OF,1.0,1.0,1,1,1.0,0.581%,jahmai jones
+Aidan Smith TBR A+,OF,1.0,1.0,1,1,1.33,0.291%,aidan smith tbr
+Jerar Encarnacion SFG,OF,1.0,1.0,1,1,1.0,0.291%,jerar encarnacion
+Juaron Watts-Brown BAL AA,SP,1.0,1.0,1,1,1.25,0.581%,juaron watts brown bal
+German Marquez SDP,SP,1.0,1.0,1,1,1.1,0.872%,german marquez
+Tre Richardson III STL AA,2B,1.0,1.0,1,1,1.0,0.291%,tre richardson stl
+Gavin Cross KCR AAA,OF,1.0,1.0,1,1,1.7,0.291%,gavin cross kcr
+Brant Hurter DET,RP,1.0,1.0,1,1,1.1,0.872%,brant hurter
+Ethan Frey HOU A+,OF,1.0,1.0,1,1,1.0,0.291%,ethan frey hou
+Patrick Copen LAD AA,SP,1.0,1.0,1,1,1.0,0.291%,patrick copen lad
+Mason Peters SEA A,SP,1.0,1.0,1,1,1.0,0.291%,mason peters sea a
+Kody Huff CLE AAA,C/1B,1.0,1.0,1,1,1.0,0.581%,kody huff cle
+William Bergolla Jr. CHW CPX,SS,1.0,1.0,1,1,1.0,0.581%,william bergolla chw
+Matt Waldron SDP,SP/RP,1.0,1.0,1,1,1.4,0.291%,matt waldron
+Yohan Ramirez PIT,RP,1.0,1.0,1,1,1.3,2.326%,yohan ramirez
+Gabriel Rincones Jr. PHI,OF,1.0,1.0,1,1,1.1,0.291%,gabriel rincones
+Tyler Kinley ATL,RP,1.0,1.0,1,1,1.0,0.872%,tyler kinley
+Mason Englert TBR,SP/RP,1.0,1.0,1,1,1.0,0.291%,mason englert
+Walker Janek HOU AA,C,1.0,1.0,1,1,1.0,0.291%,walker janek hou
+Greg Weissert BOS,RP,1.0,1.0,1,1,1.3,0.291%,greg weissert
+Bo Bonds TOR A+,RP,1.0,1.0,1,1,1.0,0.291%,bo bonds tor
+Jimmy Crooks STL,C,1.0,1.0,1,1,1.1,1.453%,jimmy crooks
+Hayden Alvarez LAA A,OF,1.0,1.0,1,1,1.0,0.581%,hayden alvarez laa a
+Eloy Jimenez TOR AAA,OF,1.0,1.0,1,1,1.0,0.291%,eloy jimenez tor
+Darell Hernaiz ATH AAA,2B/SS/3B,1.0,1.0,1,1,1.1,0.291%,darell hernaiz ath
+Craig Kimbrel TBR,RP,1.0,1.0,1,1,1.2,0.872%,craig kimbrel
+Dakota Jordan SFG AA,OF,1.0,1.0,1,1,1.0,0.291%,dakota jordan sfg
+Max Schuemann NYY,2B/SS/3B/OF,1.0,1.0,1,1,1.7,0.581%,max schuemann
+William Kempner MIA,RP,1.0,1.0,1,1,1.4,0.581%,william kempner
+Brandon Lockridge MIL,OF,1.0,1.0,1,1,1.0,0.291%,brandon lockridge
+Daysbel Hernandez ATL AAA,RP,1.0,1.0,1,1,1.0,0.291%,daysbel hernandez atl
+Brock Burke CIN,RP,1.0,1.0,1,1,1.1,1.453%,brock burke
+Ben Williamson TBR,2B/SS/3B/RP,1.0,1.0,1,1,1.0,0.291%,ben williamson
+Johnny Slawinski LAA CPX,SP,1.0,1.0,1,1,1.0,0.291%,johnny slawinski laa
+Mickey Gasper BOS AAA,C,1.0,1.0,1,1,1.0,0.872%,mickey gasper bos
+Miguel Rojas LAD,2B/SS/3B,1.0,1.0,1,1,1.0,0.872%,miguel rojas
+Logan Hughes,Util,1.0,1.0,1,1,1.0,0.291%,logan hughes
+Dante Nori PHI AA,OF,1.0,1.0,1,1,1.0,0.581%,dante nori phi
+Josh Adamczewski MIL AA,2B/OF,1.0,1.0,1,1,1.1,2.907%,josh adamczewski mil
+Cayden Wallace WSN AAA,SS/3B,1.0,1.0,1,1,1.0,0.291%,cayden wallace wsn
+Ethan Pecko HOU AAA,SP,1.0,1.0,1,1,1.0,0.291%,ethan pecko hou
+Brady Smith LAD A+,SP,1.0,1.0,1,1,1.0,0.291%,brady smith lad
+Henry Lalane NYY A+,SP,1.0,1.0,1,1,1.0,0.872%,henry lalane nyy
+Darell Morel PIT CPX,SS,1.0,1.0,1,1,1.0,0.291%,darell morel pit
+Cole Carlon,RP,1.0,1.0,1,1,1.0,0.581%,cole carlon
 Micah Ashman BAL AA,RP,1.0,1.0,1,1,1.0,0.291%,micah ashman bal
+Austin Hedges CLE,C,1.0,1.0,1,1,1.3,0.581%,austin hedges
+Luis Torrens NYM,C,1.0,1.0,1,1,1.1,0.291%,luis torrens
+Kade Strowd ARI AAA,RP,1.0,1.0,1,1,1.5,0.291%,kade strowd ari
+Riley Cornelio WSN,SP/RP,1.0,1.0,1,1,1.1,1.744%,riley cornelio
+Kody Funderburk MIN,RP,1.0,1.0,1,1,1.5,0.872%,kody funderburk
+Yilber Diaz DET AAA,SP/RP,1.0,1.0,1,1,1.3,0.291%,yilber diaz det
+Tyler Hardman NYY AAA,1B/3B,1.0,1.0,1,1,1.0,0.291%,tyler hardman nyy
+Billy Carlson CHW A,SS,1.0,1.0,1,1,1.0,0.291%,billy carlson chw a
+Evan Sisk PIT,RP,1.0,1.0,1,1,1.2,0.581%,evan sisk
+JD Dix ARI A+,2B,1.0,1.0,1,1,1.0,0.291%,jd dix ari
+Tim Mayza PHI,RP,1.0,1.0,1,1,1.1,0.291%,tim mayza
+Tanner Franklin STL A+,SP,1.0,1.0,1,1,1.0,2.907%,tanner franklin stl
+Kyle Higashioka TEX,C,1.0,1.0,1,1,1.0,0.291%,kyle higashioka
+Jared Triolo PIT,1B/2B/SS/3B,1.0,1.0,1,1,1.4,0.872%,jared triolo
+Luis De Leon BAL AA,SP,1.0,1.0,1,1,1.0,1.163%,luis de leon bal
+Drey Jameson ARI,RP,1.0,1.0,1,1,1.0,0.291%,drey jameson
+Joey Loperfido HOU AAA,OF,1.0,1.0,1,1,1.3,0.291%,joey loperfido hou
+Cam Sanders BAL AAA,RP,1.0,1.0,1,1,1.0,0.291%,cam sanders bal
+Taijuan Walker LAA CPX,SP/RP,1.0,1.0,1,1,2.4,0.581%,taijuan walker laa
+Ronny Simon PIT AAA,2B/OF,1.0,1.0,1,1,1.0,0.291%,ronny simon pit
+Alex McFarlane PHI AA,SP/RP,1.0,1.0,1,1,1.0,1.163%,alex mcfarlane phi
 Ji Hwan Bae NYM AAA,2B/OF,1.0,1.0,1,1,1.3,0.291%,ji hwan bae nym
-Matt Vierling DET,OF,1.0,1.0,1,1,1.2,0.291%,matt vierling
-Max Schuemann NYY,2B/SS/3B/OF,1.0,1.0,1,1,1.8,0.291%,max schuemann
-Gavin Collyer TEX,RP,1.0,1.0,1,1,1.4,0.581%,gavin collyer
+Ryan Lambert NYM AAA,RP,1.0,1.0,1,1,1.2,0.291%,ryan lambert nym
+Matt Vierling DET,OF,1.0,1.0,1,1,1.0,0.581%,matt vierling
+Tim Herrin CLE AA,RP,1.0,1.0,1,1,1.6,0.291%,tim herrin cle
+Joey Bart ATL,C,1.0,1.0,1,1,1.3,0.291%,joey bart
+Owen Ayers CHC AAA,C,1.0,1.0,1,1,1.0,1.744%,owen ayers chc
+Carter Graham CIN AA,1B/3B,1.0,1.0,1,1,1.0,0.291%,carter graham cin
+Chase Shores LAA A+,SP,1.0,1.0,1,1,1.0,0.291%,chase shores laa
+Yovanny Cruz NYY AAA,RP,1.0,1.0,1,1,1.0,0.581%,yovanny cruz nyy
+Joe Jimenez ATL,RP,1.0,1.0,1,1,1.2,0.872%,joe jimenez
+Randal Grichuk CHW,OF,1.0,1.0,1,1,1.0,2.907%,randal grichuk
+Danis Correa NYM AA,RP,1.0,1.0,1,1,1.0,0.291%,danis correa nym
+Sam Aldegheri LAA AAA,SP,1.0,1.0,1,1,1.3,0.581%,sam aldegheri laa
+John Schreiber KCR,RP,1.0,1.0,1,1,1.5,0.291%,john schreiber
+Trent Thornton CHC,RP,1.0,1.0,1,1,1.1,0.291%,trent thornton
+Caden Hunter BAL A+,SP,1.0,1.0,1,1,1.0,0.291%,caden hunter bal
+Ryan Ritter COL AAA,2B/SS,1.0,1.0,1,1,1.2,0.581%,ryan ritter col
+Alan Rangel PHI,SP/RP,1.0,1.0,1,1,1.5,0.291%,alan rangel
+Chase Harlan LAD A+,3B,1.0,1.0,1,1,1.0,0.581%,chase harlan lad
+CJ Van Eyk TOR ST,SP/RP,1.0,1.0,1,1,1.0,0.291%,cj van eyk tor
+Paul Blackburn NYY,SP/RP,1.0,1.0,1,1,1.1,0.291%,paul blackburn
+Max Kepler ARI,OF,1.0,1.0,1,1,1.2,0.581%,max kepler
+Kevin Made WSN AA,2B/SS,1.0,1.0,1,1,1.0,0.291%,kevin made wsn
+Caden Bodine TBR AA,C,1.0,1.0,1,1,1.0,0.581%,caden bodine tbr
+Tanner Banks PHI,RP,1.0,1.0,1,1,1.3,0.291%,tanner banks
+Deniel Ortiz STL AA,1B/3B,1.0,1.0,1,1,1.0,0.291%,deniel ortiz stl
+Brendan Beck NYY AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,brendan beck nyy
+Luis Rengifo SDP,2B/3B/OF,1.0,1.0,1,1,1.2,3.198%,luis rengifo
+Owen White CHW AAA,SP/RP,1.0,1.0,1,1,1.4,0.291%,owen white chw
+Ace Reese,Util,1.0,1.0,1,1,1.0,0.291%,ace reese
+Shotaro Morii ATH A,SS/SP,1.0,1.0,1,1,2.9,0.291%,shotaro morii ath a
+Francisco Renteria PHI DSL,OF,1.0,1.0,1,1,1.0,0.291%,francisco renteria phi
+Taitn Gray TBR CPX,1B,1.0,1.0,1,1,1.0,0.291%,taitn gray tbr
+Nick Fortes TBR,C,1.0,1.0,1,1,1.0,2.616%,nick fortes
+Ryan Johnson LAA,SP/RP,1.0,1.0,1,1,1.1,0.291%,ryan johnson
+PJ Poulin WSN,SP/RP,1.0,1.0,1,1,1.0,0.291%,pj poulin
+Woo-Suk Go MIN,RP,1.0,1.0,1,1,1.3,0.581%,woo suk go
+Sam Hentges SFG,RP,1.0,1.0,1,1,1.2,0.581%,sam hentges
+Clay Edmondson SDP AA,RP,1.0,1.0,1,1,1.0,0.291%,clay edmondson sdp
+Luke Murphy LAA AA,RP,1.0,1.0,1,1,1.0,0.291%,luke murphy laa
+Blake Burke MIL AA,1B,1.0,1.0,1,1,1.0,0.291%,blake burke mil
+Braxton Fulford COL,C,1.0,1.0,1,1,1.0,0.291%,braxton fulford
+Miles Mikolas WSN,SP/RP,1.0,1.0,1,1,1.4,0.581%,miles mikolas
+Ke'Bryan Hayes CIN,3B,1.0,1.0,1,1,1.5,0.291%,ke bryan hayes
+James Outman DET,OF,1.0,1.0,1,1,1.1,0.581%,james outman
+George Wolkow CHW A+,OF,1.0,1.0,1,1,1.0,0.291%,george wolkow chw
+Gavin Collyer TEX AAA,RP,1.0,1.0,1,1,1.5,0.581%,gavin collyer tex
+BJ Murray CHC AAA,1B/3B,1.0,1.0,1,1,1.0,0.291%,bj murray chc
+Jase Bowen SDP,OF,1.0,1.0,1,1,1.0,0.291%,jase bowen
+Jefry Yan NYM AAA,RP,1.0,1.0,1,1,1.0,0.872%,jefry yan nym
+Jack O'Dowd COL AA,C,1.0,1.0,1,1,1.0,0.291%,jack o dowd col
+Gage Stanifer TOR AA,SP/RP,1.0,1.0,1,1,1.14,0.581%,gage stanifer tor
+Mike Paredes MIN,SP/RP,1.0,1.0,1,1,1.0,0.291%,mike paredes
+Coleman Crow MIL AAA,SP/RP,1.0,1.0,1,1,1.3,0.291%,coleman crow mil
+Aidan Cremarosa TBR A,SP,1.0,1.0,1,1,1.0,0.291%,aidan cremarosa tbr a
+Hunter Bigge TBR AAA,RP,1.0,1.0,1,1,1.6,0.291%,hunter bigge tbr
+C.J. Culpepper MIN AAA,SP/RP,1.0,1.0,1,1,1.0,0.291%,c j culpepper min
+Zach Agnos COL,RP,1.0,1.0,1,1,1.2,0.581%,zach agnos
+Cade Marlowe LAA AAA,OF,1.0,1.0,1,1,1.9,0.291%,cade marlowe laa
+Andruw Monasterio BOS,1B/2B/SS/3B,1.0,1.0,1,1,1.1,0.581%,andruw monasterio

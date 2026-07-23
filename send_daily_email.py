@@ -1,7 +1,7 @@
 """
-Generate the Bauers Fight Club 3-day report, save an HTML preview, and EMAIL it if
-SMTP creds are set in .env (Gmail App Password). Run this on the every-3-days schedule.
-Every OTHER report (~6 days, tracked in data/cache/gm_email_state.json) it ALSO
+Generate the Bauers Fight Club 2-day report, save an HTML preview, and EMAIL it if
+SMTP creds are set in .env (Gmail App Password). Run this on the every-2-days schedule.
+Every OTHER report (~4 days, tracked in data/cache/gm_email_state.json) it ALSO
 generates a separate "Front Office Report" written in GM voice and sends it to
 GM_EMAIL_TO (Mr. Corey Arnold).
   python send_daily_email.py
@@ -109,7 +109,7 @@ print(f"Preview saved -> {preview}")
 
 # ---------- GM copy (Mr. Corey Arnold) — full report re-generated in GM voice ----------
 GM_STATE = os.path.join(HERE, "data", "cache", "gm_email_state.json")
-GM_EVERY_DAYS = 6  # every OTHER report (reports go out every 3 days)
+GM_EVERY_DAYS = 4  # every OTHER report (reports go out every 2 days)
 
 # Fallback framing if the GM-voice generation fails: standard report + cover note.
 GM_COVER = (
@@ -195,7 +195,7 @@ def send(to_addr, subject, body_html, tries=2):
 if user and pw:
     if to:
         try:
-            send(to, f"{flag}⚾ Bauers Fight Club — 3-Day Report ({dt.date.today():%b %d})", html)
+            send(to, f"{flag}⚾ Bauers Fight Club — 2-Day Report ({dt.date.today():%b %d})", html)
             print(f"✅ SENT to {to}")
         except Exception as e:
             print(f"⚠ Send failed: {e}\n   (Preview is still saved.)")
